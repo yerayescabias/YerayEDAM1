@@ -1,0 +1,188 @@
+	<html lang="en">
+	
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+		<style>
+			body{
+				background-color:#ffff66;
+			}
+			.inscrip{
+				background-color:grey;
+				text-align:center;
+				text-transform:uppercase;
+				padding-left:15px 0px 15px 0px;
+				
+				
+				
+			}
+			
+			UL{
+				list-style-type:none;
+			}
+			li{
+				display:block;
+			}
+			.H2s{
+				background-color:#c2c2a3;
+					margin-top:-25px;
+					
+				}
+			.H3s{
+				background-color:#c2c2a3;
+					
+			}
+			
+			.al{
+				style="text-align:center";
+			}
+			#buttt{
+				text-align:center;
+			}
+		</style>
+
+		
+		
+	</head>
+
+	<body>
+		<form>
+			<br/>
+			<br/>
+			<div class="container-fluid">
+						<div class=inscrip>
+						<h1> Inscripcion </h1>
+						</div >
+						<div class=H2s>
+						<h1 > Datos Personales </h1>
+						</div>
+						<div  class="row">
+							<div class="col-sm-4">
+								<label >Nombre: <input type=text></label>
+						
+								<br/>
+								<label >Calle:<input type=text></label>
+						
+								<br/>
+								<label >Provincia <select></label>
+									<option selected Value=Bizkaaia> Bizkaia
+									<option  Value=Bizkaaia> Donosti
+									<option  Value=Bizkaaia> Araba
+									<option  Value=Bizkaaia> Nafarroa
+									<option  Value=Bizkaaia> Behe-Nafarroa
+								</select>
+								<br/>
+					
+							</div>
+							<div class="col-sm-4" >
+								<label >Apellido1: <input type=text></label>
+								<br/>
+								<label >Piso <select></label>
+									<option selected Value=Bizkaaia> 1
+									<option  Value=Bizkaaia> 2
+									<option  Value=Bizkaaia> 3
+									<option  Value=Bizkaaia> 4
+									<option  Value=Bizkaaia> 5
+								</select>
+								<label >Puerta <select></label>
+									<option selected Value=Bizkaaia> A
+									<option  Value=Bizkaaia> B
+									<option  Value=Bizkaaia> C
+									<option  Value=Bizkaaia> D
+									<option  Value=Bizkaaia> E
+								</select>
+
+							</div>
+							<div class="col-sm-4" >
+								
+								<label >Apellido 2: <input type=text></label>
+					
+								<br/>
+								<label >Municipio:<input type=text></label>
+							</div>
+						</DIV>
+							<div  >
+							<h1 class=H3s > Datos academicos </h1>
+						<div  class="row">
+							
+							<div  class="col-sm-4" >
+								<label> Cursos realizados:</label>
+								<ul>
+									<li><label ><input type="radio" name="batc">DBH</label></li>
+									<li><label ><input type="radio" name="batc">Bachillerato</label></li>
+								</ul>
+							</div>
+							<div class="col-sm-4"  >
+								<label> Idioma:</label>
+								<ul>
+									<li><label ><input type="radio" name="bat">Euskera</label></li>
+									<li><label ><input type="radio" name="bat">Castellano</label></li>
+								</ul>
+							</div>
+							<div class="col-sm-4" >
+								<label> Conocimiento:</label>
+								<ul>
+									<li><label ><input type="checkbox" >Informatica</label></li>
+									<li><label ><input type="checkbox">Aleman</label></li>
+									<li><label ><input type="checkbox">Ingles</label></li>
+									<li><label ><input type="checkbox">Frances</label></Li>
+								</ul>
+							</div>
+						</DIV>
+							<div  >
+								<h1 class=H3s > Datos Curso </h1>
+								<div  class="row">
+							
+								<div  class="col-sm-3" >
+								<label> Grado:</label>
+								<br/>
+								<select>
+									<option selected Value=Batxi> Bachillerato
+									<option  Value=Batxi> DBH
+									<option  Value=Batxi> Universidad
+								</select>
+								</div>
+				
+								<div class="col-sm-3" >
+								<label> Curso</label>
+								<ul>
+									<li><label ><input type="radio" name="ba">1</label></li>
+									<li><label ><input type="radio" name="ba">2</label></li>
+									<li><label ><input type="radio" name="ba">3</label></li>
+									<li><label ><input type="radio" name="ba">4</label></li>
+								</ul>
+								</div>
+				
+								<div  class="col-sm-3" >
+									<label> Idioma:</label>
+									<ul>
+									<li><label ><input type="radio" name="b">Euskera</label></li>
+									<li><label ><input type="radio" name="b">Castellano</label></li>
+									</ul>
+								</div>
+				
+								<div class="col-sm-3" >
+									<p style="text-align:left"><label > Servicios</label></p>
+									<ul>
+									<li><label ><input type="checkbox">Comedor</label></li>
+									<li><label ><input type="checkbox">Autobus</label></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						</DIV>
+								<Br/>
+								<Br/>
+			
+								<p id=buttt><br ><button type="submit">Bidali</button><Button type="reset"> Borratu</button></br></p>
+			</div>			
+		</form>
+	
+	</body>
+</html>

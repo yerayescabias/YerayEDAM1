@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="15.liburutegia.xsl"?>
+<liburutegia>
+    <liburua>
+        <izenburua>El señor de los anillos</izenburua>
+        <idazlea> J. R. R. Tolkien</idazlea>
+        <editoriala>anaya</editoriala>
+        <isbn>15747895</isbn>
+        <orriak>1234</orriak>
+    </liburua>
+    <liburua>
+        <izenburua> La caída de los gigantes</izenburua>
+        <idazlea>Ken Follett</idazlea>
+        <editoriala> PLAZA -JANES</editoriala>
+            <isbn>15745478</isbn>
+            <orriak>987</orriak>
+		
+    </liburua>
+	<liburua>
+        <izenburua> Un mundo sin fin</izenburua>
+        <idazlea>Ken Follett</idazlea>
+        <editoriala> PLAZA -JANES</editoriala>
+            <isbn>98765434</isbn>
+            <orriak>789</orriak>
+		
+    </liburua>
+	<liburua>
+        <izenburua> Los pilares de la Tierra</izenburua>
+        <idazlea>Ken Follett</idazlea>
+        <editoriala> PLAZA -JANES</editoriala>
+            <isbn>32436290</isbn>
+            <orriak>682</orriak>
+		
+    </liburua>
+	<liburua>
+        <izenburua> La verdad</izenburua>
+        <idazlea>Arturo Perez Reverte</idazlea>
+        <editoriala> PLAZA -JANES</editoriala>
+            <isbn>32433240</isbn>
+            <orriak>400</orriak>
+		
+    </liburua>
+	<liburua>
+        <izenburua> Los juegos del hambre</izenburua>
+        <idazlea>Suzanne Collins</idazlea>
+        <editoriala> PLAZA -JANES</editoriala>
+            <isbn>98764532</isbn>
+            <orriak>1100</orriak>
+		
+    </liburua>
+</liburutegia>
