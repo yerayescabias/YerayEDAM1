@@ -1,0 +1,357 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Phonekaypad",
+            "request": "launch",
+            "mainClass": "string.Phonekaypad",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "PrintArray",
+            "request": "launch",
+            "mainClass": "arrays.PrintArray",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "string.ReverseString",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "PrintArrayInStars",
+            "request": "launch",
+            "mainClass": "arrays.PrintArrayInStars",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "Eight",
+            "request": "launch",
+            "mainClass": "methods.Eight",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "OddorEven",
+            "request": "launch",
+            "mainClass": "methods.OddorEven",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "Exponent",
+            "request": "launch",
+            "mainClass": "methods.Exponent",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "pruba",
+            "request": "launch",
+            "mainClass": "pruba",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "Dec2Hex",
+            "request": "launch",
+            "mainClass": "arrays.Dec2Hex",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "Hex2Bin",
+            "request": "launch",
+            "mainClass": "arrays.Hex2Bin",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "GradesStatistics",
+            "request": "launch",
+            "mainClass": "GradesStatistics",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "PrintArrayInStars",
+            "request": "launch",
+            "mainClass": "PrintArrayInStars",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "PrintArray",
+            "request": "launch",
+            "mainClass": "PrintArray",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "CountVowelsDigits",
+            "request": "launch",
+            "mainClass": "CountVowelsDigits",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "TriangularPatternX42",
+            "request": "launch",
+            "mainClass": "TriangularPatternX42",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "TriangularPatternX4",
+            "request": "launch",
+            "mainClass": "TriangularPatternX4",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "TriangularPatternX3",
+            "request": "launch",
+            "mainClass": "TriangularPatternX3",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "TriangularPatternX2",
+            "request": "launch",
+            "mainClass": "TriangularPatternX2",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "TriangularPatternX",
+            "request": "launch",
+            "mainClass": "TriangularPatternX",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "Timetable",
+            "request": "launch",
+            "mainClass": "Timetable",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "CheckerPattern",
+            "request": "launch",
+            "mainClass": "CheckerPattern",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "SquarePatternDoWhile",
+            "request": "launch",
+            "mainClass": "SquarePatternDoWhile",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "SquarePattern",
+            "request": "launch",
+            "mainClass": "SquarePattern",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "AverageWithInputValidationcopy",
+            "request": "launch",
+            "mainClass": "AverageWithInputValidationcopy",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "AverageWithInputValidation",
+            "request": "launch",
+            "mainClass": "AverageWithInputValidation",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "AverageWithInputValidation",
+            "request": "launch",
+            "mainClass": "AverageWithInputValidation",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitsInt",
+            "request": "launch",
+            "mainClass": "SumOfDigitsInt",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "InputValidation",
+            "request": "launch",
+            "mainClass": "InputValidation",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "ReverseInt",
+            "request": "launch",
+            "mainClass": "ReverseInt",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "Swap2Integers",
+            "request": "launch",
+            "mainClass": "Swap2Integers",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "SphereComputation",
+            "request": "launch",
+            "mainClass": "SphereComputation",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "SumProductMinMax3",
+            "request": "launch",
+            "mainClass": "SumProductMinMax3",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "Add2Integers",
+            "request": "launch",
+            "mainClass": "Add2Integers",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "ExtractDigits",
+            "request": "launch",
+            "mainClass": "ExtractDigits",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "HarmonicSum",
+            "request": "launch",
+            "mainClass": "HarmonicSum",
+            "projectName": "3-Java Exercise_3887b42c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "CheckOddEven",
+            "request": "launch",
+            "mainClass": "CheckOddEven",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "CheckPassFail",
+            "request": "launch",
+            "mainClass": "CheckPassFail",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "HarmonicSum",
+            "request": "launch",
+            "mainClass": "HarmonicSum",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "PrintDayInWord",
+            "request": "launch",
+            "mainClass": "PrintDayInWord",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "PrintDayInWord1",
+            "request": "launch",
+            "mainClass": "PrintDayInWord1",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "PrintNumberInWord",
+            "request": "launch",
+            "mainClass": "PrintNumberInWord",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "Product1ToN",
+            "request": "launch",
+            "mainClass": "Product1ToN",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "SumAverageRunningInt",
+            "request": "launch",
+            "mainClass": "SumAverageRunningInt",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "SumAverageRunningInt2",
+            "request": "launch",
+            "mainClass": "SumAverageRunningInt2",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "SumAverageRunningInt3",
+            "request": "launch",
+            "mainClass": "SumAverageRunningInt3",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "SumAverageRunningInt4",
+            "request": "launch",
+            "mainClass": "SumAverageRunningInt4",
+            "projectName": "3-Java Exercise_d32876ad"
+        },
+        {
+            "type": "java",
+            "name": "SumAverageRunningInt6",
+            "request": "launch",
+            "mainClass": "SumAverageRunningInt6",
+            "projectName": "3-Java Exercise_d32876ad"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ThreeFiveSevenSum",
+            "request": "launch",
+            "mainClass": "ThreeFiveSevenSum",
+            "projectName": "1-introduction_4ee08806"
+        },
+        {
+            "type": "java",
+            "name": "PrintLeapYears",
+            "request": "launch",
+            "mainClass": "PrintLeapYears",
+            "projectName": "1-introduction_4ee08806"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "1-introduction_11ccf165"
+        },
+        {
+            "type": "java",
+            "name": "CircleComputation",
+            "request": "launch",
+            "mainClass": "CircleComputation",
+            "projectName": "1-introduction_11ccf165"
+        },
+        {
+            "type": "java",
+            "name": "CylinderComputation",
+            "request": "launch",
+            "mainClass": "CylinderComputation",
+            "projectName": "1-introduction_11ccf165"
+        },
+        {
+            "type": "java",
+            "name": "FiveIntegerSum",
+            "request": "launch",
+            "mainClass": "FiveIntegerSum",
+            "projectName": "1-introduction_11ccf165"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "1-introduction_11ccf165"
+        },
+        {
+            "type": "java",
+            "name": "OddEvenSum",
+            "request": "launch",
+            "mainClass": "OddEvenSum",
+            "projectName": "1-introduction_11ccf165"
+        },
+        {
+            "type": "java",
+            "name": "Printest",
+            "request": "launch",
+            "mainClass": "Printest",
+            "projectName": "1-introduction_11ccf165"
+        },
+        {
+            "type": "java",
+            "name": "RectangleComputation",
+            "request": "launch",
+            "mainClass": "RectangleComputation",
+            "projectName": "1-introduction_11ccf165"
+        },
+        {
+            "type": "java",
+            "name": "ThreeFiveSevenSum",
+            "request": "launch",
+            "mainClass": "ThreeFiveSevenSum",
+            "projectName": "1-introduction_11ccf165"
+        },
+        {
+            "type": "java",
+            "name": "ThreeFiveSevenSumondo",
+            "request": "launch",
+            "mainClass": "ThreeFiveSevenSumondo",
+            "projectName": "1-introduction_11ccf165"
+        }
+    ]
+}
