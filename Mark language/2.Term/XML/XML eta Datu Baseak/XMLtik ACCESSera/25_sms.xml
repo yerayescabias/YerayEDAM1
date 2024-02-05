@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE  SMS_DDBB  SYSTEM  "4_sms.dtd">
+<SMS_DDBB>
+    <sms>
+        <telefonoa_bidali> 955556677</telefonoa_bidali>
+        <fecha>1/6/2011</fecha>
+        <hora>23:16</hora>
+        <mezua>kaixo lagun. Gelditzen gara tabernan gaueko 12:00etan?</mezua>
+        <telefonoa_hartzailea>66677788</telefonoa_hartzailea>
+    </sms>
+    <sms>
+        <telefonoa_bidali> 955556677</telefonoa_bidali>
+        <fecha>1/6/2011</fecha>
+        <hora>23:59</hora>
+        <mezua>Non zagoz?</mezua>
+        <telefonoa_hartzailea>66677788</telefonoa_hartzailea>
+    </sms>
+</SMS_DDBB>

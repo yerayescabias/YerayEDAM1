@@ -1,0 +1,308 @@
+<html lang="en">
+
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+	<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<style>
+	/*IMPORTANTISIMO VUESTRAS PARTES HACERLAS CON BOOSTRAP AUNQ ESTA NO ESTE ECHA CON ESO*/
+	/*IR JUGANDO CON LOS MARGIN Y PADDING PARA Q QUEDE ESTRUCUTURADO DESPUES SUBIRLAS A DRIVE LOS ARCHIVOS DESDE LA CARPETA 1.ERRONKA(NOMBRE)*/
+	/*Desde el header language hasta imajinak es toda la nav y la plantilla principal*/
+	/*Tema links respetar y meter las imagenes en la carpeta argazkiak de 1.erronka la href o src tiene q ser esta:..\..\1.erronka\Programas (o Argazkiak). Si no el programa no va a funcionar bien*/
+	body{
+		width: 1336px;
+		height: 768px;
+		font-family: serif;
+	}
+	.headerLanguage{
+		text-align:right;
+		margin:0.9375em -1em 0em 0.9375em;
+		font-size:1em;
+		}
+	header a:hover{
+		text-decoration: none;
+		color:#17202A;
+	}
+	header a{
+		text-decoration: none;
+		color:#17202A;
+		font-weight:bold ;
+	}
+	.Ondoeginada{
+			position: absolute;
+			top: 150px;
+			left: 200px;
+			}
+	ul {
+		   list-style-type: none;
+		   margin: 0;
+		   padding: 0;
+		   overflow: hidden;
+		   background-color: #760101;
+		   
+		}
+
+	li {
+		   float: left;
+		}
+
+	li a {
+		   display: block;
+		   color: white;
+		   text-align: center;
+		   padding: 14px 16px;
+		   text-decoration: none;
+		}
+
+	li a:hover {
+		   background-color: #4E0000;
+		   color:white;
+		   text-decoration:none;
+		   
+		}
+	nav div{
+		float:left;
+	}
+	.diviso{
+		margin-top:34px;
+		margin-left:-38px;
+		width:1040px;
+		
+	}
+	.imajinak {
+		margin-top:-40px;
+	}
+	
+	/*Apartir de aqui esta parte y el estilo ya son de la primera pagina y no necesitais copiarlo hacerlo con divs*/
+	.aarticle{
+		background-color:#760101;
+		margin-top:85px;
+		margin-left:50px ;	
+		margin-right:40px;
+		padding: 0px 80px 0px 80px;
+		display:in-block;
+		
+		
+		}
+	.Anotherone{
+		background-color:white;
+		margin-right:10px ;	
+		margin-left:680px;
+		margin-top:-245px;
+		
+		}
+		
+	.Color{
+		color:#FFE9ED;
+		margin-left:10px;
+		margin-right:10px;
+		padding-bottom:10px;
+		margin-top:-10px;
+		line-height:1.6;
+		}
+	.TITLEE{
+		text-align:center;
+		color:#FFE9ED;
+		text-transform:Uppercase;
+		padding-top:15px;
+		font-size:25px;
+		}
+	.Location{
+		background-color:#99A3A4;
+		margin-top: -20px;
+		margin-left:20px;
+		margin-bottom:40px;
+		height:285px;
+		padding: 15px 50px 0.5px 40px;
+		width:47%;
+		float:left;
+		}
+	.Contact{
+		background-color:#99A3A4;
+		margin-top: 50px;
+		margin-left:20px;
+		margin-bottom:15px;
+		height:285px;
+		padding: 15px 15px 0.5px 40px;
+		width:47%;
+		float:left;
+	}
+	.Booking{
+		background-color:#99A3A4;
+		margin-top:-20px;
+		margin-left:40px ;	
+		margin-left:50px ;	
+		margin-bottom: 15px;
+		padding: 15px 15px 15px 15px;
+		width:45%;
+		height:590px;
+		float:left;
+		
+		}
+	.TU{
+		text-align:center;
+		color:#760101;
+		text-transform:Uppercase;
+		margin-top:5px;
+		font-size:25px;
+		}
+	.Mapsa{
+		
+		border:0;
+		margin-left:15px;
+		margin-top:16px;
+		
+		}
+		
+	.Colorred {
+		color:#760101;
+		margin-left:25px;
+		margin-right:25px;
+		padding-bottom:15px;
+	
+	}
+	footer {
+		background-color:#616A6B;
+		clear:both;
+	}
+	.COntactsu{
+		text-align:center;
+		color:#FFE9ED;
+		text-transform:Uppercase;
+		padding-top:15px;
+		font-size:25px;
+		text-decoration-line: underline;
+		margin-top:15px;
+		
+	}
+	.columnas{
+		float:left;
+		width:50%;
+		background-color:#616A6B;
+		margin-top:-10px;
+		padding-bottom:30px;
+	}
+	
+	</style>
+		<title>
+		MEBZ DIY GARAGE
+		</title>
+	</head>
+	
+	<body>
+		
+		<header>
+			<p id="Arriba_de_la_pagina"></p>
+			<div style="margin-right:40px" >
+				<H4 class="headerLanguage"> <span><a href="..\..\WEB PAGE\Programas\Contact_us_page_ES.html" >ES </a> </span>|</span><a href="..\..\WEB PAGE\Programas\Contact_us_page_EU.html">EU</a> <span>|<span><a href="..\..\WEB PAGE\Programas\Contact_us_page_EN.html">EN</a> </span> </h4>
+			</div>
+		</header>
+		<section>
+			<nav>
+				<div class="imajinak">
+					<img src="..\..\WEB PAGE\argazkiak\JMPB.png" width="140" height="140">
+					<img src="..\..\WEB PAGE\argazkiak\ONdoeginda.png" height="145" width="200" style="margin-left:-50px"  >
+				</div>
+				<div class="diviso">
+					<ul>
+						<li >
+						<a href="..\..\WEB PAGE\Programas\Home_page_EU.html" title="Hasiera"  name="pages"> Hasiera </a>
+						</li>
+						<li>
+						<a href="..\..\WEB PAGE\Programas\Facilities_Eu.html" title="Zerbitzuak "  name="pages"> Zerbitzuak</a>
+						</li>
+						<li>
+						<a href="..\..\WEB PAGE\Programas\pricee_eu.html" title="Prezioak"  name="pages"> Prezioak </a>
+						</li>
+						<li>
+						<a href="..\..\WEB PAGE\Programas\Booking_Eu.html" title="Erreserbak"  name="pages"> Erreserbak </a>
+						</li>
+						<li>
+						<a href="..\..\WEB PAGE\Programas\Contact_us_page_EU.html" title="Kontaktatu"  name="pages"> Kontaktatu </a>
+						</li>
+						
+					</ul>
+				</div>
+			</nav>
+			<!--en cuanto a contenido copiar la parte principal la de header y el nav son lo unico importante y creado como plantilla -->
+			<!--AQUI ESTO EN CADA PAGINA ES DISTINTO--> 
+			<br>
+			<article>
+				<div class="aarticle" >
+					<p class="TITLEE">Guri buruz</p>
+					<br>
+					<p class="color" style="line-height:1.35"> Euskal Herrian jaiotako konpainia txiki bat gara. Do It Yourself (egin zure kontuz) motatakoa. 2016an hasi ginen eta 2018an lehengo kabinak lortu genituen. Gaur egun, handitze prozesu baten aurrean gaude, egunero hazten.</p>
+					<p class="color" style="line-height:1.35"> Hemen aurkitu ahalko duzu kabina, erreminta eta zerbitzu hoberenak zure ibilgailuak hobetu eta konpontzeko. Zalantzarik izanez gero, mekaniko lantalde bikaina dugu zuri langutzeko prest!</p>
+					<p class="color" style="line-height:1.35">Gure instalazioak, zure bisita esperientzia baikaina eta erosoa egiteko prest daude. Hainbat eraikin ditugu: Ofizinak, Kabina txikiak eta Kabina handiak.</p>
+					<p class="color" style="line-height:1.35">Kabina txikiak:</p>
+					<p class="color" style="line-height:1.35;margin-top:-28px">Kabina hauek ibilgailu txiki eta ertainentzako pentsatuta daude. Motoak eta autoak konpontzeko bikainak dira!</p>
+					<p class="color" style="line-height:1.35">Kabina handiak:</p>
+					<p class="color" style="line-height:1.35;margin-top:-28px;padding-bottom:30px">Hauek ibilgailu handientzako egokituak daude, kamioiak eta autokarabanak adibidez.</p>
+
+				</div>
+				<br>
+				
+					<div class="Booking">
+					<p style="text-align:center;color:#760101;text-transform:Uppercase;margin-top:5px;font-size:25px;">Kontaktatu gurekin<p>
+					<p style="padding-left:10px; padding-right:15px">Bete hutsune hauek gurekin harremanetan jartzeko. Berehala jarriko gara zurekin kontaktuan!<p>
+					<p style="margin-left:265px; margin-top:-9px"> </p>
+					<form>
+						<fieldset>
+						<p style= "padding-left: 20px;margin-top:15px;"> Izena: </p>
+							<input type="text" style="padding-top: 5px;padding-left: 5px;margin-left:25px;margin-top:-15px;">
+						
+						<p style= "padding-left: 20px;margin-top:15px;"> Posta elektronikoa: </p>
+							<input type="text" style="padding-top: 5px;padding-left: 5px;margin-left:25px;margin-top:-15px;width:300px;">
+							
+						<p style= "padding-left: 20px;margin-top:15px;"> Gaia: </p>
+							<input type="text" style="padding-top: 5px;padding-left: 5px;margin-left:25px;margin-top:-15px;width:500px;">
+							
+						<p style= "padding-left: 20px;margin-top:15px;"> Mezua: </p>
+							<textarea id="message" name="message" style="width: 500px; height: 120px;margin-left:25px;margin-top:-15px;"></textarea>
+							
+						<p style="text-align:center;margin-top:15px;margin-bottom: -10px">	
+						<button type="submit"> Bidali </button>
+						<button type="reset"> Ezabatu </button>
+						</p>
+						</fieldset>
+					</form>
+					<p style="padding-left:10px; padding-right:15px; text-align: center">Eskerrik asko!<p>
+					</div>
+					
+					<div class="Location">
+					<p class="TU">Kokapena<p>
+					<p style="text-align:center">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2466.0710976889495!2d-2.5326407458943474!3d43.182592751491775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4e2b79c8687939%3A0x80c9ac031120197f!2sLugar%20Barrio%20Areitio%2C%2014B%2C%2048269%2C%20Vizcaya!5e1!3m2!1ses!2ses!4v1699004570519!5m2!1ses!2ses" style="margin-top:-10px" width="500" height="200" class="Mapsa"></iframe>
+					</p>
+					</div>
+					
+				<div class="Location">
+						<p class="TU">Kontaktua</p>
+						<hr style="width: 90%; color: #760101; background-color: #760101; height: 0.75px;"></hr>
+					<div class="col-sm-6" style="float: left;">
+						<p style="text-align: center; color: black; text-transform: uppercase; padding-top: 15px; font-size: 18px">Posta elektronikoa</p>
+						<p style="text-align: center; color: black; padding-top: 15px; padding-bottom: 35px;"><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGwHVVFqrKjpTWrHfjwvqDRBTlc?compose=new" target="_blank" title="Gmail" style="text-decoration:none; Color:black">MEBZ@DIY_Garage.com </a></p>
+					</div>
+					
+					<div class="col-sm-6" style="float: left;">
+						<p style="color: black; padding-left: 20px; float:left"> @MEBZ_DIYGarage <a href="https://www.instagram.com/" title="MEBZ_DIYGarage" target="_blank" name="pages"><img src="..\..\WEB PAGE\argazkiak\insta.png" width="25" height="25" style="display: inline; margin-left: 25px"></a></p>
+						<p style="color: black; padding-left: 20px">@MEBZGarage <a href="https://www.facebook.com/?locale=es_ES" title="@@MEBZ_Garage" target="_blank" name="@MEBZGarage"><img src="..\..\WEB PAGE\argazkiak\Fcae.png" width="25" height="25" style="display: inline; margin-left: 60px;"></a></p>
+						<p style="color: black; padding-left: 20px">@MEBZ_Garage <a href="https://twitter.com/?lang=es" title="@MEBZ_Garage" target="_blank" name="pages"><img src="..\..\WEB PAGE\argazkiak\X.png" width="25" height="25" style="display: inline; margin-left: 52px; margin-top: 5px;"></a></p>
+					</div>
+				</div>
+
+			</article>
+			<footer style="margin-left:50px;margin-right:50px">
+				<p style="text-align:right; padding-bottom:5px;padding-top:5px; padding-right: 5px;"><a href=#Arriba_de_la_pagina><img src="..\..\WEB PAGE\argazkiak\arriba.png" width="50" height="50"></a></p>
+			</footer>
+		</section>
+	
+	
+	
+	</body>
+</html>

@@ -1,0 +1,209 @@
+<html>
+<head>
+    <title>Exercise9</title>
+    <style>
+        .insc {
+            text-align: center;
+            background-color: grey;
+        }
+        .datos {
+            background-color: #D4D6D2;
+        }
+        .apu {
+            margin-left: 80px;
+        }
+        .apd {
+            margin-left: 130px;
+        }
+        .piso {
+            margin-left: 80px;
+        }
+        .puerta {
+            margin-left: 80px;
+        }
+        .municipio {
+            margin-left: 178px;
+        }
+		.hombre{
+		margin-left:280px;
+		}
+		.bachi{
+		margin-left:100px;
+		}
+		.dbh{
+		margin-left:100px;
+		}
+        .infor{
+		margin-left:272px;
+		}
+		.euskera{
+		margin-left:280px;
+		}
+		.aleman{
+		margin-left:260px;
+		}
+		.castellano{
+		margin-left:320px;
+		}
+		.ingles{
+		margin-left:830px;
+		}
+		.frances{
+		margin-left:830px;
+		}
+		.uno{
+		margin-left:84px;
+		}
+		.dos{
+		margin-left:180px;
+		}
+		.tres{
+		margin-left:180px;
+		}
+		.cuatro{
+		margin-left:180px;
+		}
+		.euskera2{
+		margin-left:150px;
+		}
+		.castellano2{
+		margin-left:150px;
+		}
+		.comedor{
+		margin-left:300px;
+		}
+		.autobus{
+		margin-left:285px;
+		}
+		.enviar{
+		margin-left:220px;
+		}
+		.borrar{
+		margin-left:480px;
+		}
+    </style>
+</head>
+<body style="background-color: #FFF77D;">
+    <h1 class="insc">INSCRIPCIÓN</h1>
+	
+    <h2 class="datos">Datos personales</h2>
+	
+    <form name="formulario">
+	
+        <label for="nombre">Nombre:</label>
+        <input type="text" name="nombre">
+		
+        <label class="apu" for="apellido1">Apellido 1:</label>
+        <input type="text" name="apellido1">
+		
+        <label class="apd" for="apellido2">Apellido 2:</label>
+        <input type="text" name="apellido2">
+		
+        <label for="calle">Calle:</label>
+        <input type="text" name="calle">
+		
+        <label class="piso" for="piso">Piso:</label>
+        <select name="piso">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select>
+		
+        <label class="puerta" for="puerta">Puerta:</label>
+        <select name="puerta">
+            <option value="a">A</option>
+            <option value="b">B</option>
+        </select>
+		
+        <label class="municipio" for="municipio">Municipio:</label>
+        <input type="text" name="municipio">
+		
+		<label class="provincia" for="puerta">Provincia:</label>
+		<select name="provincia">
+            <option value="a">Araba</option>
+            <option value="b">Bizkaia</option>
+			<option value="g">Gipuzkoa</option>
+        </select>
+		
+		<label class="hombre" for="hombre">Sexo:</label>
+        <input type="radio" name="sexo" value="DBH">Hombre
+		
+		<label class="mujer" for="mujer"></label>
+        <input type="radio" name="sexo" value="DBH">Mujer
+    
+		<h2 class="datos">Datos académicos</h2>
+		Cursos realizados &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Idioma &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conocimiento
+		<p>
+			<label class="bachi" for="cursos"></label>
+			<input type="radio" name="cursos" value="Bachillerato" checked>Bachillerato
+			
+			<label class="euskera" for="idioma"></label>
+			<input type="radio" name="idioma" value="euskera">Euskera
+			
+			<label class="infor" for="conocimiento"></label>
+			<input type="checkbox" name="conocimiento" value="Informática">Informática
+		</p>
+		<p>
+			<label class="DBH" for="cursos"></label>
+			<input type="radio" name="cursos" value="DBH">DBH
+			
+			<label class="castellano" for="idioma"></label>
+			<input type="radio" name="idioma" value="castellano">Castellano
+			
+			<label class="aleman"for="conocimiento"></label>
+			<input type="checkbox" name="conocimiento" value="Alemán">Alemán
+		</p>
+		<p>
+			<label class="ingles" for="conocimiento"></label>
+			<input type="checkbox" name="conocimiento" value="Inglés">Inglés
+		</p>
+		<p>
+			<label class="frances" for="conocimiento"></label>
+			<input type="checkbox" name="conocimiento" value="Francés">Francés
+		</p>
+		
+		<h2 class="datos">Datos curso</h2>
+		Grado &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Idioma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicios
+		<p>
+			<select name="provincia">
+            <option value="bachillerato">Bachillerato</option>
+            <option value="fp">Fp</option>
+			
+			</select>
+			
+			<label class="uno" for="curso"></label>
+			<input type="radio" name="curso" value="curso" checked>1
+			
+			<label class="euskera2" for="idioma"></label>
+			<input type="radio" name="idioma2" value="euskera">Euskera
+			
+			<label class="comedor"for="servicios"></label>
+			<input type="checkbox" name="servicios" value="comedor">Comedor
+		</p>
+		<p>
+			<label class="dos" for="curso"></label>
+			<input type="radio" name="curso" value="curso" checked>2
+			
+			<label class="castellano2" for="idioma"></label>
+			<input type="radio" name="idioma2" value="castellano">Castellano
+			
+			<label class="autobus"for="servicios"></label>
+			<input type="checkbox" name="servicios" value="autobus">Autobús
+		</p>
+		<p>
+			<label class="tres" for="curso"></label>
+			<input type="radio" name="curso" value="curso" checked>3</br>
+		</p>
+		<p>
+			<label class="cuatro" for="curso"></label>
+			<input type="radio" name="curso" value="curso" checked>4</br>
+		</p>
+		
+			<input class="enviar" type="submit" name="Enviar" value="Enviar">
+			<input class="borrar" type="submit" name="Borrar" value="Borrar">
+		
+		
+	</form>
+</body>
+</html>

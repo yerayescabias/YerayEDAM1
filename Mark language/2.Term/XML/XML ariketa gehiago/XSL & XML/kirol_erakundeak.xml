@@ -1,0 +1,4536 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="16.ariketa.xsl"?>
+<rows num="234">
+	<row num="1">
+		<idregistro>AD0006038</idregistro>
+		<fecharegistro>2015-03-11</fecharegistro>
+		<identidad>6869</identidad>
+		<nombre>XAKIBAZI EMAKUMEEN XAKE ELKARTEA</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AJEDREZ</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>OKENDO ,9</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20004</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>609134008</telefono>
+		<email>marixum@gmail.com</email>
+	</row>
+	<row num="2">
+		<idregistro>AD0006981</idregistro>
+		<fecharegistro>2020-09-18</fecharegistro>
+		<identidad>8090</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA HONDARRIBIKO NABIGATZAILEAK</nombre>
+		<anoconstitucion>2020</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>VELA</modalidadprincipal>
+		<latwgs84>43.3713849</latwgs84>
+		<lonwgs84>-1.7977084</lonwgs84>
+		<direccion>DONOSTIA,35,PD1.,DC</direccion>
+		<municipio>HONDARRIBIA</municipio>
+		<codmunicipio>36</codmunicipio>
+		<codigopostal>20280</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>618323963</telefono>
+		<email>hnabigatzaileak@gmail.com</email>
+	</row>
+	<row num="3">
+		<idregistro>AD0000433</idregistro>
+		<fecharegistro>1995-12-22</fecharegistro>
+		<identidad>5478</identidad>
+		<nombre>A.D. CAZA-PESCA LORA-BARRI</nombre>
+		<anoconstitucion>1995</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<otramodalidad>PESCA</otramodalidad>
+		<latwgs84>43.3168035</latwgs84>
+		<lonwgs84>-3.0218912</lonwgs84>
+		<direccion>SAN PEDRO,11-13</direccion>
+		<municipio>PORTUGALETE</municipio>
+		<codmunicipio>78</codmunicipio>
+		<codigopostal>48920</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944620591</telefono>
+		<email>lorabarri@euskalnet.net</email>
+	</row>
+	<row num="4">
+		<idregistro>AD0000742</idregistro>
+		<fecharegistro>1999-11-08</fecharegistro>
+		<identidad>5535</identidad>
+		<nombre>A.D.DE DEPORTES PARA MINUSVALIDOS FUNDACION SAIATU</nombre>
+		<anoconstitucion>1999</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>DEPORTE ADAPTADO</modalidadprincipal>
+		<otramodalidad>ATLETISMO,VELA,TENIS DE MESA,TENIS,NATACIÓN,DEPORTES DE INVIERNO,CICLISMO,BALONCESTO,BADMINTON</otramodalidad>
+		<latwgs84>43.2714076</latwgs84>
+		<lonwgs84>-2.9428805</lonwgs84>
+		<direccion>LEHENDAKARI AGIRRE,5</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48009</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944766200</telefono>
+		<email>saiatu@sarenet.es</email>
+	</row>
+	<row num="5">
+		<idregistro>AD0000781</idregistro>
+		<fecharegistro>2002-10-22</fecharegistro>
+		<identidad>5576</identidad>
+		<nombre>AGRUPACION DE ESPELEOLOGIA FELIX UGARTE ELKARTEA</nombre>
+		<anoconstitucion>2002</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<otramodalidad>MONTAÑA</otramodalidad>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>LATSUNBE,44</direccion>
+		<municipio>HERNANI</municipio>
+		<codmunicipio>40</codmunicipio>
+		<codigopostal>20120</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943638176</telefono>
+		<fax>943900489</fax>
+		<email>info@felixugarte.org</email>
+	</row>
+	<row num="6">
+		<idregistro>AD0000820</idregistro>
+		<fecharegistro>2006-10-03</fecharegistro>
+		<identidad>5616</identidad>
+		<nombre>ETORKIZUN ALEA FUTBOL GASTEIZ KIROL ELKARTEA</nombre>
+		<anoconstitucion>2006</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BALONCESTO</otramodalidad>
+		<latwgs84>42.86068</latwgs84>
+		<lonwgs84>-2.687916</lonwgs84>
+		<direccion>DONOSTIA-SAN SEBASTIAN,3,IES MENDEBALDEA</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01010</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945249092</telefono>
+		<fax>658757925</fax>
+		<email>praisko10@gmail.com</email>
+	</row>
+	<row num="7">
+		<idregistro>AD0000835</idregistro>
+		<fecharegistro>2008-03-06</fecharegistro>
+		<identidad>5630</identidad>
+		<nombre>A. D. ATLETISMO EL CAMPILLO</nombre>
+		<anoconstitucion>2008</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>ATLETISMO</modalidadprincipal>
+		<otramodalidad>AJEDREZ,PELOTA VASCA</otramodalidad>
+		<latwgs84>42.8496789</latwgs84>
+		<lonwgs84>-2.6715425</lonwgs84>
+		<direccion>CUCHILLERIA,61,BAJO</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01001</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945268052</telefono>
+		<email>barrenkale@gmail.com</email>
+	</row>
+	<row num="8">
+		<idregistro>AD0000849</idregistro>
+		<fecharegistro>2008-12-02</fecharegistro>
+		<identidad>5638</identidad>
+		<nombre>AGRUPACION DEPORTIVA ATLETISMO SOCIEDAD RECREATIVA ZUMEATARRA DE ANDOAIN</nombre>
+		<anoconstitucion>2008</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>ATLETISMO</modalidadprincipal>
+		<otramodalidad>TRIATLON</otramodalidad>
+		<latwgs84>43.2128883</latwgs84>
+		<lonwgs84>-2.0223834</lonwgs84>
+		<direccion>BELABI,1,BAJO</direccion>
+		<municipio>ANDOAIN</municipio>
+		<codmunicipio>9</codmunicipio>
+		<codigopostal>20140</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>646247706</telefono>
+		<email>zumeatarra@yahoo.es</email>
+	</row>
+	<row num="9">
+		<idregistro>AD0005648</idregistro>
+		<fecharegistro>2013-11-26</fecharegistro>
+		<identidad>6309</identidad>
+		<nombre>AGRUPACION DEPORTIVA PADEL&amp;amp;GOL SANTURTZI</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PADEL</modalidadprincipal>
+		<otramodalidad>FÚTBOL</otramodalidad>
+		<latwgs84>43.3203756</latwgs84>
+		<lonwgs84>-3.0493891</lonwgs84>
+		<direccion>POLIGONO EL ARBOL,4</direccion>
+		<municipio>SANTURTZI</municipio>
+		<codmunicipio>82</codmunicipio>
+		<codigopostal>48980</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>946470811</telefono>
+		<email>eloy@padelandgol.com</email>
+	</row>
+	<row num="10">
+		<idregistro>AD0000856</idregistro>
+		<fecharegistro>2009-05-04</fecharegistro>
+		<identidad>5644</identidad>
+		<nombre>A. D. SAGAIN MENDI TALDEA ASTEASU</nombre>
+		<anoconstitucion>2009</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<otramodalidad>DEPORTES DE INVIERNO</otramodalidad>
+		<latwgs84>43.2764976</latwgs84>
+		<lonwgs84>-2.1275053</lonwgs84>
+		<direccion>Nagusi Kalea (Kultur Etxea),1</direccion>
+		<municipio>ASTEASU</municipio>
+		<codmunicipio>14</codmunicipio>
+		<codigopostal>20159</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943696896</telefono>
+		<email>jmbotula@yahoo.com</email>
+	</row>
+	<row num="11">
+		<idregistro>AD0005931</idregistro>
+		<fecharegistro>2014-10-23</fecharegistro>
+		<identidad>6805</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA HASTAPENA</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ATLETISMO,VOLEIBOL,TENIS,RUGBY,REMO,PIRAGÜISMO,PELOTA VASCA,PATINAJE,PADEL,NATACIÓN,MONTAÑA,JUDO ,HOCKEY,HERRI KIROLAK,GIMNASIA,CICLISMO,BÉISBOL Y SOFBOL,BALONMANO,BALONCESTO</otramodalidad>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>ISLAS CANARIAS ,99,DCHA,4º,A</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48015</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>606862119</telefono>
+		<email>kiroleskolaelkartea@gmail.com</email>
+	</row>
+	<row num="12">
+		<idregistro>AD0000079</idregistro>
+		<fecharegistro>1991-11-11</fecharegistro>
+		<identidad>5422</identidad>
+		<nombre>A.D. INTXURTXU</nombre>
+		<anoconstitucion>1991</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>MONTAÑA,HERRI KIROLAK</otramodalidad>
+		<latwgs84>43.367648</latwgs84>
+		<lonwgs84>-2.8860841</lonwgs84>
+		<direccion>GORORDO,S/N</direccion>
+		<municipio>GATIKA</municipio>
+		<codmunicipio>40</codmunicipio>
+		<codigopostal>48110</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>671688166</telefono>
+		<email>mariafernandez22@hotmail.com</email>
+	</row>
+	<row num="13">
+		<idregistro>AD0000843</idregistro>
+		<fecharegistro>2008-09-25</fecharegistro>
+		<identidad>5633</identidad>
+		<nombre>A. D. BURUNTZAZPI. ASTAPEN ETA ETEKIN HANDIKO TXIR</nombre>
+		<anoconstitucion>2008</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.2751327</latwgs84>
+		<lonwgs84>-2.0310361</lonwgs84>
+		<direccion>TXIKI-ERDI,2,1º</direccion>
+		<municipio>USURBIL</municipio>
+		<codmunicipio>73</codmunicipio>
+		<codigopostal>20170</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>686317750</telefono>
+	</row>
+	<row num="14">
+		<idregistro>AD0005776</idregistro>
+		<fecharegistro>2014-02-12</fecharegistro>
+		<identidad>6542</identidad>
+		<nombre>AGRUPACION DEPORTIVA DE CAZA ARGANZUBI</nombre>
+		<anoconstitucion>2013</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<latwgs84>42.8454839</latwgs84>
+		<lonwgs84>-2.6873004</lonwgs84>
+		<direccion>BUSTINZURI,6,4ºF</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01008</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945001080</telefono>
+		<email>jjagirre@terra.com</email>
+	</row>
+	<row num="15">
+		<idregistro>AD0006763</idregistro>
+		<fecharegistro>2019-02-12</fecharegistro>
+		<identidad>7793</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA AIZPITARTE</nombre>
+		<anoconstitucion>2019</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>43.3160078</latwgs84>
+		<lonwgs84>-1.9044678</lonwgs84>
+		<direccion>Astigarraga,5,4,Izda</direccion>
+		<municipio>ERRENTERIA</municipio>
+		<codmunicipio>67</codmunicipio>
+		<codigopostal>20100</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>656719755</telefono>
+		<email>aizpitarteelkartea@gmail.com</email>
+	</row>
+	<row num="16">
+		<idregistro>AD0000796</idregistro>
+		<fecharegistro>2004-01-30</fecharegistro>
+		<identidad>5607</identidad>
+		<nombre>A. D. NATURBIDE ELKARTEA</nombre>
+		<anoconstitucion>2004</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>42.86303119999999</latwgs84>
+		<lonwgs84>-2.6804681</lonwgs84>
+		<direccion>FRANCISCO JAVIER DE LANDABURU,40,1º D</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01010</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945278144</telefono>
+		<email>naturbide@gmail.com</email>
+	</row>
+	<row num="17">
+		<idregistro>AD0005608</idregistro>
+		<fecharegistro>2013-10-22</fecharegistro>
+		<identidad>6161</identidad>
+		<nombre>A.D. HELDUEN HITZA MONTAÑA</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>43.3054675</latwgs84>
+		<lonwgs84>-1.9920169</lonwgs84>
+		<direccion>Pº DE AYETE (Edificio Topaleku),65</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20009</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>675439691</telefono>
+		<email>info@helduenhitza.com</email>
+	</row>
+	<row num="18">
+		<idregistro>AD0005382</idregistro>
+		<fecharegistro>2010-10-25</fecharegistro>
+		<identidad>5767</identidad>
+		<nombre>A.D. HIRIBIKE TXIRRINDULARI ELKARTEA</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.177838</latwgs84>
+		<lonwgs84>-2.6458428</lonwgs84>
+		<direccion>MALLABIENA,6</direccion>
+		<municipio>IURRETA</municipio>
+		<codmunicipio>910</codmunicipio>
+		<codigopostal>48215</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>946232536</telefono>
+	</row>
+	<row num="19">
+		<idregistro>AD0006235</idregistro>
+		<fecharegistro>2015-12-28</fecharegistro>
+		<identidad>7128</identidad>
+		<nombre>AGRUPACION DEPORTIVA CORSARIOS VASCOS PATINAJE KIROL ELKARTEA</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PATINAJE</modalidadprincipal>
+		<latwgs84>43.3131808</latwgs84>
+		<lonwgs84>-2.0031493</lonwgs84>
+		<direccion>MATIA ,23,4,4</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20008</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>699487494</telefono>
+		<email>corsariosvascos3545@gmail.com</email>
+	</row>
+	<row num="20">
+		<idregistro>AD0005697</idregistro>
+		<fecharegistro>2014-01-07</fecharegistro>
+		<identidad>6428</identidad>
+		<nombre>AGRUPACION DEPORTIVA GOLFMAKERS BILBAO</nombre>
+		<anoconstitucion>2013</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>43.2744684</latwgs84>
+		<lonwgs84>-2.9561224</lonwgs84>
+		<direccion>IBARREKOLANDA,30</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48014</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>946072496</telefono>
+		<email>info@golfmakers.es</email>
+	</row>
+	<row num="21">
+		<idregistro>AD0006296</idregistro>
+		<fecharegistro>2016-04-12</fecharegistro>
+		<identidad>7199</identidad>
+		<nombre>AGRUPACION DEPORTIVA AJEDRECISTA ZUBI-ONDO</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AJEDREZ</modalidadprincipal>
+		<latwgs84>43.2156138</latwgs84>
+		<lonwgs84>-2.4176484</lonwgs84>
+		<direccion>PLAZA JAURSORO ,6</direccion>
+		<municipio>ELGOIBAR</municipio>
+		<codmunicipio>32</codmunicipio>
+		<codigopostal>20870</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>637737113</telefono>
+		<email>fidodidomik@hotmail.com</email>
+	</row>
+	<row num="22">
+		<idregistro>AD0000194</idregistro>
+		<fecharegistro>1993-03-18</fecharegistro>
+		<identidad>5439</identidad>
+		<nombre>A.D. GORABIDE-SPECIAL OLYMPICS BIZKAIA</nombre>
+		<anoconstitucion>1993</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ATLETISMO,NATACIÓN,GIMNASIA,DEPORTE ADAPTADO,BALONCESTO</otramodalidad>
+		<latwgs84>43.261255</latwgs84>
+		<lonwgs84>-2.9367275</lonwgs84>
+		<direccion>LICENCIADO POZA,14,2º</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48011</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+	</row>
+	<row num="23">
+		<idregistro>AD0000289</idregistro>
+		<fecharegistro>1994-07-04</fecharegistro>
+		<identidad>5459</identidad>
+		<nombre>AGRUPACION DEPORTIVA SOCIEDAD CULTURAL RECREATIVA DEPORTIVA DONIBANE</nombre>
+		<anoconstitucion>1994</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<otramodalidad>BALONMANO,FÚTBOL,GIMNASIA</otramodalidad>
+		<latwgs84>43.3245245</latwgs84>
+		<lonwgs84>-1.915243</lonwgs84>
+		<direccion>LOURDES TXIKI,1,4º,D</direccion>
+		<municipio>PASAIA</municipio>
+		<codmunicipio>64</codmunicipio>
+		<codigopostal>20110</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>639669245</telefono>
+		<email>donibanekjke@gmail.com</email>
+	</row>
+	<row num="24">
+		<idregistro>AD0000425</idregistro>
+		<fecharegistro>1995-11-17</fecharegistro>
+		<identidad>5475</identidad>
+		<nombre>A.D. ANTIGUOS ALUMNOS ZURBARAN</nombre>
+		<anoconstitucion>1995</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BALONCESTO</otramodalidad>
+		<latwgs84>43.264214</latwgs84>
+		<lonwgs84>-2.9156539</lonwgs84>
+		<direccion>ZUMAIA,S/N</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48007</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>646274743</telefono>
+		<email>urkominteguinieto@gmail.com</email>
+	</row>
+	<row num="25">
+		<idregistro>AD0005488</idregistro>
+		<fecharegistro>2012-04-20</fecharegistro>
+		<identidad>5971</identidad>
+		<nombre>AD COLEGIO DE ABOGADOS DE BIZKAIA</nombre>
+		<anoconstitucion>2008</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>AJEDREZ,TENIS DE MESA,TENIS,RUGBY,PELOTA VASCA,PADEL,GOLF,BALONCESTO</otramodalidad>
+		<latwgs84>43.26462000000001</latwgs84>
+		<lonwgs84>-2.9290778</lonwgs84>
+		<direccion>RAMPAS DE URIBITARTE,3</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48001</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944356200</telefono>
+	</row>
+	<row num="26">
+		<idregistro>AD0006201</idregistro>
+		<fecharegistro>2015-10-19</fecharegistro>
+		<identidad>7065</identidad>
+		<nombre>AGRUPACION DEPORTIVA VALLEGRANDE EHIZTARIAK</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<otramodalidad>PESCA,TIRO</otramodalidad>
+		<latwgs84>42.8192346</latwgs84>
+		<lonwgs84>-2.8277963</lonwgs84>
+		<direccion>Plaza Rita Ora,11</direccion>
+		<municipio>IRUÑA OKA/IRUÑA DE OCA</municipio>
+		<codmunicipio>901</codmunicipio>
+		<codigopostal>01230</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>686906221</telefono>
+	</row>
+	<row num="27">
+		<idregistro>AD0000782</idregistro>
+		<fecharegistro>2002-12-12</fecharegistro>
+		<identidad>5577</identidad>
+		<nombre>AGRUPACION DEPORTIVA GAUDE</nombre>
+		<anoconstitucion>2002</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BALONCESTO,RUGBY,NATACIÓN,MONTAÑA,GOLF,GIMNASIA,CICLISMO</otramodalidad>
+		<latwgs84>43.3362799</latwgs84>
+		<lonwgs84>-3.0070909</lonwgs84>
+		<direccion>PASEO DEL PUERTO,8</direccion>
+		<municipio>GETXO</municipio>
+		<codmunicipio>44</codmunicipio>
+		<codigopostal>48930</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944632455</telefono>
+		<fax>944632452</fax>
+		<email>gerencia@uribecosta.org</email>
+	</row>
+	<row num="28">
+		<idregistro>AD0006624</idregistro>
+		<fecharegistro>2018-01-17</fecharegistro>
+		<identidad>7607</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA BMS MOTOR KIROL ELKARTEA</nombre>
+		<anoconstitucion>2017</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AUTOMOVILISMO</modalidadprincipal>
+		<otramodalidad>MOTOCICLISMO</otramodalidad>
+		<latwgs84>43.4186421</latwgs84>
+		<lonwgs84>-2.8113025</lonwgs84>
+		<direccion>ZUBIAURREALDE,12</direccion>
+		<municipio>BAKIO</municipio>
+		<codmunicipio>12</codmunicipio>
+		<codigopostal>48130</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>633510261</telefono>
+		<email>bakiomotorsport@gmail.com</email>
+	</row>
+	<row num="29">
+		<idregistro>AD0000783</idregistro>
+		<fecharegistro>2003-01-08</fecharegistro>
+		<identidad>5578</identidad>
+		<nombre>A. D. CICLISTA FUNDACION OREKI-OREKI FUNDAZIO TXIRRINDULARI ELKARTEA</nombre>
+		<anoconstitucion>2002</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.2728664</latwgs84>
+		<lonwgs84>-2.0188952</lonwgs84>
+		<direccion>PZA. DEL CADDIE,1,L. 1 BA</direccion>
+		<municipio>LASARTE-ORIA</municipio>
+		<codmunicipio>902</codmunicipio>
+		<codigopostal>20160</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943371518</telefono>
+		<fax>943365891</fax>
+		<email>oreki@oreki.org</email>
+	</row>
+	<row num="30">
+		<idregistro>AD0006323</idregistro>
+		<fecharegistro>2016-05-25</fecharegistro>
+		<identidad>7235</identidad>
+		<nombre>LAGUNMAR KIROL ELKARTEA</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>43.2495476</latwgs84>
+		<lonwgs84>-2.9266104</lonwgs84>
+		<direccion>JULIAN ZUGAZAGOITIA ,9,5º,D</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48003</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>630753227</telefono>
+		<email>lagunmar@hotmail.com</email>
+	</row>
+	<row num="31">
+		<idregistro>AD0000862</idregistro>
+		<fecharegistro>2009-08-11</fecharegistro>
+		<identidad>5650</identidad>
+		<nombre>A. D. KIROL AUNITZ KULTUR ETA KIROL ERAKUNDEA</nombre>
+		<anoconstitucion>2009</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>43.254491</latwgs84>
+		<lonwgs84>-2.9157007</lonwgs84>
+		<direccion>MONS. REMIGIO GANDASEGUI,1,2º C</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48006</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944320639</telefono>
+		<fax>622061240</fax>
+		<email>s.aretxa@hotmail.com</email>
+	</row>
+	<row num="32">
+		<idregistro>AD0005405</idregistro>
+		<fecharegistro>2010-11-29</fecharegistro>
+		<identidad>5789</identidad>
+		<nombre>A.D. GOLF DE DERIO</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>43.2636468</latwgs84>
+		<lonwgs84>-2.9321228</lonwgs84>
+		<direccion>COLON DE LARREATEGUI,26,4º,F</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48009</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944238525</telefono>
+	</row>
+	<row num="33">
+		<idregistro>AD0000819</idregistro>
+		<fecharegistro>2006-10-03</fecharegistro>
+		<identidad>5613</identidad>
+		<nombre>A. D. DE GOLF GOIBURU-ANDOAIN DEGOTOUR</nombre>
+		<anoconstitucion>2004</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>BARRIO SAN ESTEBAN,S/N</direccion>
+		<municipio>ANDOAIN</municipio>
+		<codmunicipio>9</codmunicipio>
+		<codigopostal>20140</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943300845</telefono>
+	</row>
+	<row num="34">
+		<idregistro>AD0006219</idregistro>
+		<fecharegistro>2015-11-23</fecharegistro>
+		<identidad>7093</identidad>
+		<nombre>GALLARTAKO KIROL ELKARTEA ADIZMI</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>Bº ABANTO,12</direccion>
+		<municipio>ABANTO Y CIÉRVANA-ABANTO ZIERBENA</municipio>
+		<codmunicipio>2</codmunicipio>
+		<codigopostal>48500</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>688817142</telefono>
+		<email>adizmi2014@gmail.com</email>
+	</row>
+	<row num="35">
+		<idregistro>AD0000748</idregistro>
+		<fecharegistro>1999-12-28</fecharegistro>
+		<identidad>5544</identidad>
+		<nombre>A.D. DE DEPORTES DE INVIERNO MUSHING EUSKAROD</nombre>
+		<anoconstitucion>1999</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>DEPORTES DE INVIERNO</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>CAMINO ARTAZU,2,3º C</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48003</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>943175117</telefono>
+		<fax>633903121</fax>
+		<email>felipe@euskalmushing.com</email>
+	</row>
+	<row num="36">
+		<idregistro>AD0006143</idregistro>
+		<fecharegistro>2015-06-26</fecharegistro>
+		<identidad>6990</identidad>
+		<nombre>AGRUPACION DEPORTIVA DE CAZA MENDIGORRIGANE</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<latwgs84>42.8420727</latwgs84>
+		<lonwgs84>-2.5119855</lonwgs84>
+		<direccion>SOLANDIA PARKEA (CASA DEL DEPORTE),1</direccion>
+		<municipio>ALEGRÍA-DULANTZI</municipio>
+		<codmunicipio>1</codmunicipio>
+		<codigopostal>01240</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>615700800</telefono>
+		<email>osinalde.becada@gmail.com</email>
+	</row>
+	<row num="37">
+		<idregistro>AD0000792</idregistro>
+		<fecharegistro>2003-09-29</fecharegistro>
+		<identidad>5603</identidad>
+		<nombre>A. D. KORRIKAZALEAK</nombre>
+		<anoconstitucion>2003</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>ATLETISMO</modalidadprincipal>
+		<latwgs84>43.252619</latwgs84>
+		<lonwgs84>-2.94554</lonwgs84>
+		<direccion>PZA. DE RECALDE,3</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48002</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>615714827</telefono>
+		<email>piedra_284@yahoo.es</email>
+	</row>
+	<row num="38">
+		<idregistro>AD0000786</idregistro>
+		<fecharegistro>2003-04-08</fecharegistro>
+		<identidad>5581</identidad>
+		<nombre>A.D.DEPORTE PARA DISCAPACITADOS ASOCIACIÓN DE COMERCIANTES DE BASAURI</nombre>
+		<anoconstitucion>2003</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>DEPORTE ADAPTADO</modalidadprincipal>
+		<latwgs84>43.23823780000001</latwgs84>
+		<lonwgs84>-2.8850246</lonwgs84>
+		<direccion>PZA. SOLOBARRIA,1</direccion>
+		<municipio>BASAURI</municipio>
+		<codmunicipio>15</codmunicipio>
+		<codigopostal>48970</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944403377</telefono>
+	</row>
+	<row num="39">
+		<idregistro>AD0000135</idregistro>
+		<fecharegistro>1992-09-25</fecharegistro>
+		<identidad>5432</identidad>
+		<nombre>IRRINTZI TXIRRINDULARI E.</nombre>
+		<anoconstitucion>1992</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.1869294</latwgs84>
+		<lonwgs84>-2.0525483</lonwgs84>
+		<direccion>MAYOR,27</direccion>
+		<municipio>VILLABONA</municipio>
+		<codmunicipio>75</codmunicipio>
+		<codigopostal>20150</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>647006903</telefono>
+		<email>irrintzielkartea@gmail.com</email>
+	</row>
+	<row num="40">
+		<idregistro>AD0005276</idregistro>
+		<fecharegistro>2011-11-22</fecharegistro>
+		<identidad>5908</identidad>
+		<nombre>A.D. LA BERGANCINA</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<latwgs84>42.64917870000001</latwgs84>
+		<lonwgs84>-2.7832579</lonwgs84>
+		<direccion>LA POZA 1. BERGANZO,1</direccion>
+		<municipio>ZAMBRANA</municipio>
+		<codmunicipio>62</codmunicipio>
+		<codigopostal>01212</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>606049690</telefono>
+	</row>
+	<row num="41">
+		<idregistro>AD0006510</idregistro>
+		<fecharegistro>2017-03-13</fecharegistro>
+		<identidad>7467</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA ITXAROKEN</nombre>
+		<anoconstitucion>2017</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>KARATE</modalidadprincipal>
+		<latwgs84>43.24713</latwgs84>
+		<lonwgs84>-2.89095</lonwgs84>
+		<direccion>PARQUE BEKOSOLO (CHALEROSA),S/N</direccion>
+		<municipio>ETXEBARRI</municipio>
+		<codmunicipio>29</codmunicipio>
+		<codigopostal>48450</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>656737098</telefono>
+		<email>karateitxaropena@gmail.com</email>
+	</row>
+	<row num="42">
+		<idregistro>AD0006128</idregistro>
+		<fecharegistro>2015-06-12</fecharegistro>
+		<identidad>7019</identidad>
+		<nombre>OKE KIROL ELKARTEA</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<latwgs84>43.3112825</latwgs84>
+		<lonwgs84>-1.9013032</lonwgs84>
+		<direccion>MARIA DE LEZO ,S/N</direccion>
+		<municipio>ERRENTERIA</municipio>
+		<codmunicipio>67</codmunicipio>
+		<codigopostal>20100</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>677238799</telefono>
+		<email>ikermaneiro@gmail.com</email>
+	</row>
+	<row num="43">
+		<idregistro>AD0000807</idregistro>
+		<fecharegistro>2005-06-03</fecharegistro>
+		<identidad>5590</identidad>
+		<nombre>A. D. ALDIN DE MONTAÑA DE BERASTEGI</nombre>
+		<anoconstitucion>2005</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>43.1240013</latwgs84>
+		<lonwgs84>-1.9794829</lonwgs84>
+		<direccion>HERRIKO EMPARANTZA,1,2</direccion>
+		<municipio>BERASTEGI</municipio>
+		<codmunicipio>22</codmunicipio>
+		<codigopostal>20492</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>635700027</telefono>
+		<fax>653705309</fax>
+		<email>aldinelkartea@gmail.com</email>
+	</row>
+	<row num="44">
+		<idregistro>AD0006919</idregistro>
+		<fecharegistro>2020-01-27</fecharegistro>
+		<identidad>8012</identidad>
+		<nombre>Zugzwang Xake Elkartea</nombre>
+		<anoconstitucion>2019</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AJEDREZ</modalidadprincipal>
+		<latwgs84>43.2463009</latwgs84>
+		<lonwgs84>-1.989357</lonwgs84>
+		<direccion>Urbita,6</direccion>
+		<municipio>URNIETA</municipio>
+		<codmunicipio>72</codmunicipio>
+		<codigopostal>20130</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>626365043</telefono>
+	</row>
+	<row num="45">
+		<idregistro>AD0006786</idregistro>
+		<fecharegistro>2019-03-14</fecharegistro>
+		<identidad>7827</identidad>
+		<nombre>APUKO IGOERA KIROL ELKARTEA</nombre>
+		<anoconstitucion>2019</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>43.2332265</latwgs84>
+		<lonwgs84>-3.0149972</lonwgs84>
+		<direccion>Geltoki Bidea,2</direccion>
+		<municipio>GÜEÑES</municipio>
+		<codmunicipio>45</codmunicipio>
+		<codigopostal>48820</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>655740753</telefono>
+		<email>apukoigoera@outlook.es</email>
+	</row>
+	<row num="46">
+		<idregistro>AD0000021</idregistro>
+		<fecharegistro>1990-04-26</fecharegistro>
+		<identidad>5402</identidad>
+		<nombre>A.D. DE MONTAÑA KRESALA</nombre>
+		<anoconstitucion>1989</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>43.3243878</latwgs84>
+		<lonwgs84>-1.9821872</lonwgs84>
+		<direccion>EUSKALHERRIA,9</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20003</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943420905</telefono>
+		<email>kresalamenditaldea@gmail.com</email>
+	</row>
+	<row num="47">
+		<idregistro>AD0000202</idregistro>
+		<fecharegistro>1993-05-20</fecharegistro>
+		<identidad>5438</identidad>
+		<nombre>A.D. K.K.E. ETXADI S.C.D.</nombre>
+		<anoconstitucion>1992</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>TENIS</modalidadprincipal>
+		<otramodalidad>BALONCESTO,TENIS DE MESA,PIRAGÜISMO,PADEL,MONTAÑA,FÚTBOL,CICLISMO</otramodalidad>
+		<latwgs84>43.3020705</latwgs84>
+		<lonwgs84>-1.9885924</lonwgs84>
+		<direccion>BORROTO,32</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20009</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943-219088</telefono>
+	</row>
+	<row num="48">
+		<idregistro>AD0000267</idregistro>
+		<fecharegistro>1994-04-14</fecharegistro>
+		<identidad>5457</identidad>
+		<nombre>A.D. ITXAROPENA</nombre>
+		<anoconstitucion>1994</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>DEPORTE ADAPTADO</modalidadprincipal>
+		<otramodalidad>AJEDREZ,NATACIÓN,MONTAÑA,FÚTBOL,ATLETISMO</otramodalidad>
+		<latwgs84>42.8443073</latwgs84>
+		<lonwgs84>-2.6763818</lonwgs84>
+		<direccion>LA FLORIDA,62,2º</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01005</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945289342</telefono>
+		<email>INFO@ITXAROPENA.ES</email>
+	</row>
+	<row num="49">
+		<idregistro>AD0000515</idregistro>
+		<fecharegistro>1996-10-01</fecharegistro>
+		<identidad>5487</identidad>
+		<nombre>A.D. LAUAXETA IKASTOLA</nombre>
+		<anoconstitucion>1996</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ATLETISMO,PATINAJE,NATACIÓN,MONTAÑA,HERRI KIROLAK,CICLISMO,BALONMANO,BALONCESTO</otramodalidad>
+		<latwgs84>43.201209</latwgs84>
+		<lonwgs84>-2.7013978</lonwgs84>
+		<direccion>SAN MIGUEL DE DUDEA,S/N</direccion>
+		<municipio>AMOREBIETA-ETXANO</municipio>
+		<codmunicipio>3</codmunicipio>
+		<codigopostal>48290</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>946731850</telefono>
+		<fax>946300020</fax>
+		<email>ikastola@lauaxeta.net</email>
+	</row>
+	<row num="50">
+		<idregistro>AD0000607</idregistro>
+		<fecharegistro>1997-08-11</fecharegistro>
+		<identidad>5502</identidad>
+		<nombre>ANTIGUA-LUBERRI BOSTAK GURASO ELKARTEA KIROL ELKARTEA</nombre>
+		<anoconstitucion>1997</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BALONCESTO,VOLEIBOL,MONTAÑA,HOCKEY,GIMNASIA</otramodalidad>
+		<latwgs84>43.3089228</latwgs84>
+		<lonwgs84>-2.0074226</lonwgs84>
+		<direccion>XALBADOR BERTSOLARIA ,9</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20018</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943210908</telefono>
+		<email>antigualuberri@yahoo.es</email>
+	</row>
+	<row num="51">
+		<idregistro>AD0005242</idregistro>
+		<fecharegistro>2011-06-24</fecharegistro>
+		<identidad>5865</identidad>
+		<nombre>AGRUPACION DEPORTIVA CARMELITAS</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>AJEDREZ,VOLEIBOL,TENIS DE MESA,TENIS,PELOTA VASCA,GIMNASIA,BALONCESTO,BADMINTON</otramodalidad>
+		<latwgs84>42.8424059</latwgs84>
+		<lonwgs84>-2.670177</lonwgs84>
+		<direccion>FUEROS,49,COLEG</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01005</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945282942</telefono>
+		<email>direccion@sagradocorazoncarmelitas.com</email>
+	</row>
+	<row num="52">
+		<idregistro>AD0000793</idregistro>
+		<fecharegistro>2003-10-14</fecharegistro>
+		<identidad>5602</identidad>
+		<nombre>LASARTEKO OLABIDE IKASTOLAREN KIROL ELKARTEA</nombre>
+		<anoconstitucion>2003</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AJEDREZ</modalidadprincipal>
+		<otramodalidad>ATLETISMO,VOLEIBOL,TENIS DE MESA,PELOTA VASCA,PATINAJE,NATACIÓN,MONTAÑA,JUDO ,GIMNASIA,FÚTBOL,FÚTBOL,BALONMANO,BALONCESTO</otramodalidad>
+		<latwgs84>42.8162994</latwgs84>
+		<lonwgs84>-2.693868</lonwgs84>
+		<direccion>CARRETERA LASARTE,S/N</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01007</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945150647</telefono>
+		<fax>945011968</fax>
+		<email>kirolelkartea@olabide.com</email>
+	</row>
+	<row num="53">
+		<idregistro>AD0000800</idregistro>
+		<fecharegistro>2004-04-21</fecharegistro>
+		<identidad>5610</identidad>
+		<nombre>A. D. ANDUAGA ELKARTEA</nombre>
+		<anoconstitucion>2004</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<otramodalidad>FÚTBOL,MONTAÑA</otramodalidad>
+		<latwgs84>43.0643208</latwgs84>
+		<lonwgs84>-2.2747346</lonwgs84>
+		<direccion>EZKIO,S/N,SANTA L</direccion>
+		<municipio>EZKIO-ITSASO</municipio>
+		<codmunicipio>35</codmunicipio>
+		<codigopostal>20709</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+	</row>
+	<row num="54">
+		<idregistro>AD0000832</idregistro>
+		<fecharegistro>2007-10-01</fecharegistro>
+		<identidad>5627</identidad>
+		<nombre>AGRUPACION DEPORTIVA BAKUVA INTEGRACIÓN SOCIAL POR EL DEPORTE</nombre>
+		<anoconstitucion>2007</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<otramodalidad>FÚTBOL,BALONMANO</otramodalidad>
+		<latwgs84>43.26186879999999</latwgs84>
+		<lonwgs84>-2.9358493</lonwgs84>
+		<direccion>RODRIGUEZ ARIAS,17,1º</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48011</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944159477</telefono>
+	</row>
+	<row num="55">
+		<idregistro>AD0005314</idregistro>
+		<fecharegistro>2010-04-23</fecharegistro>
+		<identidad>5678</identidad>
+		<nombre>A.D. DE FUTBOL SENECA DE VITORIA-GASTEIZ</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>CICLISMO</otramodalidad>
+		<latwgs84>42.8670432</latwgs84>
+		<lonwgs84>-2.6840971</lonwgs84>
+		<direccion>JULIAN DE ARRESE,3,BAJO</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01010</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945260303</telefono>
+	</row>
+	<row num="56">
+		<idregistro>AD0005392</idregistro>
+		<fecharegistro>2010-11-12</fecharegistro>
+		<identidad>5779</identidad>
+		<nombre>AGRUPACION DEPORTIVA FREXNO</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BALONCESTO,BALONMANO</otramodalidad>
+		<latwgs84>42.8571271</latwgs84>
+		<lonwgs84>-2.686041</lonwgs84>
+		<direccion>CONDE DON VELA,26,2º,IZDA.</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01009</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945</telefono>
+	</row>
+	<row num="57">
+		<idregistro>AD0005453</idregistro>
+		<fecharegistro>2011-03-28</fecharegistro>
+		<identidad>5841</identidad>
+		<nombre>A.D. SOCIEDAD EXCURSIONISTA MANUEL IRADIER</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<otramodalidad>ATLETISMO</otramodalidad>
+		<latwgs84>42.84816610000001</latwgs84>
+		<lonwgs84>-2.67032</lonwgs84>
+		<direccion>PINTORERIA,15,BAJO</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01001</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>656713434</telefono>
+	</row>
+	<row num="58">
+		<idregistro>AD0005636</idregistro>
+		<fecharegistro>2013-11-19</fecharegistro>
+		<identidad>5990</identidad>
+		<nombre>AD SOC. COOP. DE ENSEÑANZA COLEGIO VIZCAYA</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>AJEDREZ,VOLEIBOL,VELA,TENIS,NATACIÓN,KARATE,JUDO ,HÍPICA,GOLF,GIMNASIA,BALONCESTO,ATLETISMO</otramodalidad>
+		<latwgs84>43.2858087</latwgs84>
+		<lonwgs84>-2.8974964</lonwgs84>
+		<direccion>GALBARRIATU,6</direccion>
+		<municipio>ZAMUDIO</municipio>
+		<codmunicipio>905</codmunicipio>
+		<codigopostal>48170</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>9</telefono>
+	</row>
+	<row num="59">
+		<idregistro>AD0005558</idregistro>
+		<fecharegistro>2013-04-16</fecharegistro>
+		<identidad>6162</identidad>
+		<nombre>A.D. AITA MENNI</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>DEPORTE ADAPTADO</modalidadprincipal>
+		<otramodalidad>CICLISMO,VOLEIBOL,TENIS DE MESA,NATACIÓN</otramodalidad>
+		<latwgs84>43.06253299999999</latwgs84>
+		<lonwgs84>-2.529053</lonwgs84>
+		<direccion>BARRIO GESALIBAR,S/N</direccion>
+		<municipio>ARRASATE/MONDRAGÓN</municipio>
+		<codmunicipio>55</codmunicipio>
+		<codigopostal>20509</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943794411</telefono>
+	</row>
+	<row num="60">
+		<idregistro>AD0005652</idregistro>
+		<fecharegistro>2013-11-28</fecharegistro>
+		<identidad>6232</identidad>
+		<nombre>AGRUPACION DEPORTIVA IPARGORRI</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<otramodalidad>PELOTA VASCA</otramodalidad>
+		<latwgs84>43.3611188</latwgs84>
+		<lonwgs84>-2.5405858</lonwgs84>
+		<direccion>BARRIO KORTAZAR,9</direccion>
+		<municipio>ISPASTER</municipio>
+		<codmunicipio>49</codmunicipio>
+		<codigopostal>48288</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>99</telefono>
+		<email>ipargorri@isparter.net</email>
+	</row>
+	<row num="61">
+		<idregistro>AD0005643</idregistro>
+		<fecharegistro>2013-11-21</fecharegistro>
+		<identidad>6308</identidad>
+		<nombre>AGRUPACION DEPORTIVA CASA DE ANDALUCIA DE PORTUGALETE</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PESCA</modalidadprincipal>
+		<otramodalidad>BOLOS,PETANCA,FÚTBOL,CAZA</otramodalidad>
+		<latwgs84>43.31584429999999</latwgs84>
+		<lonwgs84>-3.0199601</lonwgs84>
+		<direccion>VICENTE DURAÑONA,1,BAJO</direccion>
+		<municipio>PORTUGALETE</municipio>
+		<codmunicipio>78</codmunicipio>
+		<codigopostal>48920</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944611625</telefono>
+		<email>portu.andalucia@euskaltel.net</email>
+	</row>
+	<row num="62">
+		<idregistro>AD0005807</idregistro>
+		<fecharegistro>2014-02-27</fecharegistro>
+		<identidad>6618</identidad>
+		<nombre>A.D. EGUR SPORT/EGUR SPORT KIROL ELKARTEA</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>HERRI KIROLAK</modalidadprincipal>
+		<otramodalidad>PELOTA VASCA</otramodalidad>
+		<latwgs84>42.9804724</latwgs84>
+		<lonwgs84>-2.6425841</lonwgs84>
+		<direccion>GOIKURIA,29</direccion>
+		<municipio>LEGUTIANO</municipio>
+		<codmunicipio>58</codmunicipio>
+		<codigopostal>01170</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945455471</telefono>
+		<email>egursport@euskalnet.net</email>
+	</row>
+	<row num="63">
+		<idregistro>AD0006134</idregistro>
+		<fecharegistro>2015-06-17</fecharegistro>
+		<identidad>7021</identidad>
+		<nombre>AGRUPACION DEPORTIVA GIMNASIA TXIMELETA</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GIMNASIA</modalidadprincipal>
+		<otramodalidad>AJEDREZ,PATINAJE,NATACIÓN,KARATE,JUDO ,HERRI KIROLAK</otramodalidad>
+		<latwgs84>43.3016951</latwgs84>
+		<lonwgs84>-2.0112123</lonwgs84>
+		<direccion>PORTUETXE, EDIFICIO CEMEI ,23B,3</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20018</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943116342</telefono>
+		<email>info@grupotximeletataldea.com</email>
+	</row>
+	<row num="64">
+		<idregistro>AD0006499</idregistro>
+		<fecharegistro>2017-02-20</fecharegistro>
+		<identidad>7418</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA HASZTEN KIROL EGOKITUA</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ATLETISMO,PADEL,NATACIÓN,GIMNASIA</otramodalidad>
+		<latwgs84>43.3286539</latwgs84>
+		<lonwgs84>-3.0084436</lonwgs84>
+		<direccion>PLAZA GANETA (AREETA),4</direccion>
+		<municipio>GETXO</municipio>
+		<codmunicipio>44</codmunicipio>
+		<codigopostal>48930</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>699609588</telefono>
+		<email>hasztenkirola@gmail.com</email>
+	</row>
+	<row num="65">
+		<idregistro>AD0006556</idregistro>
+		<fecharegistro>2017-06-13</fecharegistro>
+		<identidad>7530</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA PEÑA ATHLETIC ZALLA</nombre>
+		<anoconstitucion>2017</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>AJEDREZ</otramodalidad>
+		<latwgs84>43.2109741</latwgs84>
+		<lonwgs84>-3.1326395</lonwgs84>
+		<direccion>AVDA. LANZAGORTA,38,BAJO</direccion>
+		<municipio>ZALLA</municipio>
+		<codmunicipio>96</codmunicipio>
+		<codigopostal>48860</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>946390934</telefono>
+		<fax>639366282</fax>
+		<email>p.athleticzalla@gmail.com</email>
+	</row>
+	<row num="66">
+		<idregistro>AD0006144</idregistro>
+		<fecharegistro>2015-06-29</fecharegistro>
+		<identidad>7025</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA CALASANZ DE VITORIA</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>AJEDREZ,BALONCESTO,JUDO</otramodalidad>
+		<latwgs84>42.8427608</latwgs84>
+		<lonwgs84>-2.6592744</lonwgs84>
+		<direccion>C/ Federico Baraibar,36</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01003</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945284000</telefono>
+		<email>deportesvitoria@escolapiosemaus.org</email>
+	</row>
+	<row num="67">
+		<idregistro>AD0000431</idregistro>
+		<fecharegistro>1995-12-22</fecharegistro>
+		<identidad>5477</identidad>
+		<nombre>ÁGRUPACIÓN DEPORTIVA ASOCIACIÓN DE LA PRENSA DEPORTIVA DE BIZKAIA</nombre>
+		<anoconstitucion>1995</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ATLETISMO,CICLISMO,BALONCESTO</otramodalidad>
+		<latwgs84>43.2586469</latwgs84>
+		<lonwgs84>-2.9394863</lonwgs84>
+		<direccion>EGAÑA ,18,2º,DCHA.</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48010</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944100880</telefono>
+		<email>apdb@euskalnet.net</email>
+	</row>
+	<row num="68">
+		<idregistro>AD0000330</idregistro>
+		<fecharegistro>1995-01-30</fecharegistro>
+		<identidad>5464</identidad>
+		<nombre>A.D. DE PESCA BIHOTZ GAZTEA-ARRANTZA TALDEA</nombre>
+		<anoconstitucion>1995</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PESCA</modalidadprincipal>
+		<latwgs84>43.3303893</latwgs84>
+		<lonwgs84>-3.0341303</lonwgs84>
+		<direccion>JUAN XXIII,1</direccion>
+		<municipio>SANTURTZI</municipio>
+		<codmunicipio>82</codmunicipio>
+		<codigopostal>48980</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>630585740</telefono>
+		<fax>944836946</fax>
+		<email>arrantza@bihotzgaztea.com</email>
+	</row>
+	<row num="69">
+		<idregistro>AD0006385</idregistro>
+		<fecharegistro>2016-08-10</fecharegistro>
+		<identidad>7319</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA IKAS-TXIKI KIROL ELKARTEA</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>43.2207085</latwgs84>
+		<lonwgs84>-2.7328431</lonwgs84>
+		<direccion>Karmen,5,5</direccion>
+		<municipio>AMOREBIETA-ETXANO</municipio>
+		<codmunicipio>3</codmunicipio>
+		<codigopostal>48340</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>603226380</telefono>
+		<email>lutxireal@hotmail.com</email>
+	</row>
+	<row num="70">
+		<idregistro>AD0005799</idregistro>
+		<fecharegistro>2014-02-21</fecharegistro>
+		<identidad>6575</identidad>
+		<nombre>AGRUPACION DEPORTIVA SILVESTRISMO GANEKO</nombre>
+		<anoconstitucion>2013</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<latwgs84>43.2533621</latwgs84>
+		<lonwgs84>-2.9161231</lonwgs84>
+		<direccion>MARCELINO MENENDEZ Y PELAYO,1,BAJO</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48004</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>9</telefono>
+	</row>
+	<row num="71">
+		<idregistro>AD0000771</idregistro>
+		<fecharegistro>2001-12-18</fecharegistro>
+		<identidad>5566</identidad>
+		<nombre>AGRUPACION DEPORTIVA ORMA BI</nombre>
+		<anoconstitucion>2001</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<latwgs84>43.2282613</latwgs84>
+		<lonwgs84>-2.8462954</lonwgs84>
+		<direccion>BEREZIKOETXE,1</direccion>
+		<municipio>GALDAKAO</municipio>
+		<codmunicipio>36</codmunicipio>
+		<codigopostal>48960</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>670416566</telefono>
+		<fax>944565016</fax>
+		<email>ormabi@gmail.com</email>
+	</row>
+	<row num="72">
+		<idregistro>AD0005503</idregistro>
+		<fecharegistro>2012-06-19</fecharegistro>
+		<identidad>6014</identidad>
+		<nombre>AD BERTSOLARI</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.3138559</latwgs84>
+		<lonwgs84>-1.9392937</lonwgs84>
+		<direccion>PASEO LARRATXO,39,ACC</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20017</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943391986</telefono>
+	</row>
+	<row num="73">
+		<idregistro>AD0006932</idregistro>
+		<fecharegistro>2020-02-12</fecharegistro>
+		<identidad>8026</identidad>
+		<nombre>HANKALABANKA PATINAJE ELKARTEA BERGARA</nombre>
+		<anoconstitucion>2020</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PATINAJE</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>OZAETA,12,1Ã¿Âº,IZDA</direccion>
+		<municipio>BERGARA</municipio>
+		<codmunicipio>74</codmunicipio>
+		<codigopostal>20570</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>649705056</telefono>
+		<email>eguzuribesalgo@gmail.com</email>
+	</row>
+	<row num="74">
+		<idregistro>AD0006649</idregistro>
+		<fecharegistro>2018-03-12</fecharegistro>
+		<identidad>7639</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA GUREKAN</nombre>
+		<anoconstitucion>2018</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<latwgs84>43.2703317</latwgs84>
+		<lonwgs84>-2.956957</lonwgs84>
+		<direccion>AVDA. MADARIAGA,71,1º,BDCHA.</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48014</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>626753143</telefono>
+		<email>sagunas10@gmail.com</email>
+	</row>
+	<row num="75">
+		<idregistro>AD0000811</idregistro>
+		<fecharegistro>2006-01-16</fecharegistro>
+		<identidad>5597</identidad>
+		<nombre>A. D. DONOSTIAKO GEHITU MENDI KIROL ELKARTEA</nombre>
+		<anoconstitucion>2006</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>43.324918</latwgs84>
+		<lonwgs84>-1.9737207</lonwgs84>
+		<direccion>ZABALETA,47,ENTRE,IZQ</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20002</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943468516</telefono>
+		<email>info@gehitu.org</email>
+	</row>
+	<row num="76">
+		<idregistro>AD0006008</idregistro>
+		<fecharegistro>2015-02-05</fecharegistro>
+		<identidad>6906</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA SEMINARIO URBAN GOLF</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>42.8487442</latwgs84>
+		<lonwgs84>-2.6918293</lonwgs84>
+		<direccion>STA. TERESA ,1</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01008</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945218218</telefono>
+		<fax>616493040</fax>
+		<email>info@golfseminario.com</email>
+	</row>
+	<row num="77">
+		<idregistro>AD0005625</idregistro>
+		<fecharegistro>2013-11-11</fecharegistro>
+		<identidad>6202</identidad>
+		<nombre>AMALUR MENDI ELKARTEA</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>43.0329381</latwgs84>
+		<lonwgs84>-2.1845067</lonwgs84>
+		<direccion>ARESO,26</direccion>
+		<municipio>LAZKAO</municipio>
+		<codmunicipio>49</codmunicipio>
+		<codigopostal>20210</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>630108455</telefono>
+		<email>pedrosolis77@gmail.com</email>
+	</row>
+	<row num="78">
+		<idregistro>AD0000866</idregistro>
+		<fecharegistro>2010-01-19</fecharegistro>
+		<identidad>5653</identidad>
+		<nombre>A. D. PADEL ON</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PADEL</modalidadprincipal>
+		<latwgs84>43.2758718</latwgs84>
+		<lonwgs84>-2.8536129</lonwgs84>
+		<direccion>POLÍGONO TORRELARRAGOITI,7,PARCELA</direccion>
+		<municipio>ZAMUDIO</municipio>
+		<codmunicipio>905</codmunicipio>
+		<codigopostal>48170</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>9444523719</telefono>
+		<fax>6410818051</fax>
+		<email>padelonsl@gmail.com</email>
+	</row>
+	<row num="79">
+		<idregistro>AD0000737</idregistro>
+		<fecharegistro>1999-06-25</fecharegistro>
+		<identidad>5531</identidad>
+		<nombre>A. D. DEPORTES DE INVIERNO ASOC. CULT. DVA. HOTZA</nombre>
+		<anoconstitucion>1999</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>DEPORTES DE INVIERNO</modalidadprincipal>
+		<latwgs84>42.832622</latwgs84>
+		<lonwgs84>-2.670181</lonwgs84>
+		<direccion>ASPARRENA,12,3º D</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01194</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>656415913</telefono>
+		<fax>945464292</fax>
+		<email>izotz.r@gmail.com</email>
+	</row>
+	<row num="80">
+		<idregistro>AD0006506</idregistro>
+		<fecharegistro>2017-03-06</fecharegistro>
+		<identidad>7466</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA HAMAIKA IZPI</nombre>
+		<anoconstitucion>2017</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>HÍPICA</modalidadprincipal>
+		<latwgs84>43.12955890000001</latwgs84>
+		<lonwgs84>-2.5423293</lonwgs84>
+		<direccion>PARAJE BAJO ALBISU,S/N</direccion>
+		<municipio>ELORRIO</municipio>
+		<codmunicipio>32</codmunicipio>
+		<codigopostal>48230</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>615737123</telefono>
+		<email>bnkapelastegi@hotmail.com</email>
+	</row>
+	<row num="81">
+		<idregistro>AD0006171</idregistro>
+		<fecharegistro>2015-08-28</fecharegistro>
+		<identidad>7054</identidad>
+		<nombre>AGRUPACION DEPORTIVA JANDRIN</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>42.8416767</latwgs84>
+		<lonwgs84>-2.6899029</lonwgs84>
+		<direccion>ARIZNABARRA,1,BAJO</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01007</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945134953</telefono>
+		<email>safarican@hotmail.com</email>
+	</row>
+	<row num="82">
+		<idregistro>AD0005540</idregistro>
+		<fecharegistro>2012-10-09</fecharegistro>
+		<identidad>6160</identidad>
+		<nombre>A.D. CELLES GOLF BIZKAIA</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>43.2923765</latwgs84>
+		<lonwgs84>-2.877219</lonwgs84>
+		<direccion>LARRAURI,1</direccion>
+		<municipio>DERIO</municipio>
+		<codmunicipio>901</codmunicipio>
+		<codigopostal>48160</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944541328</telefono>
+		<email>golfcelles@gmail.com</email>
+	</row>
+	<row num="83">
+		<idregistro>AD0005852</idregistro>
+		<fecharegistro>2014-05-21</fecharegistro>
+		<identidad>6662</identidad>
+		<nombre>AGRUPACION DEPORTIVA FALCO ARABA</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<latwgs84>42.8436806</latwgs84>
+		<lonwgs84>-2.6726278</lonwgs84>
+		<direccion>EDUARDO DATO,2,1,C</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01005</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>659651685</telefono>
+		<email>falcoarabacetreros@gmail.com</email>
+	</row>
+	<row num="84">
+		<idregistro>AD0006764</idregistro>
+		<fecharegistro>2019-02-12</fecharegistro>
+		<identidad>7766</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA DE GIMNASIA Y YOGA MOMENTU</nombre>
+		<anoconstitucion>2019</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GIMNASIA</modalidadprincipal>
+		<latwgs84>43.2612566</latwgs84>
+		<lonwgs84>-2.9465062</lonwgs84>
+		<direccion>SABINO ARANA ,31,3,B</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48013</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944070729</telefono>
+		<email>mgarate@momentu.es</email>
+	</row>
+	<row num="85">
+		<idregistro>AD0006546</idregistro>
+		<fecharegistro>2017-06-01</fecharegistro>
+		<identidad>7522</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA PEÑA TABERNA BAIONA-BEÑAT</nombre>
+		<anoconstitucion>2017</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>43.2724036</latwgs84>
+		<lonwgs84>-2.9464242</lonwgs84>
+		<direccion>LUZARRA,6</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48014</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>647913582</telefono>
+		<fax>615703799</fax>
+		<email>penabaionabenat@gmail.com</email>
+	</row>
+	<row num="86">
+		<idregistro>AD0006076</idregistro>
+		<fecharegistro>2015-04-16</fecharegistro>
+		<identidad>6950</identidad>
+		<nombre>AGRUPACION DEPORTIVA GRUPO GARATU</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>VELA</modalidadprincipal>
+		<latwgs84>43.3023377</latwgs84>
+		<lonwgs84>-1.9067186</lonwgs84>
+		<direccion>POL. TXIRRITA MALEO,3A</direccion>
+		<municipio>ERRENTERIA</municipio>
+		<codmunicipio>67</codmunicipio>
+		<codigopostal>20100</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943344645</telefono>
+		<email>administracion@garatu.es</email>
+	</row>
+	<row num="87">
+		<idregistro>AD0005628</idregistro>
+		<fecharegistro>2013-11-14</fecharegistro>
+		<identidad>6234</identidad>
+		<nombre>A.D. KARRANTZAMENDI K.E.</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>43.1801457</latwgs84>
+		<lonwgs84>-3.3605504</lonwgs84>
+		<direccion>LAS TORCAHAS,S/N</direccion>
+		<municipio>KARRANTZA HARANA/VALLE DE CARRANZA</municipio>
+		<codmunicipio>22</codmunicipio>
+		<codigopostal>48891</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>609774343</telefono>
+		<email>karrantzamendi@hotmail.com</email>
+	</row>
+	<row num="88">
+		<idregistro>AD0000030</idregistro>
+		<fecharegistro>1990-10-10</fecharegistro>
+		<identidad>5408</identidad>
+		<nombre>A.D. DONOSTI GAIN S.C.D.</nombre>
+		<anoconstitucion>1990</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<otramodalidad>CICLISMO</otramodalidad>
+		<latwgs84>43.3167542</latwgs84>
+		<lonwgs84>-1.9694615</lonwgs84>
+		<direccion>AVDA. DE AMETZAGAÑA,28,BAJO</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20012</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943282061</telefono>
+		<email>donostigainscd@gmail.com</email>
+	</row>
+	<row num="89">
+		<idregistro>AD0000063</idregistro>
+		<fecharegistro>1991-06-11</fecharegistro>
+		<identidad>5416</identidad>
+		<nombre>AGRUPACION DEPORTIVO-CULTURAL MERCEDES BENZ</nombre>
+		<anoconstitucion>1990</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ACTIVIDADES SUBACUÁTICAS,TIRO,TIRO CON ARCO,SQUASH,PESCA,PELOTA VASCA,PADEL,MONTAÑA,GOLF,CICLISMO,CAZA,ATLETISMO</otramodalidad>
+		<latwgs84>42.8514129</latwgs84>
+		<lonwgs84>-2.7201032</lonwgs84>
+		<direccion>LAS ARENAS,1</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01015</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945178556</telefono>
+	</row>
+	<row num="90">
+		<idregistro>AD0000123</idregistro>
+		<fecharegistro>1992-09-10</fecharegistro>
+		<identidad>5431</identidad>
+		<nombre>A.D. REAL SOCIEDAD</nombre>
+		<anoconstitucion>1992</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ACTIVIDADES SUBACUÁTICAS,PELOTA VASCA,HOCKEY,ATLETISMO</otramodalidad>
+		<latwgs84>43.3010718</latwgs84>
+		<lonwgs84>-1.97438</lonwgs84>
+		<direccion>ANOETA PASALEKUA,1</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20014</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943462833</telefono>
+		<email>REALSOC@REALSOCIEDAD.COM</email>
+	</row>
+	<row num="91">
+		<idregistro>AD0000242</idregistro>
+		<fecharegistro>1993-11-11</fecharegistro>
+		<identidad>5446</identidad>
+		<nombre>A.D. S.C.D PEDRO AXULAR</nombre>
+		<anoconstitucion>1993</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BALONCESTO</otramodalidad>
+		<latwgs84>43.2983948</latwgs84>
+		<lonwgs84>-1.9882491</lonwgs84>
+		<direccion>Arostegi ,10</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20009</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943316066</telefono>
+		<email>jetxaniz@axular.net</email>
+	</row>
+	<row num="92">
+		<idregistro>AD0000369</idregistro>
+		<fecharegistro>1995-06-26</fecharegistro>
+		<identidad>5469</identidad>
+		<nombre>AGRUPACION DEPORTIVA ALTZAGA IKASTOLA ERANDIO KIROL ELKARTEA</nombre>
+		<anoconstitucion>1995</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BALONCESTO,GIMNASIA</otramodalidad>
+		<latwgs84>43.2984185</latwgs84>
+		<lonwgs84>-2.9715017</lonwgs84>
+		<direccion>KUKULARRA,8</direccion>
+		<municipio>ERANDIO</municipio>
+		<codmunicipio>902</codmunicipio>
+		<codigopostal>48950</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944671705</telefono>
+		<email>ige.altzagaerandiokirola@gmail.com</email>
+	</row>
+	<row num="93">
+		<idregistro>AD0000552</idregistro>
+		<fecharegistro>1996-11-27</fecharegistro>
+		<identidad>5488</identidad>
+		<nombre>A.D. S.C.R.D. BIDEBIETA</nombre>
+		<anoconstitucion>1996</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BADMINTON,PELOTA VASCA,MONTAÑA,FÚTBOL,DEPORTES DE INVIERNO,CICLISMO,CAZA,BALONMANO,BALONCESTO</otramodalidad>
+		<latwgs84>43.323279</latwgs84>
+		<lonwgs84>-1.9445307</lonwgs84>
+		<direccion>Pº DE SERAPIO MUGICA,18</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20016</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943398442</telefono>
+	</row>
+	<row num="94">
+		<idregistro>AD0000773</idregistro>
+		<fecharegistro>2002-02-20</fecharegistro>
+		<identidad>5570</identidad>
+		<nombre>ZEGAMAKO TARTALOETXE KULTUR ELKARTEAREN PELOTA KIROL ELKARTEA</nombre>
+		<anoconstitucion>1993</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<otramodalidad>HERRI KIROLAK</otramodalidad>
+		<latwgs84>42.9756477</latwgs84>
+		<lonwgs84>-2.2912371</lonwgs84>
+		<direccion>ANDRAITZ,2,BEHEA</direccion>
+		<municipio>ZEGAMA</municipio>
+		<codmunicipio>25</codmunicipio>
+		<codigopostal>20215</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>658705331</telefono>
+		<email>gomeztorresangel@gmail.com</email>
+	</row>
+	<row num="95">
+		<idregistro>AD0000788</idregistro>
+		<fecharegistro>2003-06-23</fecharegistro>
+		<identidad>5583</identidad>
+		<nombre>AÑORGAKO AÑORGA KULTUR ETA KIROL ELKARTEA</nombre>
+		<anoconstitucion>2003</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>AJEDREZ,PESCA,PELOTA VASCA,MONTAÑA,CAZA,BOLOS,BALONCESTO</otramodalidad>
+		<latwgs84>43.2855834</latwgs84>
+		<lonwgs84>-2.0000535</lonwgs84>
+		<direccion>AVDA. DE AÑORGA,44</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20018</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943363791</telefono>
+		<email>idazkaritza@anorgakke.org</email>
+	</row>
+	<row num="96">
+		<idregistro>AD0000818</idregistro>
+		<fecharegistro>2006-09-05</fecharegistro>
+		<identidad>5615</identidad>
+		<nombre>A. D. MONTAÑISMO ITXARTU TALDEA DE GETXO</nombre>
+		<anoconstitucion>2006</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<otramodalidad>ATLETISMO,PELOTA VASCA,HERRI KIROLAK,FÚTBOL,BALONCESTO</otramodalidad>
+		<latwgs84>43.3508516</latwgs84>
+		<lonwgs84>-3.011539</lonwgs84>
+		<direccion>AVDA. ALGORTAKO,104</direccion>
+		<municipio>GETXO</municipio>
+		<codmunicipio>44</codmunicipio>
+		<codigopostal>48990</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>695750649</telefono>
+	</row>
+	<row num="97">
+		<idregistro>AD0000830</idregistro>
+		<fecharegistro>2007-05-28</fecharegistro>
+		<identidad>5625</identidad>
+		<nombre>A. D. DE PESCA INTXAURRA DE DONOSTIA-SAN SEBASTIAN</nombre>
+		<anoconstitucion>2006</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PESCA</modalidadprincipal>
+		<otramodalidad>CAZA</otramodalidad>
+		<latwgs84>43.3121841</latwgs84>
+		<lonwgs84>-1.9521533</lonwgs84>
+		<direccion>PLAZA VALENCIA,5,BAJO</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20015</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943282399</telefono>
+	</row>
+	<row num="98">
+		<idregistro>AD0000847</idregistro>
+		<fecharegistro>2008-10-21</fecharegistro>
+		<identidad>5636</identidad>
+		<nombre>A. D. IZARBIDEAN</nombre>
+		<anoconstitucion>2008</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>ATLETISMO</modalidadprincipal>
+		<otramodalidad>DEPORTE ADAPTADO,VELA,NATACIÓN,HÍPICA,ESQUÍ NÁUTICO Y MOTONÁUTICA</otramodalidad>
+		<latwgs84>43.266217</latwgs84>
+		<lonwgs84>-2.497804700000001</lonwgs84>
+		<direccion>ABESUA,12,2º</direccion>
+		<municipio>MARKINA-XEMEIN</municipio>
+		<codmunicipio>60</codmunicipio>
+		<codigopostal>48270</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>645009046</telefono>
+		<fax>648255297</fax>
+		<email>IZARBIDEAN@EUSKALTEL.NET</email>
+	</row>
+	<row num="99">
+		<idregistro>AD0005501</idregistro>
+		<fecharegistro>2012-06-12</fecharegistro>
+		<identidad>5933</identidad>
+		<nombre>AD AMOR-VILLA EL SALVADOR</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ATLETISMO</otramodalidad>
+		<latwgs84>43.3021315</latwgs84>
+		<lonwgs84>-2.9766574</lonwgs84>
+		<direccion>SAN JERONIMO,2,6,4</direccion>
+		<municipio>ERANDIO</municipio>
+		<codmunicipio>902</codmunicipio>
+		<codigopostal>48950</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944672294</telefono>
+		<fax>622279013</fax>
+	</row>
+	<row num="100">
+		<idregistro>AD0005700</idregistro>
+		<fecharegistro>2014-01-08</fecharegistro>
+		<identidad>6432</identidad>
+		<nombre>AGRUPACION DEPORTIVA KIBEL KULTUR ETA KIROL ELKARTEA</nombre>
+		<anoconstitucion>2013</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<otramodalidad>MONTAÑA,TRIATLON</otramodalidad>
+		<latwgs84>43.2995532</latwgs84>
+		<lonwgs84>-2.0042511</lonwgs84>
+		<direccion>TXOMIN AGIRRE,12,BAJO</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20018</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943537134</telefono>
+		<email>cristina@pedalierweb.es</email>
+	</row>
+	<row num="101">
+		<idregistro>AD0006240</idregistro>
+		<fecharegistro>2016-01-12</fecharegistro>
+		<identidad>7129</identidad>
+		<nombre>AGRUPACION DEPORTIVA PLATEROTARRAK</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<otramodalidad>FÚTBOL,ATLETISMO</otramodalidad>
+		<latwgs84>43.312637</latwgs84>
+		<lonwgs84>-2.0040314</lonwgs84>
+		<direccion>MATIA,33,BAJO</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20008</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>635008089</telefono>
+		<email>kepalasi@gmail.com</email>
+	</row>
+	<row num="102">
+		<idregistro>AD0006501</idregistro>
+		<fecharegistro>2017-02-21</fecharegistro>
+		<identidad>7461</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA MINDARA / MINDARA KIROL ELKARTEA</nombre>
+		<anoconstitucion>2017</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<otramodalidad>ACTIVIDADES SUBACUÁTICAS,TIRO,TRIATLON,TIRO CON ARCO,TENIS DE MESA,TENIS,NATACIÓN,MONTAÑA,JUDO ,HÍPICA,FÚTBOL,ESGRIMA,DEPORTES DE INVIERNO,CICLISMO,BALONCESTO,BADMINTON,ATLETISMO,AJEDREZ</otramodalidad>
+		<latwgs84>43.3153636</latwgs84>
+		<lonwgs84>-1.8998116</lonwgs84>
+		<direccion>OLIBET ,6,BAJO</direccion>
+		<municipio>ERRENTERIA</municipio>
+		<codmunicipio>67</codmunicipio>
+		<codigopostal>20100</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943345719</telefono>
+		<email>info@mindara.org</email>
+	</row>
+	<row num="103">
+		<idregistro>AD0006751</idregistro>
+		<fecharegistro>2019-01-18</fecharegistro>
+		<identidad>7778</identidad>
+		<nombre>Agrupación Deportiva K-1 EUSKADI GLOBAL</nombre>
+		<anoconstitucion>2018</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>TAEKWONDO</modalidadprincipal>
+		<otramodalidad>BOXEO,LUCHA Y SAMBO,KARATE,JUDO</otramodalidad>
+		<latwgs84>43.3164185</latwgs84>
+		<lonwgs84>-1.9732752</lonwgs84>
+		<direccion>EGIA,16,7,C</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20012</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>628618247</telefono>
+		<email>info@k1basquecountry.com</email>
+	</row>
+	<row num="104">
+		<idregistro>AD0005451</idregistro>
+		<fecharegistro>2011-03-22</fecharegistro>
+		<identidad>5839</identidad>
+		<nombre>AGRUPACION CICLISTA MIRIBILLA BTT</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>JARDINES DE GERNIKA,14,DCHA,6º,A</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48003</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>629080096</telefono>
+		<email>miribillabtt@gmail.com</email>
+	</row>
+	<row num="105">
+		<idregistro>AD0005311</idregistro>
+		<fecharegistro>2010-04-19</fecharegistro>
+		<identidad>5675</identidad>
+		<nombre>A.D. DONOSTIROLLER-ASOCIACION DE PATINADORES DE DONOSTIA</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PATINAJE</modalidadprincipal>
+		<latwgs84>43.302839</latwgs84>
+		<lonwgs84>-2.0072917</lonwgs84>
+		<direccion>ILLARRA BERRI,1,BAJO</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20018</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>629450777</telefono>
+	</row>
+	<row num="106">
+		<idregistro>AD0000565</idregistro>
+		<fecharegistro>1997-02-10</fecharegistro>
+		<identidad>5481</identidad>
+		<nombre>GOLF DE LARRABEA AGRUPACION DEPORTIVA</nombre>
+		<anoconstitucion>1995</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>42.9601052</latwgs84>
+		<lonwgs84>-2.5880801</lonwgs84>
+		<direccion>CTRA. DE LANDA,S/N</direccion>
+		<municipio>LEGUTIANO</municipio>
+		<codmunicipio>58</codmunicipio>
+		<codigopostal>01170</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945465482</telefono>
+	</row>
+	<row num="107">
+		<idregistro>AD0000854</idregistro>
+		<fecharegistro>2009-04-17</fecharegistro>
+		<identidad>5643</identidad>
+		<nombre>A. D. ASOCIACIÓN DE AMIGOS DE LOS CAMINOS DE SANTI</nombre>
+		<anoconstitucion>2009</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>43.3185223</latwgs84>
+		<lonwgs84>-1.9840424</lonwgs84>
+		<direccion>URBIETA,2,SÓTANO</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20006</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943427281</telefono>
+	</row>
+	<row num="108">
+		<idregistro>AD0006821</idregistro>
+		<fecharegistro>2019-05-21</fecharegistro>
+		<identidad>7875</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA BASKAURI FUTBOL ELKARTEA</nombre>
+		<anoconstitucion>2019</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>LEON,18,6,A</direccion>
+		<municipio>BASAURI</municipio>
+		<codmunicipio>15</codmunicipio>
+		<codigopostal>48970</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>607303845</telefono>
+		<email>baskoniafutboleskola@gmail.com</email>
+	</row>
+	<row num="109">
+		<idregistro>AD0005563</idregistro>
+		<fecharegistro>2013-06-07</fecharegistro>
+		<identidad>6311</identidad>
+		<nombre>AGRUPACION DEPORTIVA IRRISTAKA TALDEA DE PATINAJE</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PATINAJE</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>USABAL,25,A</direccion>
+		<municipio>TOLOSA</municipio>
+		<codmunicipio>71</codmunicipio>
+		<codigopostal>20400</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>647978846</telefono>
+		<email>irristaka@gmail.org</email>
+	</row>
+	<row num="110">
+		<idregistro>AD0006722</idregistro>
+		<fecharegistro>2018-10-23</fecharegistro>
+		<identidad>7738</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA ZAZPI JAUSI RUGBY ELKARTEA</nombre>
+		<anoconstitucion>2018</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>RUGBY</modalidadprincipal>
+		<latwgs84>43.2858998</latwgs84>
+		<lonwgs84>-2.9822538</lonwgs84>
+		<direccion>PASEO CIRILO SAGASTAGOITIA,12,BAJO</direccion>
+		<municipio>BARAKALDO</municipio>
+		<codmunicipio>13</codmunicipio>
+		<codigopostal>48903</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>652753281</telefono>
+		<email>aac.hayunaesperanzaparati@gmail.com</email>
+	</row>
+	<row num="111">
+		<idregistro>AD0005508</idregistro>
+		<fecharegistro>2012-07-05</fecharegistro>
+		<identidad>6030</identidad>
+		<nombre>AD BASQUE CYCLING PRO TEAM</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.2895917</latwgs84>
+		<lonwgs84>-2.8594775</lonwgs84>
+		<direccion>PARQUE TECNOLOGICO,226</direccion>
+		<municipio>ZAMUDIO</municipio>
+		<codmunicipio>905</codmunicipio>
+		<codigopostal>48170</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944011455</telefono>
+	</row>
+	<row num="112">
+		<idregistro>AD0005698</idregistro>
+		<fecharegistro>2014-01-07</fecharegistro>
+		<identidad>6429</identidad>
+		<nombre>AGRUPACION DEPORTIVA DE CAZA OREIN</nombre>
+		<anoconstitucion>2013</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<latwgs84>43.11168960000001</latwgs84>
+		<lonwgs84>-2.9118564</lonwgs84>
+		<direccion>ANDRA MARI,8</direccion>
+		<municipio>OROZKO</municipio>
+		<codmunicipio>75</codmunicipio>
+		<codigopostal>48410</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>616937572</telefono>
+		<email>orein-orozko@hotmail.com</email>
+	</row>
+	<row num="113">
+		<idregistro>AD0006943</idregistro>
+		<fecharegistro>2020-03-12</fecharegistro>
+		<identidad>8031</identidad>
+		<nombre>AGRUPACION DEPORTIVA ANTXETA</nombre>
+		<anoconstitucion>2019</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PESCA</modalidadprincipal>
+		<latwgs84>43.3276911</latwgs84>
+		<lonwgs84>-1.9702167</lonwgs84>
+		<direccion>PASEO JOSE MIGUEL BARANDIARAN,14,BAJO</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20013</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943281791</telefono>
+		<email>antxeta@antxeta.org</email>
+	</row>
+	<row num="114">
+		<idregistro>AD0005847</idregistro>
+		<fecharegistro>2014-05-08</fecharegistro>
+		<identidad>6675</identidad>
+		<nombre>A.D. DE BALONCESTO ARASKI ARABAKO EMAKUMEEN SASKIBALOIA</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<latwgs84>42.8477024</latwgs84>
+		<lonwgs84>-2.7096105</lonwgs84>
+		<direccion>BULEVAR DE MARITURRI,42,5,B</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01015</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>606362101</telefono>
+		<email>araski@araski.com</email>
+	</row>
+	<row num="115">
+		<idregistro>AD0005476</idregistro>
+		<fecharegistro>2012-03-28</fecharegistro>
+		<identidad>5960</identidad>
+		<nombre>AGRUPACION DEPORTIVA BILBAOGOLF</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>43.26251449999999</latwgs84>
+		<lonwgs84>-2.9264826</lonwgs84>
+		<direccion>BARROETA ALDAMAR,4-4,DP43</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48001</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>946674030</telefono>
+		<email>GOLF@BILBAOGOLF.COM</email>
+	</row>
+	<row num="116">
+		<idregistro>AD0005282</idregistro>
+		<fecharegistro>2011-11-24</fecharegistro>
+		<identidad>5914</identidad>
+		<nombre>UR-MIA BOLA ETA TOKA KIROL ELKARTEA</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BOLOS</modalidadprincipal>
+		<latwgs84>43.2419249</latwgs84>
+		<lonwgs84>-1.9404599</lonwgs84>
+		<direccion>EREÑOZU AUZOA ,17,BEH</direccion>
+		<municipio>HERNANI</municipio>
+		<codmunicipio>40</codmunicipio>
+		<codigopostal>20128</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943550006</telefono>
+		<fax>625703656</fax>
+		<email>AIOARTZABAL@HOTMAIL.COM</email>
+	</row>
+	<row num="117">
+		<idregistro>AD0000763</idregistro>
+		<fecharegistro>2001-01-11</fecharegistro>
+		<identidad>5558</identidad>
+		<nombre>A.D. FUTBOL ASOCIACION CULTURAL SUISACO</nombre>
+		<anoconstitucion>2000</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>42.820691</latwgs84>
+		<lonwgs84>-2.7680247</lonwgs84>
+		<direccion>CAMINO DEL MONTE (Centro Social Armentia),S/N</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01195</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945131301</telefono>
+		<fax>945234305</fax>
+		<email>pilar.revuelta@gmail.com</email>
+	</row>
+	<row num="118">
+		<idregistro>AD0006212</idregistro>
+		<fecharegistro>2015-11-10</fecharegistro>
+		<identidad>7079</identidad>
+		<nombre>AGRUPACION DEPORTIVA ZONA PADEL ZAMUDIO</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PADEL</modalidadprincipal>
+		<latwgs84>43.2787268</latwgs84>
+		<lonwgs84>-2.8553105</lonwgs84>
+		<direccion>POL. IND. TORRELARRAGOITI,7,A</direccion>
+		<municipio>ZAMUDIO</municipio>
+		<codmunicipio>905</codmunicipio>
+		<codigopostal>48170</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>635748262</telefono>
+		<email>asierlopezgarasom@gmail.com</email>
+	</row>
+	<row num="119">
+		<idregistro>AD0000476</idregistro>
+		<fecharegistro>1996-04-18</fecharegistro>
+		<identidad>5484</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA IZKI-GOLF (URTURI-LAGRAN)</nombre>
+		<anoconstitucion>1996</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>42.6372325</latwgs84>
+		<lonwgs84>-2.5240975</lonwgs84>
+		<direccion>ARRIBA,S/N</direccion>
+		<municipio>BERNEDO</municipio>
+		<codmunicipio>16</codmunicipio>
+		<codigopostal>01118</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945378262</telefono>
+		<fax>945378187</fax>
+		<email>gerencia@izkigolf.eus</email>
+	</row>
+	<row num="120">
+		<idregistro>AD0000136</idregistro>
+		<fecharegistro>1992-09-25</fecharegistro>
+		<identidad>5433</identidad>
+		<nombre>A.D. ONTZA</nombre>
+		<anoconstitucion>1992</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<otramodalidad>PESCA,CICLISMO</otramodalidad>
+		<latwgs84>43.2186367</latwgs84>
+		<lonwgs84>-2.021197</lonwgs84>
+		<direccion>MADRE CANDIDA,27,BAJO</direccion>
+		<municipio>ANDOAIN</municipio>
+		<codmunicipio>9</codmunicipio>
+		<codigopostal>20140</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943300689</telefono>
+		<email>ontzaelkartea@hotmail.com</email>
+	</row>
+	<row num="121">
+		<idregistro>AD0000200</idregistro>
+		<fecharegistro>1993-04-26</fecharegistro>
+		<identidad>5440</identidad>
+		<nombre>A.D. ASOC. CAZA IBERDROLA</nombre>
+		<anoconstitucion>1993</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<otramodalidad>TIRO OLÍMPICO (NO RECONOCIDA),PESCA</otramodalidad>
+		<latwgs84>43.2612806</latwgs84>
+		<lonwgs84>-2.9316119</lonwgs84>
+		<direccion>CARDENAL GARDOQUI,8</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48008</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>94-4151411</telefono>
+	</row>
+	<row num="122">
+		<idregistro>AD0000709</idregistro>
+		<fecharegistro>1998-06-24</fecharegistro>
+		<identidad>5509</identidad>
+		<nombre>AD. ASOCIACION DISMINUIDOS FISICOS DE ERMUA-BIDARI</nombre>
+		<anoconstitucion>1998</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>TIRO OLÍMPICO (NO RECONOCIDA)</modalidadprincipal>
+		<otramodalidad>NATACIÓN,TIRO CON ARCO,DEPORTE ADAPTADO</otramodalidad>
+		<latwgs84>43.1882315</latwgs84>
+		<lonwgs84>-2.505255</lonwgs84>
+		<direccion>ALDAPA,2,1º B</direccion>
+		<municipio>ERMUA</municipio>
+		<codmunicipio>34</codmunicipio>
+		<codigopostal>48260</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+	</row>
+	<row num="123">
+		<idregistro>AD0000702</idregistro>
+		<fecharegistro>1998-05-28</fecharegistro>
+		<identidad>5512</identidad>
+		<nombre>A. D. EUSKARARAKO ELKARTEA</nombre>
+		<anoconstitucion>1998</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<otramodalidad>CICLISMO,DEPORTES DE INVIERNO</otramodalidad>
+		<latwgs84>42.8412679</latwgs84>
+		<lonwgs84>-2.695263</lonwgs84>
+		<direccion>TEODORO GONZALEZ DE ZARATE,24,2ºIZQ</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01007</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>688696143</telefono>
+		<fax>945272676</fax>
+		<email>euskararako@gmail.com</email>
+	</row>
+	<row num="124">
+		<idregistro>AD0005244</idregistro>
+		<fecharegistro>2011-07-12</fecharegistro>
+		<identidad>5869</identidad>
+		<nombre>A.D. COLEGIO SAN PRUDENCIO</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>AJEDREZ,PATINAJE,KARATE,BALONCESTO</otramodalidad>
+		<latwgs84>42.8591399</latwgs84>
+		<lonwgs84>-2.69095</lonwgs84>
+		<direccion>DUQUE DE WELLINGTON,4</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01010</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945171957</telefono>
+		<email>deporte@colegiosanprudencio.net</email>
+	</row>
+	<row num="125">
+		<idregistro>AD0006276</idregistro>
+		<fecharegistro>2016-03-17</fecharegistro>
+		<identidad>6155</identidad>
+		<nombre>AGRUPACION DEPORTIVA AFNE GEU BE</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>DEPORTE ADAPTADO</otramodalidad>
+		<latwgs84>43.1684221</latwgs84>
+		<lonwgs84>-2.6281932</lonwgs84>
+		<direccion>KURUTZIAGA,13</direccion>
+		<municipio>DURANGO</municipio>
+		<codmunicipio>27</codmunicipio>
+		<codigopostal>48200</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>946217268</telefono>
+		<fax>662323394</fax>
+		<email>afnegeube@yahoo.es</email>
+	</row>
+	<row num="126">
+		<idregistro>AD0005670</idregistro>
+		<fecharegistro>2013-12-12</fecharegistro>
+		<identidad>6203</identidad>
+		<nombre>A.D. AMPA &amp;quot;SUSTAPEN&amp;quot; PEÑAFLORIDA USANDIZADA - AMARA</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<otramodalidad>AJEDREZ,VOLEIBOL,TENIS DE MESA,PELOTA VASCA,FÚTBOL,ESGRIMA,BALONMANO</otramodalidad>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>AVDA FELIPE IV,1,A</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20010</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>615701765</telefono>
+		<email>Imuri@hotmail.com</email>
+	</row>
+	<row num="127">
+		<idregistro>AD0005626</idregistro>
+		<fecharegistro>2013-11-12</fecharegistro>
+		<identidad>6204</identidad>
+		<nombre>TXULOBI SOLAS ETA KIROL ELKARTEA</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<otramodalidad>CAZA,CICLISMO,MONTAÑA</otramodalidad>
+		<latwgs84>43.2039312</latwgs84>
+		<lonwgs84>-2.0490589</lonwgs84>
+		<direccion>UDALETXE AZPIA,S/N</direccion>
+		<municipio>ADUNA</municipio>
+		<codmunicipio>2</codmunicipio>
+		<codigopostal>20150</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943692571</telefono>
+	</row>
+	<row num="128">
+		<idregistro>AD0005800</idregistro>
+		<fecharegistro>2014-02-21</fecharegistro>
+		<identidad>6612</identidad>
+		<nombre>AGRUPACION DEPORTIVA GORANTZA</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ATLETISMO,PADEL,MONTAÑA,CICLISMO</otramodalidad>
+		<latwgs84>43.2515021</latwgs84>
+		<lonwgs84>-2.9146493</lonwgs84>
+		<direccion>SANTUTXU,40,BAJO</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48004</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>660991933</telefono>
+		<email>jonrodriguez@avifes.org</email>
+	</row>
+	<row num="129">
+		<idregistro>AD0000765</idregistro>
+		<fecharegistro>2001-05-14</fecharegistro>
+		<identidad>5560</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA FUNDACIÓN 5+11 FUNDAZIOA</nombre>
+		<anoconstitucion>2001</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<otramodalidad>FÚTBOL</otramodalidad>
+		<latwgs84>42.8637149</latwgs84>
+		<lonwgs84>-2.6409364</lonwgs84>
+		<direccion>CARRETERA DE ZURBANO,S/N</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01013</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945273400</telefono>
+		<email>administracion@fundacin5mas11.org</email>
+	</row>
+	<row num="130">
+		<idregistro>AD0006162</idregistro>
+		<fecharegistro>2015-08-11</fecharegistro>
+		<identidad>7027</identidad>
+		<nombre>AGRUPACION DEPORTIVA FIELD TARGET EUSKADI</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>TIRO</modalidadprincipal>
+		<otramodalidad>CAZA</otramodalidad>
+		<latwgs84>43.2359058</latwgs84>
+		<lonwgs84>-2.8909966</lonwgs84>
+		<direccion>KAREAGA GOIKOA,111,1º H</direccion>
+		<municipio>BASAURI</municipio>
+		<codmunicipio>15</codmunicipio>
+		<codigopostal>48970</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>635722750</telefono>
+		<email>sheniaft@hotmail.com</email>
+	</row>
+	<row num="131">
+		<idregistro>AD0006207</idregistro>
+		<fecharegistro>2015-10-28</fecharegistro>
+		<identidad>7087</identidad>
+		<nombre>AGRUPACION DEPORTIVA &amp;quot;APUNTA Y DISPARA&amp;quot;</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<otramodalidad>PESCA</otramodalidad>
+		<latwgs84>43.1472839</latwgs84>
+		<lonwgs84>-2.6443644</lonwgs84>
+		<direccion>Bº Elizalde,32</direccion>
+		<municipio>IZURTZA</municipio>
+		<codmunicipio>50</codmunicipio>
+		<codigopostal>48213</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>630219071</telefono>
+		<email>navarra@geroa.org</email>
+	</row>
+	<row num="132">
+		<idregistro>AD0006210</idregistro>
+		<fecharegistro>2015-11-06</fecharegistro>
+		<identidad>7108</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA ZUBIRI-MANTEO KIROL ELKARTEA</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AJEDREZ</modalidadprincipal>
+		<otramodalidad>ATLETISMO,VOLEIBOL,SURF,PELOTA VASCA,PADEL,MONTAÑA,JUDO ,HERRI KIROLAK,GIMNASIA,FÚTBOL,DEPORTES DE INVIERNO,BALONMANO,BALONCESTO</otramodalidad>
+		<latwgs84>43.3259482</latwgs84>
+		<lonwgs84>-1.968848</lonwgs84>
+		<direccion>ALEJANDRÍA,2</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20013</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943326088</telefono>
+		<email>gurasoak@zubirimanteo.com</email>
+	</row>
+	<row num="133">
+		<idregistro>AD0006241</idregistro>
+		<fecharegistro>2016-01-12</fecharegistro>
+		<identidad>7134</identidad>
+		<nombre>AGRUPACION DEPORTIVA TEDI VITORIA</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>AJEDREZ,TENIS DE MESA,TAEKWONDO,PATINAJE,JUDO ,BALONCESTO</otramodalidad>
+		<latwgs84>42.8434692</latwgs84>
+		<lonwgs84>-2.668952</lonwgs84>
+		<direccion>ORTIZ DE ZARATE,22,3º,D</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01005</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>680152786</telefono>
+		<email>mzulaica@tedi-org.com</email>
+	</row>
+	<row num="134">
+		<idregistro>AD0006733</idregistro>
+		<fecharegistro>2018-11-27</fecharegistro>
+		<identidad>7734</identidad>
+		<nombre>AGRUPACION DEPORTIVA INDAR - ARLABÁN</nombre>
+		<anoconstitucion>2018</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>TENIS DE MESA,BALONCESTO</otramodalidad>
+		<latwgs84>42.8464628</latwgs84>
+		<lonwgs84>-2.6762695</lonwgs84>
+		<direccion>VICENTE GOIKOETXEA ,6,1º</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01008</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>6357111167</telefono>
+		<email>info@clubindar.org</email>
+	</row>
+	<row num="135">
+		<idregistro>AD0006771</idregistro>
+		<fecharegistro>2019-02-19</fecharegistro>
+		<identidad>7805</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA IBILKI KIROL ELKARTEA</nombre>
+		<anoconstitucion>2019</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<otramodalidad>DEPORTES DE INVIERNO</otramodalidad>
+		<latwgs84>43.3527519</latwgs84>
+		<lonwgs84>-3.0094879</lonwgs84>
+		<direccion>SARRIKOBASO,10,2.,IZDA.</direccion>
+		<municipio>GETXO</municipio>
+		<codmunicipio>44</codmunicipio>
+		<codigopostal>48991</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>946557321</telefono>
+		<email>ibilkibidaiak@gmail.com</email>
+	</row>
+	<row num="136">
+		<idregistro>AD0006532</idregistro>
+		<fecharegistro>2017-04-26</fecharegistro>
+		<identidad>7500</identidad>
+		<nombre>MSK HOCKEY MUNGIA K.E.</nombre>
+		<anoconstitucion>2017</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PATINAJE</modalidadprincipal>
+		<latwgs84>43.3539854</latwgs84>
+		<lonwgs84>-2.8471263</lonwgs84>
+		<direccion>FORUEN ENPARANTZA ,1.,-2</direccion>
+		<municipio>MUNGIA</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>48100</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>696354278</telefono>
+		<email>info@malenskate.com</email>
+	</row>
+	<row num="137">
+		<idregistro>AD0006006</idregistro>
+		<fecharegistro>2015-02-04</fecharegistro>
+		<identidad>6791</identidad>
+		<nombre>AGRUPACION DEPORTIVA CARREJO DE RANZARI</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BOLOS</modalidadprincipal>
+		<latwgs84>43.3228092</latwgs84>
+		<lonwgs84>-3.0335682</lonwgs84>
+		<direccion>ANTONIO ALTZAGA ETORB.,19,1</direccion>
+		<municipio>SANTURTZI</municipio>
+		<codmunicipio>82</codmunicipio>
+		<codigopostal>48980</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944831580</telefono>
+		<fax>688829724</fax>
+		<email>tontxutotorika@gmail.com</email>
+	</row>
+	<row num="138">
+		<idregistro>AD0000852</idregistro>
+		<fecharegistro>2009-01-09</fecharegistro>
+		<identidad>5641</identidad>
+		<nombre>A. D. DE BALONCESTO GEU DE BILBAO</nombre>
+		<anoconstitucion>2007</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<latwgs84>43.2608614</latwgs84>
+		<lonwgs84>-2.9327942</lonwgs84>
+		<direccion>LICENCIADO POZA,1</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48008</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944022700</telefono>
+		<fax>655706172</fax>
+	</row>
+	<row num="139">
+		<idregistro>AD0005372</idregistro>
+		<fecharegistro>2010-09-09</fecharegistro>
+		<identidad>5754</identidad>
+		<nombre>A.D. FUNDACION DEPORTIVO ALAVES</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>42.8380228</latwgs84>
+		<lonwgs84>-2.6887438</lonwgs84>
+		<direccion>PASEO DE CERVANTES,S/N</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01007</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>630114212</telefono>
+	</row>
+	<row num="140">
+		<idregistro>AD0005647</idregistro>
+		<fecharegistro>2013-11-25</fecharegistro>
+		<identidad>6230</identidad>
+		<nombre>AGRUPACION DEPORTIVA PIÑA KURDIN</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<latwgs84>43.3254592</latwgs84>
+		<lonwgs84>-1.9229568</lonwgs84>
+		<direccion>SAN PEDRO KALEA,32</direccion>
+		<municipio>PASAIA</municipio>
+		<codmunicipio>64</codmunicipio>
+		<codigopostal>20110</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>699561863</telefono>
+		<email>hatzxu@yahoo.com</email>
+	</row>
+	<row num="141">
+		<idregistro>AD0000776</idregistro>
+		<fecharegistro>2002-05-20</fecharegistro>
+		<identidad>5573</identidad>
+		<nombre>A.D. DE HIPICA BURDIN ZALDIA-ASOCIACION PARA LA EDUCACION MEDIO AMBIENTAL Y LA PROMOCION ECUESTRE DE TRAPAGA</nombre>
+		<anoconstitucion>2002</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>HÍPICA</modalidadprincipal>
+		<latwgs84>43.2962729</latwgs84>
+		<lonwgs84>-3.0374862</lonwgs84>
+		<direccion>ESTRADA DE SAN ANDRES,31</direccion>
+		<municipio>VALLE DE TRÁPAGA-TRAPAGARAN</municipio>
+		<codmunicipio>80</codmunicipio>
+		<codigopostal>48510</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>656754981</telefono>
+		<fax>944452700</fax>
+	</row>
+	<row num="142">
+		<idregistro>AD0000798</idregistro>
+		<fecharegistro>2004-03-10</fecharegistro>
+		<identidad>5608</identidad>
+		<nombre>AD FEDERACION COORDINADORA DE PERSONAS CON DISCAPACIDAD FÍSICA DE BIZKAIA</nombre>
+		<anoconstitucion>2004</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>DEPORTE ADAPTADO</modalidadprincipal>
+		<latwgs84>43.2698381</latwgs84>
+		<lonwgs84>-2.9531255</lonwgs84>
+		<direccion>BLAS DE OTERO,63,LONJA</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48014</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944053666</telefono>
+		<email>fekoor@fekoor.com</email>
+	</row>
+	<row num="143">
+		<idregistro>AD0005271</idregistro>
+		<fecharegistro>2011-11-08</fecharegistro>
+		<identidad>5898</identidad>
+		<nombre>A.D. ATLETISMO IXATXAK</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>ATLETISMO</modalidadprincipal>
+		<latwgs84>43.2373592</latwgs84>
+		<lonwgs84>-2.8870198</lonwgs84>
+		<direccion>NAFARROA,18</direccion>
+		<municipio>BASAURI</municipio>
+		<codmunicipio>15</codmunicipio>
+		<codigopostal>48970</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944404771</telefono>
+		<email>aaasanjose@yahoo.es</email>
+	</row>
+	<row num="144">
+		<idregistro>AD0005344</idregistro>
+		<fecharegistro>2010-06-10</fecharegistro>
+		<identidad>5720</identidad>
+		<nombre>A.D. DE MONTAÑA EXPLORADORES DE THULE I</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>43.3051033</latwgs84>
+		<lonwgs84>-2.0163288</lonwgs84>
+		<direccion>MARUGAME ENPARANTZA,2,BAJO</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20018</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>634603025</telefono>
+		<email>paitabasati@jahoo.es</email>
+	</row>
+	<row num="145">
+		<idregistro>AD0000780</idregistro>
+		<fecharegistro>2002-07-31</fecharegistro>
+		<identidad>5575</identidad>
+		<nombre>A. D. FUNDACION CICLISTA DE EUSKADI-EUSKADIKO TXIRRINDULARITZA IRASKUNDEA</nombre>
+		<anoconstitucion>2002</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.2586469</latwgs84>
+		<lonwgs84>-2.9394863</lonwgs84>
+		<direccion>EGAÑA,18,2ºDRC,OFICINA 3</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48010</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944278364</telefono>
+		<email>fundacion@fundacioneuskadi.com</email>
+	</row>
+	<row num="146">
+		<idregistro>AD0005302</idregistro>
+		<fecharegistro>2010-04-13</fecharegistro>
+		<identidad>5664</identidad>
+		<nombre>A.D. GOLF JUNDIZ VITORIA</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>42.8311553</latwgs84>
+		<lonwgs84>-2.7418693</lonwgs84>
+		<direccion>PADULETA,30</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01015</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945357888</telefono>
+	</row>
+	<row num="147">
+		<idregistro>AD0005614</idregistro>
+		<fecharegistro>2013-10-29</fecharegistro>
+		<identidad>6167</identidad>
+		<nombre>AGRUPACION DEPORTIVA ITURRIBERO MENDI</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>BURGOS,8,7º D,D</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01002</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>619820581</telefono>
+		<fax>678554128</fax>
+	</row>
+	<row num="148">
+		<idregistro>AD0006823</idregistro>
+		<fecharegistro>2019-05-27</fecharegistro>
+		<identidad>7879</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA URABURU GOLF KIROL ELKARTEA</nombre>
+		<anoconstitucion>2019</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>43.2516754</latwgs84>
+		<lonwgs84>-2.8376671</lonwgs84>
+		<direccion>CR/ BI 3732 KM-11, ,5</direccion>
+		<municipio>GALDAKAO</municipio>
+		<codmunicipio>36</codmunicipio>
+		<codigopostal>48960</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>946565505</telefono>
+		<email>consejo@uraburugolf.com</email>
+	</row>
+	<row num="149">
+		<idregistro>AD0000271</idregistro>
+		<fecharegistro>1994-04-21</fecharegistro>
+		<identidad>5451</identidad>
+		<nombre>A.D. ATZEGI KIROL ELKARTEA</nombre>
+		<anoconstitucion>1994</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>DEPORTE ADAPTADO</modalidadprincipal>
+		<otramodalidad>ATLETISMO,VELA,TIRO CON ARCO,TENIS DE MESA,PELOTA VASCA,NATACIÓN,MONTAÑA,JUDO ,HOCKEY,HÍPICA,GIMNASIA,FÚTBOL,DEPORTES DE INVIERNO,BALONCESTO</otramodalidad>
+		<latwgs84>43.3224333</latwgs84>
+		<lonwgs84>-1.9817356</lonwgs84>
+		<direccion>OKENDO,6,BAJO</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20080</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943423942</telefono>
+		<email>administracion@atzegi.org</email>
+	</row>
+	<row num="150">
+		<idregistro>AD0000684</idregistro>
+		<fecharegistro>1998-03-10</fecharegistro>
+		<identidad>5508</identidad>
+		<nombre>A. D. ER.N.E.</nombre>
+		<anoconstitucion>1998</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>TIRO OLÍMPICO (NO RECONOCIDA)</modalidadprincipal>
+		<otramodalidad>ACTIVIDADES SUBACUÁTICAS,TRIATLON,NATACIÓN,DEPORTES DE INVIERNO</otramodalidad>
+		<latwgs84>43.192734</latwgs84>
+		<lonwgs84>-3.197451</lonwgs84>
+		<direccion>SAN ROQUE,3,4º PLTA</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48007</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944130194</telefono>
+		<fax>688843846</fax>
+		<email>servicios@erne.es</email>
+	</row>
+	<row num="151">
+		<idregistro>AD0006367</idregistro>
+		<fecharegistro>2016-07-21</fecharegistro>
+		<identidad>7286</identidad>
+		<nombre>A.D. IKASBIDESPORT CENTRO.IT BILBAO</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>AJEDREZ,MONTAÑA,KARATE,BALONCESTO</otramodalidad>
+		<latwgs84>43.2598355</latwgs84>
+		<lonwgs84>-2.9413149</lonwgs84>
+		<direccion>SIMON BOLIVAR ,5</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48010</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>946120863</telefono>
+		<email>eapm1968@gmail.com</email>
+	</row>
+	<row num="152">
+		<idregistro>AD0006486</idregistro>
+		<fecharegistro>2017-02-01</fecharegistro>
+		<identidad>7438</identidad>
+		<nombre>SANTO TOMAS LIZEOA KIROL ELKARTEA</nombre>
+		<anoconstitucion>2017</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>ATLETISMO</modalidadprincipal>
+		<otramodalidad>AJEDREZ,VOLEIBOL,TIRO CON ARCO,RUGBY,PIRAGÜISMO,PELOTA VASCA,PATINAJE,NATACIÓN,KARATE,JUDO ,HOCKEY,GIMNASIA,FÚTBOL,BALONCESTO</otramodalidad>
+		<latwgs84>43.3038901</latwgs84>
+		<lonwgs84>-2.0129859</lonwgs84>
+		<direccion>MANUEL LARDIZABAL (STO. TOMÁS LIZEOA),24</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20018</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>607247606</telefono>
+		<email>aizarnajp@gmail.com</email>
+	</row>
+	<row num="153">
+		<idregistro>AD0000762</idregistro>
+		<fecharegistro>2000-12-22</fecharegistro>
+		<identidad>5557</identidad>
+		<nombre>A.D. DE KARATE EUZKADI DE CULTURA ORIENTAL</nombre>
+		<anoconstitucion>2000</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>KARATE</modalidadprincipal>
+		<otramodalidad>BOXEO,GIMNASIA</otramodalidad>
+		<latwgs84>43.2929262</latwgs84>
+		<lonwgs84>-2.9948826</lonwgs84>
+		<direccion>LA ECONOMIA,42,BAJO</direccion>
+		<municipio>BARAKALDO</municipio>
+		<codmunicipio>13</codmunicipio>
+		<codigopostal>48902</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+	</row>
+	<row num="154">
+		<idregistro>AD0000766</idregistro>
+		<fecharegistro>2001-06-25</fecharegistro>
+		<identidad>5561</identidad>
+		<nombre>AGRUPACION DEPORTIVA DE DEPORTES DE INVIERNO ASOCIACION RECREATIVO DEPORTIVO HAMAZAZPI</nombre>
+		<anoconstitucion>2001</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>DEPORTES DE INVIERNO</modalidadprincipal>
+		<otramodalidad>MONTAÑA</otramodalidad>
+		<latwgs84>43.3022629</latwgs84>
+		<lonwgs84>-2.0094051</lonwgs84>
+		<direccion>PORTUETXE,15,1º</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20005</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>676412002</telefono>
+		<fax>943423305</fax>
+		<email>luismiguelbravoduran@hotmail.com</email>
+	</row>
+	<row num="155">
+		<idregistro>AD0000834</idregistro>
+		<fecharegistro>2007-12-18</fecharegistro>
+		<identidad>5628</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA EKIALDERANTZ BALONCESTO VITORIA</nombre>
+		<anoconstitucion>2007</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<otramodalidad>FÚTBOL</otramodalidad>
+		<latwgs84>42.8425738</latwgs84>
+		<lonwgs84>-2.6650297</lonwgs84>
+		<direccion>JUAN XXIII,2</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01004</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945263745</telefono>
+		<fax>615761632</fax>
+		<email>montselaa@hotmail.com/mariel.quera@gmail.com</email>
+	</row>
+	<row num="156">
+		<idregistro>AD0000860</idregistro>
+		<fecharegistro>2009-06-15</fecharegistro>
+		<identidad>5648</identidad>
+		<nombre>DURANAKO IKASBIDEA IKASTOLAKO ITURRIBERO GURASO EL</nombre>
+		<anoconstitucion>2009</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BALONCESTO,MONTAÑA,JUDO ,CICLISMO</otramodalidad>
+		<latwgs84>42.890759</latwgs84>
+		<lonwgs84>-2.63689</lonwgs84>
+		<direccion>ITURRIBERO,3</direccion>
+		<municipio>ARRAZUA-UBARRUNDIA</municipio>
+		<codmunicipio>8</codmunicipio>
+		<codigopostal>01520</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>637558062</telefono>
+	</row>
+	<row num="157">
+		<idregistro>AD0005253</idregistro>
+		<fecharegistro>2011-10-11</fecharegistro>
+		<identidad>5881</identidad>
+		<nombre>A.D. AUSTARRI MEND TALDEA</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>DEPORTES DE INVIERNO</modalidadprincipal>
+		<otramodalidad>CICLISMO</otramodalidad>
+		<latwgs84>43.1476386</latwgs84>
+		<lonwgs84>-2.8485295</lonwgs84>
+		<direccion>Bº ZUBIALDE,0</direccion>
+		<municipio>ZEBERIO</municipio>
+		<codmunicipio>25</codmunicipio>
+		<codigopostal>48499</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>653719290</telefono>
+		<email>ana.belen.alberdi@bizkaia.net</email>
+	</row>
+	<row num="158">
+		<idregistro>AD0005576</idregistro>
+		<fecharegistro>2013-07-10</fecharegistro>
+		<identidad>6150</identidad>
+		<nombre>AGRUPACION DEPORTIVA UNBE MENDI</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>TENIS</modalidadprincipal>
+		<otramodalidad>JUDO ,PADEL</otramodalidad>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>UNBE MENDI,S/N</direccion>
+		<municipio>LAUKIZ</municipio>
+		<codmunicipio>53</codmunicipio>
+		<codigopostal>48111</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944531059</telefono>
+		<email>_cop.v.unbe@euskalnet.net</email>
+	</row>
+	<row num="159">
+		<idregistro>AD0000868</idregistro>
+		<fecharegistro>2010-03-01</fecharegistro>
+		<identidad>5655</identidad>
+		<nombre>A.D. PEÑA ATHLETIC SESTAOTARRA ZU ZARA NAGUSIA</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BOLOS,BALONMANO,BALONCESTO</otramodalidad>
+		<latwgs84>43.3071403</latwgs84>
+		<lonwgs84>-3.0000604</lonwgs84>
+		<direccion>PLAZA DEL ORFEÓN,S/N,BAR ALB</direccion>
+		<municipio>SESTAO</municipio>
+		<codmunicipio>84</codmunicipio>
+		<codigopostal>48910</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>658759600</telefono>
+		<fax>658759699</fax>
+		<email>info@athletic-sestaotarra.com/modelvicente@gmail.com</email>
+	</row>
+	<row num="160">
+		<idregistro>AD0000530</idregistro>
+		<fecharegistro>1996-10-01</fecharegistro>
+		<identidad>5490</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA AIXEMENDI KIROL ELKARTEA</nombre>
+		<anoconstitucion>1996</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<otramodalidad>CICLISMO</otramodalidad>
+		<latwgs84>43.2624849</latwgs84>
+		<lonwgs84>-2.9014082</lonwgs84>
+		<direccion>AIXE-ONA,4</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48004</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>679635353</telefono>
+	</row>
+	<row num="161">
+		<idregistro>AD0005893</idregistro>
+		<fecharegistro>2014-07-29</fecharegistro>
+		<identidad>6609</identidad>
+		<nombre>AGRUPACION DEPORTIVA COEMAK</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AUTOMOVILISMO</modalidadprincipal>
+		<otramodalidad>MOTOCICLISMO</otramodalidad>
+		<latwgs84>43.318334</latwgs84>
+		<lonwgs84>-1.9812313</lonwgs84>
+		<direccion>BERTSOLARI XALBADOR,16</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20218</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>610205687</telefono>
+		<email>chemacibrian@telefonica.es</email>
+	</row>
+	<row num="162">
+		<idregistro>AD0005864</idregistro>
+		<fecharegistro>2014-06-16</fecharegistro>
+		<identidad>6672</identidad>
+		<nombre>AGRUPACION DE MONTAÑA SAB AIRSOFT</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<otramodalidad>CICLISMO</otramodalidad>
+		<latwgs84>42.8482128</latwgs84>
+		<lonwgs84>-2.6496492</lonwgs84>
+		<direccion>LUBIANA,2,1,B</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01003</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>646592310</telefono>
+		<email>dtorres@preoca.com</email>
+	</row>
+	<row num="163">
+		<idregistro>AD0006179</idregistro>
+		<fecharegistro>2015-09-14</fecharegistro>
+		<identidad>6875</identidad>
+		<nombre>AGRUPACION DEPORTIVA IPA EUSKADI</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MOTOCICLISMO</modalidadprincipal>
+		<otramodalidad>TIRO,DEPORTES AÉREOS</otramodalidad>
+		<latwgs84>43.2597848</latwgs84>
+		<lonwgs84>-2.9538019</lonwgs84>
+		<direccion>EDIFICIO CASTRESANA- DESPCHO 12. CTRA. BASURTO CASTRESANA,70</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48013</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>607460261</telefono>
+		<email>ipaeuskadi@ipaeuskadi.org</email>
+	</row>
+	<row num="164">
+		<idregistro>AD0006192</idregistro>
+		<fecharegistro>2015-10-05</fecharegistro>
+		<identidad>7068</identidad>
+		<nombre>AGRUPACION DEPORTIVA EMTESPORT</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GIMNASIA</modalidadprincipal>
+		<otramodalidad>ATLETISMO,PATINAJE,NATACIÓN,MONTAÑA,FÚTBOL</otramodalidad>
+		<latwgs84>43.2517865</latwgs84>
+		<lonwgs84>-2.9428062</lonwgs84>
+		<direccion>Moncada,9,3º,9 izda</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48002</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944216612</telefono>
+		<email>central@emtesport.com</email>
+	</row>
+	<row num="165">
+		<idregistro>AD0006822</idregistro>
+		<fecharegistro>2019-05-23</fecharegistro>
+		<identidad>7878</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA ERDIZKA</nombre>
+		<anoconstitucion>2019</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<otramodalidad>BADMINTON,VOLEIBOL,PADEL,GIMNASIA</otramodalidad>
+		<latwgs84>42.8639276</latwgs84>
+		<lonwgs84>-2.6976317</lonwgs84>
+		<direccion>XABIER,1</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01010</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945174254</telefono>
+		<fax>656731349</fax>
+		<email>ampaerdizka@yahoo.es</email>
+	</row>
+	<row num="166">
+		<idregistro>AD0006650</idregistro>
+		<fecharegistro>2018-03-14</fecharegistro>
+		<identidad>7640</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA COLEGIO FRANCÉS DE BILBAO</nombre>
+		<anoconstitucion>2018</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BALONCESTO</otramodalidad>
+		<latwgs84>43.283738</latwgs84>
+		<lonwgs84>-2.8976492</lonwgs84>
+		<direccion>Bº GALBARRIATU,10</direccion>
+		<municipio>ZAMUDIO</municipio>
+		<codmunicipio>905</codmunicipio>
+		<codigopostal>48170</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>626722030</telefono>
+		<email>apaliceo@gmail.com</email>
+	</row>
+	<row num="167">
+		<idregistro>AD0000575</idregistro>
+		<fecharegistro>1997-04-03</fecharegistro>
+		<identidad>5495</identidad>
+		<nombre>A. D. S. R. G. C. LANOSTE TXOKOA</nombre>
+		<anoconstitucion>1997</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<latwgs84>43.1651034</latwgs84>
+		<lonwgs84>-2.6112135</lonwgs84>
+		<direccion>AVDA. TRAÑABARREN,29</direccion>
+		<municipio>ABADIÑO</municipio>
+		<codmunicipio>1</codmunicipio>
+		<codigopostal>48220</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+	</row>
+	<row num="168">
+		<idregistro>AD0000858</idregistro>
+		<fecharegistro>2009-05-04</fecharegistro>
+		<identidad>5646</identidad>
+		<nombre>A. D. ZUBIETA LANTZEN TRIRRINDULARI KIROL ELKARTEA</nombre>
+		<anoconstitucion>2009</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.27169</latwgs84>
+		<lonwgs84>-2.03236</lonwgs84>
+		<direccion>HERRIKO PLAZA,4</direccion>
+		<municipio>USURBIL</municipio>
+		<codmunicipio>73</codmunicipio>
+		<codigopostal>20170</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>605756553</telefono>
+		<email>zubietalantzen@gmail.com</email>
+	</row>
+	<row num="169">
+		<idregistro>AD0000699</idregistro>
+		<fecharegistro>1998-05-15</fecharegistro>
+		<identidad>5511</identidad>
+		<nombre>AMEZTI MENDI ELKARTEA</nombre>
+		<anoconstitucion>1998</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>42.9771306</latwgs84>
+		<lonwgs84>-2.2898006</lonwgs84>
+		<direccion>HERMANOS ASEGINOLAZA,10,BAJO DC</direccion>
+		<municipio>ZEGAMA</municipio>
+		<codmunicipio>25</codmunicipio>
+		<codigopostal>20215</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>615754773</telefono>
+		<fax>688630029</fax>
+		<email>ormaion@yahoo.es</email>
+	</row>
+	<row num="170">
+		<idregistro>AD0005615</idregistro>
+		<fecharegistro>2013-10-30</fecharegistro>
+		<identidad>6179</identidad>
+		<nombre>AGRUPACION DEPORTIVA RIO BAYAS</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<latwgs84>42.7102531</latwgs84>
+		<lonwgs84>-2.917595</lonwgs84>
+		<direccion>GAZARRIZA,11</direccion>
+		<municipio>RIBERA ALTA</municipio>
+		<codmunicipio>46</codmunicipio>
+		<codigopostal>01213</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>659766430</telefono>
+		<email>goyo08@hotmail.es</email>
+	</row>
+	<row num="171">
+		<idregistro>AD0000573</idregistro>
+		<fecharegistro>1997-03-14</fecharegistro>
+		<identidad>5494</identidad>
+		<nombre>A. D. ASOCIACION CULTURAL DE PESCA EL OSO</nombre>
+		<anoconstitucion>1997</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PESCA</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>LAGUARDIA,60,BAJO</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01013</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945259572</telefono>
+		<fax>636018183</fax>
+		<email>sociedadoso@hotmail.com</email>
+	</row>
+	<row num="172">
+		<idregistro>AD0005609</idregistro>
+		<fecharegistro>2013-10-22</fecharegistro>
+		<identidad>6158</identidad>
+		<nombre>AGRUPACIÓN BALONMANO AMPA INSTITUTO SAN ADRIÁN DE BILBAO</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONMANO</modalidadprincipal>
+		<latwgs84>43.2491832</latwgs84>
+		<lonwgs84>-2.931681</lonwgs84>
+		<direccion>MARTIN BARUA (Instituto San Adrián),14</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48003</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>658719023</telefono>
+		<email>juanluis.ona@hotmail.com</email>
+	</row>
+	<row num="173">
+		<idregistro>AD0006319</idregistro>
+		<fecharegistro>2016-05-19</fecharegistro>
+		<identidad>7229</identidad>
+		<nombre>INTZA PILOTA ELKARTEA</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<latwgs84>43.26925019999999</latwgs84>
+		<lonwgs84>-2.0201831</lonwgs84>
+		<direccion>KALE  NAGUSIA ,8</direccion>
+		<municipio>LASARTE-ORIA</municipio>
+		<codmunicipio>902</codmunicipio>
+		<codigopostal>20160</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>657770318</telefono>
+	</row>
+	<row num="174">
+		<idregistro>AD0005804</idregistro>
+		<fecharegistro>2014-02-26</fecharegistro>
+		<identidad>6616</identidad>
+		<nombre>AGRUPACION DEPORTIVA PAIAURRAK MOTOR</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AUTOMOVILISMO</modalidadprincipal>
+		<latwgs84>43.1466022</latwgs84>
+		<lonwgs84>-2.9690718</lonwgs84>
+		<direccion>ZUBEROA,2,3º,I</direccion>
+		<municipio>LAUDIO/LLODIO</municipio>
+		<codmunicipio>36</codmunicipio>
+		<codigopostal>01400</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>666742988</telefono>
+		<email>pmotortaldea@gmail.com</email>
+	</row>
+	<row num="175">
+		<idregistro>AD0005722</idregistro>
+		<fecharegistro>2014-01-21</fecharegistro>
+		<identidad>6545</identidad>
+		<nombre>AGRUPACION DEPORTIVA AMPA TXAGORRITXU</nombre>
+		<anoconstitucion>2013</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>42.8536247</latwgs84>
+		<lonwgs84>-2.6851361</lonwgs84>
+		<direccion>VICENTE GONZALEZ DE ECHAVARRI,S/N</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01009</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945069459</telefono>
+		<email>ampa.unamun@gmail.com</email>
+	</row>
+	<row num="176">
+		<idregistro>AD0000867</idregistro>
+		<fecharegistro>2010-02-26</fecharegistro>
+		<identidad>5654</identidad>
+		<nombre>A.D. KIBEL KULTUR ETA KIROL ELKARTEA DE HONDARRIBIA</nombre>
+		<anoconstitucion>2009</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.3630106</latwgs84>
+		<lonwgs84>-1.7948091</lonwgs84>
+		<direccion>ERREBELLIN,2,BAJO</direccion>
+		<municipio>HONDARRIBIA</municipio>
+		<codmunicipio>36</codmunicipio>
+		<codigopostal>20280</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943646264</telefono>
+	</row>
+	<row num="177">
+		<idregistro>AD0006318</idregistro>
+		<fecharegistro>2016-05-19</fecharegistro>
+		<identidad>7230</identidad>
+		<nombre>ARANGOITI ESKUBALOIA KIROL ELKARTEA</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONMANO</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>JATA MENDIA KALEA (BAR LA ZONA),5,ETXA</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48014</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>635738600</telefono>
+		<email>arangoitieskubaloia@disroot.org</email>
+	</row>
+	<row num="178">
+		<idregistro>AD0000857</idregistro>
+		<fecharegistro>2009-05-04</fecharegistro>
+		<identidad>5645</identidad>
+		<nombre>A. D. DE FUTBOL ADREBOL DE GETXO</nombre>
+		<anoconstitucion>2009</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>43.3551979</latwgs84>
+		<lonwgs84>-3.0050686</lonwgs84>
+		<direccion>Bº ALDAPAS-ANDRA MARI,19,5º D</direccion>
+		<municipio>GETXO</municipio>
+		<codmunicipio>44</codmunicipio>
+		<codigopostal>48990</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+	</row>
+	<row num="179">
+		<idregistro>AD0005621</idregistro>
+		<fecharegistro>2013-11-06</fecharegistro>
+		<identidad>6165</identidad>
+		<nombre>AGRUPACION DEPORTIVA LEIOA RACING</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AUTOMOVILISMO</modalidadprincipal>
+		<latwgs84>43.32086169999999</latwgs84>
+		<lonwgs84>-2.9986926</lonwgs84>
+		<direccion>LANGUILERIA,58,3º B,B</direccion>
+		<municipio>LEIOA</municipio>
+		<codmunicipio>54</codmunicipio>
+		<codigopostal>48940</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>600992538</telefono>
+		<email>roberto.l.tazo@mail.com</email>
+	</row>
+	<row num="180">
+		<idregistro>AD0000828</idregistro>
+		<fecharegistro>2007-05-03</fecharegistro>
+		<identidad>5624</identidad>
+		<nombre>AGRUPACION DEPORTIVA KARATE SHINKYOKUSHINKAI DE BERGARA</nombre>
+		<anoconstitucion>2004</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>KARATE</modalidadprincipal>
+		<latwgs84>43.1159416</latwgs84>
+		<lonwgs84>-2.4151782</lonwgs84>
+		<direccion>BELANBIDE,2,2º B</direccion>
+		<municipio>BERGARA</municipio>
+		<codmunicipio>74</codmunicipio>
+		<codigopostal>20570</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>690103660</telefono>
+		<email>carlos_albisua@yahoo.es</email>
+	</row>
+	<row num="181">
+		<idregistro>AD0005769</idregistro>
+		<fecharegistro>2014-02-07</fecharegistro>
+		<identidad>6431</identidad>
+		<nombre>AGRUPACION DEPORTIVA GOLF TECH VITORIA</nombre>
+		<anoconstitucion>2013</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>42.8446548</latwgs84>
+		<lonwgs84>-2.6968425</lonwgs84>
+		<direccion>AVDA ZABALGANA,41,BJ</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01015</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>649913161</telefono>
+		<email>ic@golftech.es</email>
+	</row>
+	<row num="182">
+		<idregistro>AD0005694</idregistro>
+		<fecharegistro>2014-01-07</fecharegistro>
+		<identidad>6507</identidad>
+		<nombre>AGRUPACION DEPORTIVA LUMO KIROL ESKOLA</nombre>
+		<anoconstitucion>2013</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>43.2597214</latwgs84>
+		<lonwgs84>-2.9380618</lonwgs84>
+		<direccion>IPARRAGUIRRE,48,BAJO</direccion>
+		<municipio>GERNIKA-LUMO</municipio>
+		<codmunicipio>46</codmunicipio>
+		<codigopostal>48300</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>607252044</telefono>
+		<email>txomin67@msn.com</email>
+	</row>
+	<row num="183">
+		<idregistro>AD0000745</idregistro>
+		<fecharegistro>1999-11-30</fecharegistro>
+		<identidad>5540</identidad>
+		<nombre>A. D. DE TIRO CON ARCO ARKULARIAK DE ETXEBARRI</nombre>
+		<anoconstitucion>1999</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>TIRO CON ARCO</modalidadprincipal>
+		<latwgs84>43.2468098</latwgs84>
+		<lonwgs84>-2.8902383</lonwgs84>
+		<direccion>AVDA. SAN ESTEBAN,23,BAJO IZ,IZDA</direccion>
+		<municipio>ETXEBARRI</municipio>
+		<codmunicipio>29</codmunicipio>
+		<codigopostal>48450</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944261468</telefono>
+		<fax>639266340</fax>
+		<email>arkulariak@telefonica.net</email>
+	</row>
+	<row num="184">
+		<idregistro>AD0000814</idregistro>
+		<fecharegistro>2006-05-03</fecharegistro>
+		<identidad>5594</identidad>
+		<nombre>A. D. DE MONTAÑA ÑAPALEKU DE IRUN</nombre>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<latwgs84>43.3472972</latwgs84>
+		<lonwgs84>-1.8019761</lonwgs84>
+		<direccion>PZA. ARBIUN,8</direccion>
+		<municipio>IRUN</municipio>
+		<codmunicipio>45</codmunicipio>
+		<codigopostal>20300</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+	</row>
+	<row num="185">
+		<idregistro>AD0006865</idregistro>
+		<fecharegistro>2019-09-17</fecharegistro>
+		<identidad>7925</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA CAS COMPETICION</nombre>
+		<anoconstitucion>2019</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AUTOMOVILISMO</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>Paseo de Berlin ,15,3,A</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01002</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>629096678</telefono>
+		<email>carlossergnese@yahoo.es</email>
+	</row>
+	<row num="186">
+		<idregistro>AD0000297</idregistro>
+		<fecharegistro>1994-09-26</fecharegistro>
+		<identidad>5449</identidad>
+		<nombre>A.D. APDEMA KIROL ELKARTEA</nombre>
+		<anoconstitucion>1993</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>DEPORTE ADAPTADO</modalidadprincipal>
+		<otramodalidad>ATLETISMO,TENIS DE MESA,NATACIÓN,GIMNASIA,FÚTBOL,DEPORTE ADAPTADO,BALONCESTO</otramodalidad>
+		<latwgs84>42.8497307</latwgs84>
+		<lonwgs84>-2.6666783</lonwgs84>
+		<direccion>PALOMA, LA,1,BAJO</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01002</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945258988</telefono>
+		<fax>945258966</fax>
+		<email>apdema@apdema.org</email>
+	</row>
+	<row num="187">
+		<idregistro>AD0000437</idregistro>
+		<fecharegistro>1996-01-18</fecharegistro>
+		<identidad>5480</identidad>
+		<nombre>A.D. ASOCIACIÓN DE LA PRENSA DEPORTIVA DE ÁLAVA</nombre>
+		<anoconstitucion>1995</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<otramodalidad>FÚTBOL</otramodalidad>
+		<latwgs84>42.8484683</latwgs84>
+		<lonwgs84>-2.6759723</lonwgs84>
+		<direccion>CERCAS BAJAS,5</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01001</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>617559873</telefono>
+		<email>ekaitz8a@gmail.com/apda.akpe@gmail.com</email>
+	</row>
+	<row num="188">
+		<idregistro>AD0000539</idregistro>
+		<fecharegistro>1996-10-09</fecharegistro>
+		<identidad>5491</identidad>
+		<nombre>AGRUPACION DEPORTIVA ASOCIACION CULTURAL Y DEPORTIVA IBARBIDE SAN PATRICIO</nombre>
+		<anoconstitucion>1996</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>GIMNASIA,TENIS,NATACIÓN,JUDO</otramodalidad>
+		<latwgs84>43.2989025</latwgs84>
+		<lonwgs84>-1.9851945</lonwgs84>
+		<direccion>LAMBERRI,25</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20800</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943215997</telefono>
+		<email>natalia.linares@st-patricks.com</email>
+	</row>
+	<row num="189">
+		<idregistro>AD0000733</idregistro>
+		<fecharegistro>1999-01-29</fecharegistro>
+		<identidad>5526</identidad>
+		<nombre>A. D. NAGUSIA KARATE DE BASAURI</nombre>
+		<anoconstitucion>1999</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>KARATE</modalidadprincipal>
+		<otramodalidad>JUDO</otramodalidad>
+		<latwgs84>43.23545</latwgs84>
+		<lonwgs84>-2.89096</lonwgs84>
+		<direccion>PZA. ARIZGOITI,1</direccion>
+		<municipio>BASAURI</municipio>
+		<codmunicipio>15</codmunicipio>
+		<codigopostal>48970</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944494949</telefono>
+	</row>
+	<row num="190">
+		<idregistro>AD0000752</idregistro>
+		<fecharegistro>2000-03-02</fecharegistro>
+		<identidad>5547</identidad>
+		<nombre>A. D. SOLLUBE 707 BERMEOKO MENDIZALE TALDEA</nombre>
+		<anoconstitucion>2000</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<otramodalidad>DEPORTES DE INVIERNO,CICLISMO,TRIATLON</otramodalidad>
+		<latwgs84>43.41978</latwgs84>
+		<lonwgs84>-2.73812</lonwgs84>
+		<direccion>ZUBIAUR TAR KEPA (BERMEOKO H.E.O.),72,2º</direccion>
+		<municipio>BERMEO</municipio>
+		<codmunicipio>17</codmunicipio>
+		<codigopostal>48370</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>630660781</telefono>
+		<fax>619142270</fax>
+		<email>sollube707@gmail.com</email>
+	</row>
+	<row num="191">
+		<idregistro>AD0000778</idregistro>
+		<fecharegistro>2002-06-17</fecharegistro>
+		<identidad>5574</identidad>
+		<nombre>GALDAKAOKO EGUZKIBEGI IKASTOLAKO KIROL ELKARTEA</nombre>
+		<anoconstitucion>2002</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ATLETISMO,VOLEIBOL,TENIS,PELOTA VASCA,NATACIÓN,BALONCESTO</otramodalidad>
+		<latwgs84>43.2359629</latwgs84>
+		<lonwgs84>-2.8403361</lonwgs84>
+		<direccion>EGIA AUZOA,11</direccion>
+		<municipio>GALDAKAO</municipio>
+		<codmunicipio>36</codmunicipio>
+		<codigopostal>48960</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944560264</telefono>
+		<email>galdakao@ikastola.eus</email>
+	</row>
+	<row num="192">
+		<idregistro>AD0005857</idregistro>
+		<fecharegistro>2014-05-30</fecharegistro>
+		<identidad>6152</identidad>
+		<nombre>AGRUPACION DEPORTIVA ADECAPGAZTEAK</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<otramodalidad>PESCA</otramodalidad>
+		<latwgs84>43.1592542</latwgs84>
+		<lonwgs84>-2.6238895</lonwgs84>
+		<direccion>EGUSKIZA,20</direccion>
+		<municipio>DURANGO</municipio>
+		<codmunicipio>27</codmunicipio>
+		<codigopostal>48200</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>99</telefono>
+	</row>
+	<row num="193">
+		<idregistro>AD0005613</idregistro>
+		<fecharegistro>2013-10-29</fecharegistro>
+		<identidad>6166</identidad>
+		<nombre>AGRUPACION DEPORTIVA DE BOXEO ACQ</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BOXEO</modalidadprincipal>
+		<otramodalidad>TAEKWONDO,GIMNASIA,KARATE</otramodalidad>
+		<latwgs84>43.3357057</latwgs84>
+		<lonwgs84>-3.0482687</lonwgs84>
+		<direccion>JUAN DE GARAY,12,4ºDCH,DCHA</direccion>
+		<municipio>SANTURTZI</municipio>
+		<codmunicipio>82</codmunicipio>
+		<codigopostal>48980</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944239410</telefono>
+		<email>ogeia@euskaltel.net</email>
+	</row>
+	<row num="194">
+		<idregistro>AD0006331</idregistro>
+		<fecharegistro>2016-06-06</fecharegistro>
+		<identidad>7247</identidad>
+		<nombre>MERCEDARIAS KIROL ELKARTEA</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ATLETISMO,TENIS DE MESA,GIMNASIA,BALONCESTO,BADMINTON</otramodalidad>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>LAGUARDIA,1,BAJO</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01001</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945256922</telefono>
+		<fax>610636990</fax>
+		<email>f.beltrandeheredia@mercedariasgasteiz.com</email>
+	</row>
+	<row num="195">
+		<idregistro>AD0006082</idregistro>
+		<fecharegistro>2015-04-20</fecharegistro>
+		<identidad>6961</identidad>
+		<nombre>AGRUPACION DEPORTIVA JOVENES POR LA CAZA NORTE</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CAZA</modalidadprincipal>
+		<otramodalidad>PESCA</otramodalidad>
+		<latwgs84>43.1667005</latwgs84>
+		<lonwgs84>-2.6298798</lonwgs84>
+		<direccion>KOMENTUKALEA,9</direccion>
+		<municipio>DURANGO</municipio>
+		<codmunicipio>27</codmunicipio>
+		<codigopostal>48200</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>000000000</telefono>
+		<email>info@jovenesporlacaza.com</email>
+	</row>
+	<row num="196">
+		<idregistro>AD0006272</idregistro>
+		<fecharegistro>2016-03-07</fecharegistro>
+		<identidad>7172</identidad>
+		<nombre>AGRUPACION DEPORTIVA BIDAIDEAK</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<otramodalidad>ATLETISMO,TIRO,TENIS DE MESA,CICLISMO</otramodalidad>
+		<latwgs84>43.2714076</latwgs84>
+		<lonwgs84>-2.9428805</lonwgs84>
+		<direccion>AVDA. LEHENDAKARI AGIRRE ,5-7,BAJO</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48014</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944266600</telefono>
+		<email>bidaideak@sarenet.es</email>
+	</row>
+	<row num="197">
+		<idregistro>AD0006301</idregistro>
+		<fecharegistro>2016-04-14</fecharegistro>
+		<identidad>7182</identidad>
+		<nombre>AGRUPACION DEPORTIVA QUERBES - SAN JOSE BASAURI</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>AJEDREZ,MONTAÑA,BALONCESTO</otramodalidad>
+		<latwgs84>43.2373592</latwgs84>
+		<lonwgs84>-2.8870198</lonwgs84>
+		<direccion>NAFARROA,18</direccion>
+		<municipio>BASAURI</municipio>
+		<codmunicipio>15</codmunicipio>
+		<codigopostal>48970</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944491644</telefono>
+		<email>ampa@sanjosebasauri.org</email>
+	</row>
+	<row num="198">
+		<idregistro>AD0006038</idregistro>
+		<fecharegistro>2015-03-11</fecharegistro>
+		<identidad>6869</identidad>
+		<nombre>XAKIBAZI EMAKUMEEN XAKE ELKARTEA</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AJEDREZ</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>OKENDO ,9</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20004</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>609134008</telefono>
+		<email>marixum@gmail.com</email>
+	</row>
+	<row num="199">
+		<idregistro>AD0000805</idregistro>
+		<fecharegistro>2005-05-16</fecharegistro>
+		<identidad>5588</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA ORMAIZTEGIKO TXIRRINDUAREN LAGUNAK O.T.L.</nombre>
+		<anoconstitucion>2005</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.0425838</latwgs84>
+		<lonwgs84>-2.2562312</lonwgs84>
+		<direccion>GABIRIALDE,S/N,1º</direccion>
+		<municipio>ORMAIZTEGI</municipio>
+		<codmunicipio>62</codmunicipio>
+		<codigopostal>20216</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943887272</telefono>
+		<fax>615728800</fax>
+		<email>angelorz@hotmail.com</email>
+	</row>
+	<row num="200">
+		<idregistro>AD0000434</idregistro>
+		<fecharegistro>1996-01-08</fecharegistro>
+		<identidad>5479</identidad>
+		<nombre>A.D. ASICAL-CASTORES LEIOA</nombre>
+		<anoconstitucion>1995</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PESCA</modalidadprincipal>
+		<latwgs84>43.3250593</latwgs84>
+		<lonwgs84>-2.9851734</lonwgs84>
+		<direccion>GRUPO ITURRIBIDE-ELEXALDE,16,BAJO</direccion>
+		<municipio>LEIOA</municipio>
+		<codmunicipio>54</codmunicipio>
+		<codigopostal>48940</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>94-4635355</telefono>
+	</row>
+	<row num="201">
+		<idregistro>AD0000291</idregistro>
+		<fecharegistro>1994-07-11</fecharegistro>
+		<identidad>5450</identidad>
+		<nombre>A.D. SOCIEDAD RECREATIVA Y CICLISTA GURE-BIDE</nombre>
+		<anoconstitucion>1994</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>BERNARDO ECENARRO,9,BAJO</direccion>
+		<municipio>ELGOIBAR</municipio>
+		<codmunicipio>32</codmunicipio>
+		<codigopostal>20870</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943741379</telefono>
+		<email>jm.conde@hotmail.com</email>
+	</row>
+	<row num="202">
+		<idregistro>AD0000848</idregistro>
+		<fecharegistro>2008-11-17</fecharegistro>
+		<identidad>5637</identidad>
+		<nombre>A. D. ASOLEUS</nombre>
+		<anoconstitucion>2008</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>43.3148187</latwgs84>
+		<lonwgs84>-1.9984995</lonwgs84>
+		<direccion>KATALIN DE ELEICEGUI,48,LOCAL,2</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>2009</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>667622349</telefono>
+		<email>anagonza2@hotmail.com</email>
+	</row>
+	<row num="203">
+		<idregistro>AD0005305</idregistro>
+		<fecharegistro>2010-04-15</fecharegistro>
+		<identidad>5667</identidad>
+		<nombre>GIRIZIA KULTUR ETA KIROL TXIRRINDULARITZA BAZKUNDEA</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.2990613</latwgs84>
+		<lonwgs84>-1.8609293</lonwgs84>
+		<direccion>KONTZEJUERREKA,4</direccion>
+		<municipio>OIARTZUN</municipio>
+		<codmunicipio>63</codmunicipio>
+		<codigopostal>20180</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943491892</telefono>
+		<email>asesoriazubillaga@euskalnet.net</email>
+	</row>
+	<row num="204">
+		<idregistro>AD0005638</idregistro>
+		<fecharegistro>2013-11-20</fecharegistro>
+		<identidad>6310</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA BARAKALDO SASKIBALOI KIROL ETA KULTURA ELKARTEA</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<latwgs84>43.2953723</latwgs84>
+		<lonwgs84>-2.984223</lonwgs84>
+		<direccion>ERRIOXA,14,3ºDCH,DR</direccion>
+		<municipio>BARAKALDO</municipio>
+		<codmunicipio>13</codmunicipio>
+		<codigopostal>48901</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>678764349</telefono>
+		<email>basket@gmail.com</email>
+	</row>
+	<row num="205">
+		<idregistro>AD0005927</idregistro>
+		<fecharegistro>2014-10-07</fecharegistro>
+		<identidad>6790</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA CICLISTA LOINAZ</nombre>
+		<anoconstitucion>2014</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.047104</latwgs84>
+		<lonwgs84>-2.204176</lonwgs84>
+		<direccion>ZELAETA ,3,BAJO</direccion>
+		<municipio>BEASAIN</municipio>
+		<codmunicipio>19</codmunicipio>
+		<codigopostal>20200</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>660447652</telefono>
+		<email>xauzmendi@gmail.com</email>
+	</row>
+	<row num="206">
+		<idregistro>AD0005696</idregistro>
+		<fecharegistro>2014-01-07</fecharegistro>
+		<identidad>6363</identidad>
+		<nombre>ARTATXORI TXIRRINDULARITZA KIROL ELKARTEA</nombre>
+		<anoconstitucion>2013</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.3633071</latwgs84>
+		<lonwgs84>-2.872228</lonwgs84>
+		<direccion>CASA CONSISTORIAL ,S/N</direccion>
+		<municipio>GATIKA</municipio>
+		<codmunicipio>40</codmunicipio>
+		<codigopostal>48110</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>660042756</telefono>
+		<email>luberri@telefonica.net</email>
+	</row>
+	<row num="207">
+		<idregistro>AD0000804</idregistro>
+		<fecharegistro>2005-03-23</fecharegistro>
+		<identidad>5587</identidad>
+		<nombre>A. D. AMIGOS DEL CABALLO DE ORDUÑA &amp;quot;JAVIAL&amp;quot;</nombre>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>HÍPICA</modalidadprincipal>
+		<latwgs84>42.9949351</latwgs84>
+		<lonwgs84>-3.0190431</lonwgs84>
+		<direccion>ZEDELIKA,15</direccion>
+		<municipio>URDUÑA-ORDUÑA</municipio>
+		<codmunicipio>74</codmunicipio>
+		<codigopostal>48460</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+	</row>
+	<row num="208">
+		<idregistro>AD0006178</idregistro>
+		<fecharegistro>2015-09-14</fecharegistro>
+		<identidad>7063</identidad>
+		<nombre>AGRUPACION DEPORTIVA CPAL AMANDARRI</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>VELA</modalidadprincipal>
+		<latwgs84>43.3668897</latwgs84>
+		<lonwgs84>-2.4997339</lonwgs84>
+		<direccion>TALAKO SAN JUAN,2</direccion>
+		<municipio>LEKEITIO</municipio>
+		<codmunicipio>57</codmunicipio>
+		<codigopostal>48280</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>657953500</telefono>
+		<email>masvisionilarte@gmail.com</email>
+	</row>
+	<row num="209">
+		<idregistro>AD0000571</idregistro>
+		<fecharegistro>1997-03-06</fecharegistro>
+		<identidad>5493</identidad>
+		<nombre>A. D. IBARRAKO SENDI EKINTZA</nombre>
+		<anoconstitucion>1996</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<latwgs84>43.0292026</latwgs84>
+		<lonwgs84>-2.4107978</lonwgs84>
+		<direccion>ARANTZAZUKO AMA,12</direccion>
+		<municipio>IBARRA</municipio>
+		<codmunicipio>42</codmunicipio>
+		<codigopostal>20400</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>665740916</telefono>
+		<email>sendiekintza@gmail.com</email>
+	</row>
+	<row num="210">
+		<idregistro>AD0000826</idregistro>
+		<fecharegistro>2007-03-28</fecharegistro>
+		<identidad>5622</identidad>
+		<nombre>A. D. KARATE CEP RONTEGI LHI DE BARAKALDO</nombre>
+		<anoconstitucion>2007</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>KARATE</modalidadprincipal>
+		<latwgs84>43.2949849</latwgs84>
+		<lonwgs84>-2.9843215</lonwgs84>
+		<direccion>ARABA,S/N</direccion>
+		<municipio>BARAKALDO</municipio>
+		<codmunicipio>13</codmunicipio>
+		<codigopostal>48901</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>685722843</telefono>
+		<email>otener75@gmail.com</email>
+	</row>
+	<row num="211">
+		<idregistro>AD0000767</idregistro>
+		<fecharegistro>2001-06-25</fecharegistro>
+		<identidad>5562</identidad>
+		<nombre>A.D. DE CICLISMO LEITZ KIROL ETA KULTURA ELKARTEA</nombre>
+		<anoconstitucion>2001</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>43.2174336</latwgs84>
+		<lonwgs84>-2.023915</lonwgs84>
+		<direccion>LARRAMENDI,28,5º E</direccion>
+		<municipio>ANDOAIN</municipio>
+		<codmunicipio>9</codmunicipio>
+		<codigopostal>20140</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943590140</telefono>
+		<fax>608640308</fax>
+		<email>leitz@leitz-mtb.com</email>
+	</row>
+	<row num="212">
+		<idregistro>AD0000821</idregistro>
+		<fecharegistro>2006-10-06</fecharegistro>
+		<identidad>5617</identidad>
+		<nombre>A. D. ESKEGI MOTOCICLISMO IRUÑA DE OCA</nombre>
+		<anoconstitucion>2006</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MOTOCICLISMO</modalidadprincipal>
+		<latwgs84>42.8173266</latwgs84>
+		<lonwgs84>-2.8068002</lonwgs84>
+		<direccion>FCO. HERNANDEZ (EL BRUJO,22</direccion>
+		<municipio>IRUÑA OKA/IRUÑA DE OCA</municipio>
+		<codmunicipio>901</codmunicipio>
+		<codigopostal>01230</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>660370531</telefono>
+		<email>ENDURORAMON@HOTMAIL.COM</email>
+	</row>
+	<row num="213">
+		<idregistro>AD0000851</idregistro>
+		<fecharegistro>2008-12-23</fecharegistro>
+		<identidad>5640</identidad>
+		<nombre>A. D. DE CICLISMO PELOTOK KULTUR ELKARTEA DE ADUNA</nombre>
+		<anoconstitucion>2008</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<latwgs84>0.0</latwgs84>
+		<lonwgs84>0.0</lonwgs84>
+		<direccion>ZONA INDUSTRIAL Nº 8,S/N,ZUBI-TX</direccion>
+		<municipio>ADUNA</municipio>
+		<codmunicipio>2</codmunicipio>
+		<codigopostal>20150</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>629509914</telefono>
+		<email>jaime0501@hotmail.com</email>
+	</row>
+	<row num="214">
+		<idregistro>AD0005610</idregistro>
+		<fecharegistro>2013-10-22</fecharegistro>
+		<identidad>6159</identidad>
+		<nombre>A.D. DE PATINADORES DE BILBAO &amp;quot;ROLLER BILBAO&amp;quot;</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PATINAJE</modalidadprincipal>
+		<latwgs84>43.2627478</latwgs84>
+		<lonwgs84>-2.9448364</lonwgs84>
+		<direccion>JOSE MARIA ESCUZA,1,5º ,DEPT 2</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48013</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>635755636</telefono>
+		<email>rollerbilbao@gmail.com</email>
+	</row>
+	<row num="215">
+		<idregistro>AD0000051</idregistro>
+		<fecharegistro>1991-04-25</fecharegistro>
+		<identidad>5413</identidad>
+		<nombre>A.D. CENTRO SALMANTINO</nombre>
+		<anoconstitucion>1990</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BOLOS</modalidadprincipal>
+		<otramodalidad>AJEDREZ,MONTAÑA,FÚTBOL,FÚTBOL,CICLISMO</otramodalidad>
+		<latwgs84>43.29571929999999</latwgs84>
+		<lonwgs84>-2.991913</lonwgs84>
+		<direccion>FRANCISCO GOMEZ,11,BAJO</direccion>
+		<municipio>BARAKALDO</municipio>
+		<codmunicipio>13</codmunicipio>
+		<codigopostal>48902</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944374759</telefono>
+		<email>centrosalmantino@gmail.com</email>
+	</row>
+	<row num="216">
+		<idregistro>AD0000116</idregistro>
+		<fecharegistro>1992-07-07</fecharegistro>
+		<identidad>5430</identidad>
+		<nombre>A.D. C.A.S. AZKUENE</nombre>
+		<anoconstitucion>1992</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>CICLISMO</otramodalidad>
+		<latwgs84>43.3254497</latwgs84>
+		<lonwgs84>-1.936093</lonwgs84>
+		<direccion>AVDA. DE ULIA,19,BAJO</direccion>
+		<municipio>PASAIA</municipio>
+		<codmunicipio>64</codmunicipio>
+		<codigopostal>20110</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+	</row>
+	<row num="217">
+		<idregistro>AD0000204</idregistro>
+		<fecharegistro>1993-06-23</fecharegistro>
+		<identidad>5441</identidad>
+		<nombre>A.D. SDAD.P. TXAPEL-AUNDI</nombre>
+		<anoconstitucion>1993</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<otramodalidad>CICLISMO</otramodalidad>
+		<latwgs84>43.32262009999999</latwgs84>
+		<lonwgs84>-1.9569186</lonwgs84>
+		<direccion>TOKI EDER,57</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20014</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>9</telefono>
+	</row>
+	<row num="218">
+		<idregistro>AD0000825</idregistro>
+		<fecharegistro>2007-03-27</fecharegistro>
+		<identidad>5621</identidad>
+		<nombre>A. D. CASA CULTURAL CASTILLA LA MANCHA EN ERMUA</nombre>
+		<anoconstitucion>2007</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>CICLISMO</modalidadprincipal>
+		<otramodalidad>AJEDREZ,FÚTBOL</otramodalidad>
+		<latwgs84>43.1885098</latwgs84>
+		<lonwgs84>-2.5047838</lonwgs84>
+		<direccion>ERREBALBURU,7,BAJO</direccion>
+		<municipio>ERMUA</municipio>
+		<codmunicipio>34</codmunicipio>
+		<codigopostal>48260</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>943176949</telefono>
+		<email>zerukoa@euskalnet.net</email>
+	</row>
+	<row num="219">
+		<idregistro>AD0005459</idregistro>
+		<fecharegistro>2011-05-05</fecharegistro>
+		<identidad>5849</identidad>
+		<nombre>A.D. DE PATINAJE BASROLLER</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PATINAJE</modalidadprincipal>
+		<otramodalidad>HOCKEY</otramodalidad>
+		<latwgs84>43.2322622</latwgs84>
+		<lonwgs84>-2.8816375</lonwgs84>
+		<direccion>BARRIO ARTUNDUAGA (POLIDEP. ARTUNDUAGA),S/N</direccion>
+		<municipio>BASAURI</municipio>
+		<codmunicipio>15</codmunicipio>
+		<codigopostal>48970</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>635204369</telefono>
+		<email>anderegil@gmail.com</email>
+	</row>
+	<row num="220">
+		<idregistro>AD0005597</idregistro>
+		<fecharegistro>2013-10-09</fecharegistro>
+		<identidad>6156</identidad>
+		<nombre>AGRUPACION DEPORTIVA ARROETAMENDI</nombre>
+		<anoconstitucion>2011</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>MONTAÑA</modalidadprincipal>
+		<otramodalidad>DEPORTES DE INVIERNO,CICLISMO</otramodalidad>
+		<latwgs84>43.28333</latwgs84>
+		<lonwgs84>-2.8647633</lonwgs84>
+		<direccion>ARESTI KALEA,2,BJ</direccion>
+		<municipio>ZAMUDIO</municipio>
+		<codmunicipio>905</codmunicipio>
+		<codigopostal>48170</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>946088285</telefono>
+		<email>arroetamt@euskalnet.net</email>
+	</row>
+	<row num="221">
+		<idregistro>AD0005571</idregistro>
+		<fecharegistro>2013-06-26</fecharegistro>
+		<identidad>6180</identidad>
+		<nombre>AGRUPACION DEPORTIVA ESCOLAPIOS DE BILBAO</nombre>
+		<anoconstitucion>2012</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>BALONCESTO,BALONMANO</otramodalidad>
+		<latwgs84>43.2654758</latwgs84>
+		<lonwgs84>-2.9338215</lonwgs84>
+		<direccion>ALAMEDA RECALDE,19</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48012</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944241402</telefono>
+		<email>administracionbilbao@escolapiosemaus.org</email>
+	</row>
+	<row num="222">
+		<idregistro>AD0006421</idregistro>
+		<fecharegistro>2016-09-20</fecharegistro>
+		<identidad>7302</identidad>
+		<nombre>ARANTZAZUKO AMA KIROL ELKARTEA</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>ATLETISMO</modalidadprincipal>
+		<otramodalidad>AJEDREZ,VOLEIBOL,TRIATLON,TIRO CON ARCO,TENIS DE MESA,PIRAGÜISMO,PESCA,PATINAJE,JUDO ,HERRI KIROLAK,GIMNASIA,FÚTBOL,BOLOS,BALONMANO,BADMINTON</otramodalidad>
+		<latwgs84>43.2957253</latwgs84>
+		<lonwgs84>-1.9548906</lonwgs84>
+		<direccion>Martutene Pasealekua,48</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20014</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943470235</telefono>
+		<fax>667790789</fax>
+		<email>gurasoelkartea@arantzazukoama.com</email>
+	</row>
+	<row num="223">
+		<idregistro>AD0006630</idregistro>
+		<fecharegistro>2018-01-29</fecharegistro>
+		<identidad>7606</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA PIOLET</nombre>
+		<anoconstitucion>2017</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<otramodalidad>ATLETISMO,TRIATLON,TIRO CON ARCO,SURF,RUGBY,REMO,PIRAGÜISMO,PADEL,NATACIÓN,MONTAÑA,GOLF,DEPORTE ADAPTADO,DEPORTES DE INVIERNO,CICLISMO,BALONMANO,BALONCESTO</otramodalidad>
+		<latwgs84>43.2968387</latwgs84>
+		<lonwgs84>-2.0051248</lonwgs84>
+		<direccion>PARQUE EMPRESARIAL ZUATZU. EDIFICIO URGULL ,1ª,LOCAL,3</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20018</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>662068903</telefono>
+		<email>inigo@piolet.es</email>
+	</row>
+	<row num="224">
+		<idregistro>AD0006906</idregistro>
+		<fecharegistro>2019-12-19</fecharegistro>
+		<identidad>7909</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA AMPA PUREZA</nombre>
+		<anoconstitucion>2019</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>BALONCESTO</modalidadprincipal>
+		<otramodalidad>NATACIÓN,GIMNASIA,FÚTBOL</otramodalidad>
+		<latwgs84>43.2638928</latwgs84>
+		<lonwgs84>-2.9454293</lonwgs84>
+		<direccion>Avda Sabino Arana,5</direccion>
+		<municipio>BILBAO</municipio>
+		<codmunicipio>20</codmunicipio>
+		<codigopostal>48013</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>669816676</telefono>
+	</row>
+	<row num="225">
+		<idregistro>AD0006325</idregistro>
+		<fecharegistro>2016-05-30</fecharegistro>
+		<identidad>7173</identidad>
+		<nombre>MUNRAE KIROL ELKARTEA</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AUTOMOVILISMO</modalidadprincipal>
+		<latwgs84>43.3560773</latwgs84>
+		<lonwgs84>-2.8524702</lonwgs84>
+		<direccion>LANDETXO ,6,BAJO</direccion>
+		<municipio>MUNGIA</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>48100</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>615760265</telefono>
+		<email>mungiaracing@hotmail.es</email>
+	</row>
+	<row num="226">
+		<idregistro>AD0000729</idregistro>
+		<fecharegistro>1998-11-03</fecharegistro>
+		<identidad>5522</identidad>
+		<nombre>A. D. ASOCIACION CULTURAL DEPORTIVA ARKI DE FUTBOL</nombre>
+		<anoconstitucion>1998</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>42.8458021</latwgs84>
+		<lonwgs84>-2.663955800000001</lonwgs84>
+		<direccion>OLAGUIBEL,45,1º IZ.</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01003</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>945282031</telefono>
+	</row>
+	<row num="227">
+		<idregistro>AD0006415</idregistro>
+		<fecharegistro>2016-09-09</fecharegistro>
+		<identidad>7222</identidad>
+		<nombre>AGRUPACIÓN DEPORTIVA BIXARAIN XAKE ELKARTEA</nombre>
+		<anoconstitucion>2016</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AJEDREZ</modalidadprincipal>
+		<latwgs84>43.3090325</latwgs84>
+		<lonwgs84>-1.9065305</lonwgs84>
+		<direccion>CL  BERAUN,27,BAJO</direccion>
+		<municipio>ERRENTERIA</municipio>
+		<codmunicipio>67</codmunicipio>
+		<codigopostal>20100</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>679209962</telefono>
+		<email>sociedadberaunbera@gmail.com</email>
+	</row>
+	<row num="228">
+		<idregistro>AD0000808</idregistro>
+		<fecharegistro>2005-07-26</fecharegistro>
+		<identidad>5591</identidad>
+		<nombre>A.D. R.N.C. GOLF SAN SEBASTIAN BASOZABAL</nombre>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GOLF</modalidadprincipal>
+		<latwgs84>43.2878169</latwgs84>
+		<lonwgs84>-1.9644091</lonwgs84>
+		<direccion>CAMINO DE GOIAZTXIKI,41</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20014</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943472736</telefono>
+	</row>
+	<row num="229">
+		<idregistro>AD0000861</idregistro>
+		<fecharegistro>2009-07-16</fecharegistro>
+		<identidad>5649</identidad>
+		<nombre>AGRUPACION DEPORTIVA ERRENTERIAKO LANDARE EUSKAL PILOTA KIROL BAZKUNDEA</nombre>
+		<anoconstitucion>2009</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PELOTA VASCA</modalidadprincipal>
+		<latwgs84>43.3124991</latwgs84>
+		<lonwgs84>-1.9003095</lonwgs84>
+		<direccion>MARIA DE LEZO,3,BAJO</direccion>
+		<municipio>ERRENTERIA</municipio>
+		<codmunicipio>67</codmunicipio>
+		<codigopostal>20100</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943510315</telefono>
+		<fax>661804759</fax>
+		<email>arkaitztolosa@hotmail.com</email>
+	</row>
+	<row num="230">
+		<idregistro>AD0000760</idregistro>
+		<fecharegistro>2000-11-22</fecharegistro>
+		<identidad>5555</identidad>
+		<nombre>A.D. DE AUTOMOVILISMO R.A.C. VASCO NAVARRO EN GUIPUZCOA</nombre>
+		<anoconstitucion>2000</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>AUTOMOVILISMO</modalidadprincipal>
+		<latwgs84>43.3196141</latwgs84>
+		<lonwgs84>-1.9793927</lonwgs84>
+		<direccion>Pº DE LOS FUEROS,4</direccion>
+		<municipio>DONOSTIA-SAN SEBASTIÁN</municipio>
+		<codmunicipio>69</codmunicipio>
+		<codigopostal>20005</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>943430800</telefono>
+		<email>racvn@racvn.net</email>
+	</row>
+	<row num="231">
+		<idregistro>AD0006933</idregistro>
+		<fecharegistro>2020-02-14</fecharegistro>
+		<identidad>8037</identidad>
+		<nombre>BADOK 13 ZARAUZKO BETERANOEN ARRAUNKETA ELKARTEA</nombre>
+		<anoconstitucion>2020</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>REMO</modalidadprincipal>
+		<latwgs84>43.2806758</latwgs84>
+		<lonwgs84>-2.1697084</lonwgs84>
+		<direccion>ARABA KALEA,20,BJ</direccion>
+		<municipio>ZARAUTZ</municipio>
+		<codmunicipio>79</codmunicipio>
+		<codigopostal>20800</codigopostal>
+		<territoriohistorico>GIPUZKOA</territoriohistorico>
+		<codterritorio>20</codterritorio>
+		<telefono>688605770</telefono>
+		<email>dabidelustondo@gmail.com</email>
+	</row>
+	<row num="232">
+		<idregistro>AD0000790</idregistro>
+		<fecharegistro>2003-09-29</fecharegistro>
+		<identidad>5585</identidad>
+		<nombre>A.D. CULTURAL/RECREATIVA PEÑA ATHLETIC PIRU GAINZA</nombre>
+		<anoconstitucion>2003</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>FÚTBOL</modalidadprincipal>
+		<latwgs84>43.2383846</latwgs84>
+		<lonwgs84>-2.8817763</lonwgs84>
+		<direccion>LEON,15,BAJO</direccion>
+		<municipio>BASAURI</municipio>
+		<codmunicipio>15</codmunicipio>
+		<codigopostal>48970</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>656792573</telefono>
+		<email>tximu@tximu.com</email>
+	</row>
+	<row num="233">
+		<idregistro>AD0005323</idregistro>
+		<fecharegistro>2010-05-06</fecharegistro>
+		<identidad>5688</identidad>
+		<nombre>A.D. S MAS PADEL</nombre>
+		<anoconstitucion>2010</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>PADEL</modalidadprincipal>
+		<latwgs84>43.27844229999999</latwgs84>
+		<lonwgs84>-2.8564515</lonwgs84>
+		<direccion>POLIG. IND. TORRELARRAGOITI, II NAVES 1, 2 Y 3,2</direccion>
+		<municipio>ZAMUDIO</municipio>
+		<codmunicipio>905</codmunicipio>
+		<codigopostal>48170</codigopostal>
+		<territoriohistorico>BIZKAIA</territoriohistorico>
+		<codterritorio>48</codterritorio>
+		<telefono>944522177</telefono>
+		<email>info@esmaspadel.com</email>
+	</row>
+	<row num="234">
+		<idregistro>AD0006224</idregistro>
+		<fecharegistro>2015-12-01</fecharegistro>
+		<identidad>7106</identidad>
+		<nombre>AGRUPACION GIMNASIA 2015-RITMICA VITORIA</nombre>
+		<anoconstitucion>2015</anoconstitucion>
+		<utilidadpublica>No</utilidadpublica>
+		<modalidadprincipal>GIMNASIA</modalidadprincipal>
+		<latwgs84>42.8641647</latwgs84>
+		<lonwgs84>-2.6915367</lonwgs84>
+		<direccion>GETARIA,16,5,C</direccion>
+		<municipio>VITORIA-GASTEIZ</municipio>
+		<codmunicipio>59</codmunicipio>
+		<codigopostal>01010</codigopostal>
+		<territoriohistorico>ALAVA/ARABA</territoriohistorico>
+		<codterritorio>1</codterritorio>
+		<telefono>615743190</telefono>
+		<email>merenaga@clubritmicavitoria.com</email>
+	</row>
+</rows>

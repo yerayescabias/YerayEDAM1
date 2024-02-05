@@ -1,0 +1,74 @@
+<html>
+
+<head>
+  <title>Ej 23</title>
+  <style>
+    body{
+      background-image: url(../IMAGINAK/UDAZKENA2.png);
+      background-repeat: no-repeat;
+      background-position:  right 80px;
+      
+    }
+    .floren{
+      background-image: url(../IMAGINAK/udazkena.gif);
+      background-repeat: no-repeat;
+      background-position:  left;
+      padding-bottom: 70px;
+    } /*Para la segunda imagen hay que crear un class*/
+    body,html {
+      justify-content: center;
+      /*Para que vaya al centro todo*/
+      width: 800px;
+      height: 450px;
+      margin: auto;
+      /*Para que siempre tenga el height y el width con esos pixels*/
+
+    }
+
+    body>div>div>h1 {
+      /* En el h1 del div del div del body*/
+      color: aquamarine;
+      background-color: darkgrey;
+      padding: 20px;
+      text-align: center;
+    }
+
+    body>div>div>p {
+      padding: 4px 16px 2px 16px;
+    }
+
+    img {
+      padding-right: 10px;
+      /*Para que haya una distancia entre foto y texto*/
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <div style="margin:auto;margin-top: -25px;padding-top: 5px ;">
+    <div>
+      <h1>BEZEROAREN DATUAK</h1>
+    </div>
+
+    <div style="padding: -20px;"><img src="../imajinak/c8717efc-31eb-48fb-b01b-bdd1a43dfde1_alta-libre-aspect-ratio_default_0.jpg" width="300px"
+        height="auto" style="float: left;">
+      <!--Si pones el height en auto cogera los pixeles del width. El float es para esquinar la imagen-->
+      <p style="margin-right: 40px;">El Inter de Milán ejerce de local en el Estadio Giuseppe Meazza (también conocido por el nombre del barrio, San
+        Siro) desde 1947, y lo comparte con el A. C. Milan.el estadio es el más grande del fútbol italiano con una
+        capacidad de 75 923. Los colores que identifican al equipo son el negro con el azul, y han sid</p>
+    </div>
+
+
+    <div class="floren"><img src="../imajinak/florentino.jpg" width="200px" height="auto" style="clear:both; float:left; margin-left: 80px; margin-top: 20px;">
+      <!--Src es para las fotos href para links-->
+      <p style="margin-top: 150px;padding-top: 20px;">El Inter de Milán ejerce de local en el Estadio Giuseppe Meazza (también conocido
+        por el nombre del barrio, San
+        Siro) desde 1947, y lo comparte con el A. C. Milan.el estadio es el más grande del fútbol italiano con una
+        capacidad de 75 923. Los colores que identifican al equipo son el negro con el azul, y han sid</p>
+    </div>
+
+  </div>
+</body>
+</html>
