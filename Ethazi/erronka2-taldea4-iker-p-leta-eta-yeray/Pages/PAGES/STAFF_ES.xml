@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XSL/Staff_Members_ES.xsl"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2024-02-16T10:52:34">
+	<STAFF>
+		<Staff_Id>1234567890A</Staff_Id>
+		<Staff_Name>María</Staff_Name>
+		<Surname>García</Surname>
+		<Gmail>marigar@gmail.com</Gmail>
+		<Type>Psicologo</Type>
+		<Image>../images/psyc2.jpg</Image>
+		<Text>María es una psicóloga dedicada con 5 años de experiencia en la asociación. Disfruta leyendo y haciendo senderismo en su tiempo libre.</Text>	</STAFF>
+	<STAFF>
+		<Staff_Id>9876543210B</Staff_Id>
+		<Staff_Name>Gabriela</Staff_Name>
+		<Surname>Castro</Surname>
+		<Gmail>gabi67@gmail.com</Gmail>
+		<Type>Otros</Type>
+		<Image>../images/oth4.jpg</Image>
+        <Text>Gabriela, una miembro versátil, aporta un enfoque creativo a nuestro equipo. Con pasión por la pintura y el voluntariado, añade vitalidad a nuestros proyectos.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>4567890123C</Staff_Id>
+		<Staff_Name>Alejandro</Staff_Name>
+		<Surname>Pérez</Surname>
+		<Gmail>alpe@gmail.com</Gmail>
+		<Type>Psicologo</Type>
+		<Image>../images/psyc3.jpg</Image>
+        <Text>Alejandro es un psicólogo compasivo dedicado a ayudar a los demás. Con 3 años de servicio, aporta empatía y comprensión a su trabajo.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>3210987654D</Staff_Id>
+		<Staff_Name>Laura</Staff_Name>
+		<Surname>Martínez</Surname>
+		<Gmail>lamtinez@gmail.com</Gmail>
+		<Type>Otros</Type>
+		<Image>../images/oth3.jpg</Image>
+        <Text>Laura, una voluntaria dedicada, ha estado con nosotros durante 4 años. Disfruta de la jardinería y organiza eventos comunitarios para fomentar conexiones.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>5678901234E</Staff_Id>
+		<Staff_Name>Juan</Staff_Name>
+		<Surname>Ramírez</Surname>
+		<Gmail>ramiju89@gmail.com</Gmail>
+		<Type>Trabajador social</Type>
+		<Image>../images/sc2.jpg</Image>
+        <Text>Juan se compromete con el cuidado social, aportando calidez y empatía a sus interacciones. Ha sido una parte integral de nuestro equipo durante 2 años.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>2345678901F</Staff_Id>
+		<Staff_Name>Carlos</Staff_Name>
+		<Surname>Rodríguez</Surname>
+		<Gmail>carl145@gmail.com</Gmail>
+		<Type>Administrativo</Type>
+		<Image>../images/admin2.jpg</Image>
+        <Text>Carlos, nuestro eficiente personal administrativo, mantiene todo funcionando sin problemas. Con 3 años de servicio, asegura que nuestras operaciones estén bien organizadas.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>7890123456G</Staff_Id>
+		<Staff_Name>Valeria</Staff_Name>
+		<Surname>Torres</Surname>
+		<Gmail>valtor24@gmail.com</Gmail>
+		<Type>Otros</Type>
+		<Image>../images/oth2.jpg</Image>
+        <Text>Valeria aporta positividad y entusiasmo a nuestro equipo. Con experiencia en planificación de eventos y 2 años de servicio, añade alegría a nuestros proyectos.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>8901234567H</Staff_Id>
+		<Staff_Name>Luis</Staff_Name>
+		<Surname>Ruiz</Surname>
+		<Gmail>luri79@gmail.com</Gmail>
+		<Type>Administrativo</Type>
+		<Image>../images/admin1.jpg</Image>
+        <Text>Luis es un miembro confiable de nuestro equipo administrativo. Con atención al detalle y 4 años de experiencia, asegura que nuestra oficina funcione de manera eficiente.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>4567890123I</Staff_Id>
+		<Staff_Name>Sofia</Staff_Name>
+		<Surname>López</Surname>
+		<Gmail>soflo67@gmail.com</Gmail>
+		<Type>Doctor</Type>
+		<Image>../images/doc3.jpg</Image>
+        <Text>Sofía, una doctora dedicada, brinda atención a nuestros clientes. Experiencia en salud pública y 3 años de servicio, prioriza el bienestar de los pacientes.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>5678901567K</Staff_Id>
+		<Staff_Name>Daniel</Staff_Name>
+		<Surname>Mendoza</Surname>
+		<Gmail>danenloc3@gmail.com</Gmail>
+		<Type>Otros</Type>
+		<Image>../images/oth1.jpg</Image>
+        <Text>Daniel, un miembro dinámico, aporta energía y creatividad a nuestro equipo. Con pasión por la fotografía y 2 años de servicio, captura momentos memorables.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>7890156789L</Staff_Id>
+		<Staff_Name>Ana</Staff_Name>
+		<Surname>Flores</Surname>
+		<Gmail>anaflo2434@gmail.com</Gmail>
+		<Type>Trabajador social</Type>
+		<Image>../images/sc3.jpg</Image>
+        <Text>Ana es una trabajadora compasiva de cuidado social, dedicada a mejorar la vida de los demás. Con 3 años de servicio, se esfuerza al máximo para apoyar a nuestra comunidad.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>7890123456M</Staff_Id>
+		<Staff_Name>Diego</Staff_Name>
+		<Surname>Jiménez</Surname>
+		<Gmail>goji1414@gmail.com</Gmail>
+		<Type>Psicologo</Type>
+		<Image>../images/psyc1.jpg</Image>
+        <Text>Diego es un psicólogo dedicado, comprometido con la defensa de la salud mental. Con 5 años de experiencia, aporta empatía y comprensión a sus pacientes.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>1369674136B</Staff_Id>
+		<Staff_Name>Mauricio</Staff_Name>
+		<Surname>Temur</Surname>
+		<Gmail>maurict17@gmail.com</Gmail>
+		<Type>Trabajador social</Type>
+		<Image>../images/sc1.jpg</Image>
+        <Text>Mauricio es un trabajador de cuidado social conocido por su amabilidad y paciencia. Con 2 años de servicio, crea un entorno de apoyo para aquellos que lo necesitan.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>8465849452P</Staff_Id>
+		<Staff_Name>Ricardo</Staff_Name>
+		<Surname>Milos</Surname>
+		<Gmail>ricardomilos@gmail.com</Gmail>
+		<Type>Doctor</Type>
+		<Image>../images/doc2.jpg</Image>
+        <Text>Ricardo, nuestro médico experto, brinda atención médica de calidad con profesionalismo y cuidado. Con 4 años de experiencia, garantiza el bienestar de los pacientes.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>4196753183T</Staff_Id>
+		<Staff_Name>Rick</Staff_Name>
+		<Surname>Sanchez</Surname>
+		<Gmail>ricksanchez@gmail.com</Gmail>
+		<Type>Doctor</Type>
+		<Image>../images/doc1.jpg</Image>
+        <Text>Rick, nuestro médico dedicado, aporta experiencia y empatía a su práctica. Con 3 años de servicio, tiene un impacto significativo en nuestra comunidad.</Text>
+
+	</STAFF>
+	
+</dataroot>

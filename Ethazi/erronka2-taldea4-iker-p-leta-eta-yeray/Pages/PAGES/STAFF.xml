@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XSL/Staff_Members.xsl"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2024-02-16T10:52:34">
+	<STAFF>
+		<Staff_Id>1234567890A</Staff_Id>
+		<Staff_Name>María</Staff_Name>
+		<Surname>García</Surname>
+		<Gmail>marigar@gmail.com</Gmail>
+		<Type>Psycologist</Type>
+		<Image>../images/psyc2.jpg</Image>
+		<Text>María is a dedicated psychologist with 5 years of experience in the association. She enjoys reading and hiking in her free time.</Text>
+	</STAFF>
+	<STAFF>
+		<Staff_Id>9876543210B</Staff_Id>
+		<Staff_Name>Gabriela</Staff_Name>
+		<Surname>Castro</Surname>
+		<Gmail>gabi67@gmail.com</Gmail>
+		<Type>Others</Type>
+		<Image>../images/oth4.jpg</Image>
+		<Text>Gabriela, a versatile member, brings a creative approach to our team. With a passion for painting and volunteering, she adds vibrancy to our projects.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>4567890123C</Staff_Id>
+		<Staff_Name>Alejandro</Staff_Name>
+		<Surname>Pérez</Surname>
+		<Gmail>alpe@gmail.com</Gmail>
+		<Type>Psycologist</Type>
+		<Image>../images/psyc3.jpg</Image>
+		<Text>Alejandro is a compassionate psychologist dedicated to helping others. With 3 years of service, he brings empathy and understanding to his work.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>3210987654D</Staff_Id>
+		<Staff_Name>Laura</Staff_Name>
+		<Surname>Martínez</Surname>
+		<Gmail>lamtinez@gmail.com</Gmail>
+		<Type>Others</Type>
+		<Image>../images/oth3.jpg</Image>
+		<Text>Laura, a dedicated volunteer, has been with us for 4 years. She enjoys gardening and organizing community events to foster connections.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>5678901234E</Staff_Id>
+		<Staff_Name>Juan</Staff_Name>
+		<Surname>Ramírez</Surname>
+		<Gmail>ramiju89@gmail.com</Gmail>
+		<Type>Social Care</Type>
+		<Image>../images/sc2.jpg</Image>
+		<Text>Juan is committed to social care, bringing warmth and empathy to his interactions. He has been an integral part of our team for 2 years.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>2345678901F</Staff_Id>
+		<Staff_Name>Carlos</Staff_Name>
+		<Surname>Rodríguez</Surname>
+		<Gmail>carl145@gmail.com</Gmail>
+		<Type>Administrative</Type>
+		<Image>../images/admin2.jpg</Image>
+		<Text>Carlos, our efficient administrative staff, keeps everything running smoothly. With 3 years of service, he ensures our operations are well-organized.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>7890123456G</Staff_Id>
+		<Staff_Name>Valeria</Staff_Name>
+		<Surname>Torres</Surname>
+		<Gmail>valtor24@gmail.com</Gmail>
+		<Type>Others</Type>
+		<Image>../images/oth2.jpg</Image>
+		<Text>Valeria brings positivity and enthusiasm to our team. With a background in event planning and 2 years of service, she adds joy to our projects.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>8901234567H</Staff_Id>
+		<Staff_Name>Luis</Staff_Name>
+		<Surname>Ruiz</Surname>
+		<Gmail>luri79@gmail.com</Gmail>
+		<Type>Administrative</Type>
+		<Image>../images/admin1.jpg</Image>
+		<Text>Luis is a reliable member of our administrative team. With attention to detail and 4 years of experience, he ensures our office functions efficiently.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>4567890123I</Staff_Id>
+		<Staff_Name>Sofia</Staff_Name>
+		<Surname>López</Surname>
+		<Gmail>soflo67@gmail.com</Gmail>
+		<Type>Doctor</Type>
+		<Image>../images/doc3.jpg</Image>
+		<Text>Sofia, a dedicated doctor, provides compassionate care to our clients. With a background in public health and 3 years of service, she prioritizes patient well-being.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>5678901567K</Staff_Id>
+		<Staff_Name>Daniel</Staff_Name>
+		<Surname>Mendoza</Surname>
+		<Gmail>danenloc3@gmail.com</Gmail>
+		<Type>Others</Type>
+		<Image>../images/oth1.jpg</Image>
+		<Text>Daniel, a dynamic member, brings energy and creativity to our team. With a passion for photography and 2 years of service, he captures memorable moments.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>7890156789L</Staff_Id>
+		<Staff_Name>Ana</Staff_Name>
+		<Surname>Flores</Surname>
+		<Gmail>anaflo2434@gmail.com</Gmail>
+		<Type>Social Care</Type>
+		<Image>../images/sc3.jpg</Image>
+		<Text>Ana is a compassionate social care worker, dedicated to improving the lives of others. With 3 years of service, she goes above and beyond to support our community.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>7890123456M</Staff_Id>
+		<Staff_Name>Diego</Staff_Name>
+		<Surname>Jiménez</Surname>
+		<Gmail>goji1414@gmail.com</Gmail>
+		<Type>Psycologist</Type>
+		<Image>../images/psyc1.jpg</Image>
+		<Text>Diego is a dedicated psychologist, committed to mental health advocacy. With 5 years of experience, he brings empathy and understanding to his clients.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>1369674136B</Staff_Id>
+		<Staff_Name>Mauricio</Staff_Name>
+		<Surname>Temur</Surname>
+		<Gmail>maurict17@gmail.com</Gmail>
+		<Type>Social Care</Type>
+		<Image>../images/sc1.jpg</Image>
+		<Text>Mauricio is a caring social care worker, known for his kindness and patience. With 2 years of service, he creates a supportive environment for those in need.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>8465849452P</Staff_Id>
+		<Staff_Name>Ricardo</Staff_Name>
+		<Surname>Milos</Surname>
+		<Gmail>ricardomilos@gmail.com</Gmail>
+		<Type>Doctor</Type>
+		<Image>../images/doc2.jpg</Image>
+		<Text>Ricardo, our skilled doctor, provides quality healthcare with professionalism and care. With 4 years of experience, he ensures patient well-being.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>4196753183T</Staff_Id>
+		<Staff_Name>Rick</Staff_Name>
+		<Surname>Sanchez</Surname>
+		<Gmail>ricksanchez@gmail.com</Gmail>
+		<Type>Doctor</Type>
+		<Image>../images/doc1.jpg</Image>
+		<Text>Rick, our dedicated doctor, brings expertise and empathy to his practice. With 3 years of service, he makes a meaningful impact on our community.</Text>
+
+	</STAFF>
+	
+</dataroot>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XSL/Staff_Members_EU.xsl"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2024-02-16T10:52:34">
+	<STAFF>
+		<Staff_Id>1234567890A</Staff_Id>
+		<Staff_Name>María</Staff_Name>
+		<Surname>García</Surname>
+		<Gmail>marigar@gmail.com</Gmail>
+		<Type>Psikologoa</Type>
+		<Image>../images/psyc2.jpg</Image>
+		<Text>Maria elkartean 5 urteko esperientzia duen psikologoa da. Irakurtzen eta mendi-ibiliak egiten gozatzen du bere aisialdian.</Text>
+	</STAFF>
+	<STAFF>
+		<Staff_Id>9876543210B</Staff_Id>
+		<Staff_Name>Gabriela</Staff_Name>
+		<Surname>Castro</Surname>
+		<Gmail>gabi67@gmail.com</Gmail>
+		<Type>Bestelakoak</Type>
+		<Image>../images/oth4.jpg</Image>
+		<Text>Gabrielak ikuspegi sortzailea ematen dio gure taldeari. Margotzeko eta bolondres izateko grinarekin, gure proiektuei bizitasuna gehitzen die.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>4567890123C</Staff_Id>
+		<Staff_Name>Alejandro</Staff_Name>
+		<Surname>Pérez</Surname>
+		<Gmail>alpe@gmail.com</Gmail>
+		<Type>Psikologoa</Type>
+		<Image>../images/psyc3.jpg</Image>
+		<Text>Alejandro psikologoa da, besteei laguntzen diena. 3 urteko zerbitzuarekin enpatia eta ulermena ematen dio bere lanari.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>3210987654D</Staff_Id>
+		<Staff_Name>Laura</Staff_Name>
+		<Surname>Martínez</Surname>
+		<Gmail>lamtinez@gmail.com</Gmail>
+		<Type>Bestelakoak</Type>
+		<Image>../images/oth3.jpg</Image>
+		<Text>Laurak, bolondres sutsuak, 4 urte daramatza gurekin. Lorezaintza eta ekitaldi komunitarioak antolatzen ditu harremanak sustatzeko.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>5678901234E</Staff_Id>
+		<Staff_Name>Juan</Staff_Name>
+		<Surname>Ramírez</Surname>
+		<Gmail>ramiju89@gmail.com</Gmail>
+		<Type>Gizarte Langilea</Type>
+		<Image>../images/sc2.jpg</Image>
+        <Text>Juanek konpromisoa hartzen du zaintza sozialarekin, berotasuna eta enpatia emanez bere elkarreraginei. Gure lantaldearen zati integrala izan da 2 urtez.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>2345678901F</Staff_Id>
+		<Staff_Name>Carlos</Staff_Name>
+		<Surname>Rodríguez</Surname>
+		<Gmail>carl145@gmail.com</Gmail>
+		<Type>Administraria</Type>
+		<Image>../images/admin2.jpg</Image>
+        <Text>Carlosek, gure langile administratibo eraginkorrak, arazorik gabe funtzionatzen du. 3 urteko zerbitzuarekin, ziurtatzen du gure eragiketak ondo antolatuta daudela.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>7890123456G</Staff_Id>
+		<Staff_Name>Valeria</Staff_Name>
+		<Surname>Torres</Surname>
+		<Gmail>valtor24@gmail.com</Gmail>
+		<Type>Bestelakoak</Type>
+		<Image>../images/oth2.jpg</Image>
+        <Text>Valeriak positibotasuna eta berotasuna ematen dizkio gure taldeari. Ekitaldien plangintzan eta 2 urteko zerbitzuan esperientzia izanik, gure proiektuei poza gehitzen dizkio.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>8901234567H</Staff_Id>
+		<Staff_Name>Luis</Staff_Name>
+		<Surname>Ruiz</Surname>
+		<Gmail>luri79@gmail.com</Gmail>
+		<Type>Administraria</Type>
+		<Image>../images/admin1.jpg</Image>
+        <Text>Luis gure administrazio-taldeko kide fidagarria da. Xehetasunez eta 4 urteko esperientziaz, ziurtatzen du gure bulegoak modu eraginkorrean funtzionatzen duela.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>4567890123I</Staff_Id>
+		<Staff_Name>Sofia</Staff_Name>
+		<Surname>López</Surname>
+		<Gmail>soflo67@gmail.com</Gmail>
+		<Type>Medikua</Type>
+		<Image>../images/doc3.jpg</Image>
+        <Text>Sofia doktoreak arreta errukiorra eskaintzen die gure bezeroei. Osasun publikoan eta 3 urteko zerbitzuan esperientzia izanik, lehentasuna ematen dio pazienteen ongizateari.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>5678901567K</Staff_Id>
+		<Staff_Name>Daniel</Staff_Name>
+		<Surname>Mendoza</Surname>
+		<Gmail>danenloc3@gmail.com</Gmail>
+		<Type>Bestelakoak</Type>
+		<Image>../images/oth1.jpg</Image>
+        <Text>Danielek energia eta sormena ematen dizkio gure taldeari. Argazkigintzan aditua da eta 2 urteko zerbitzuarekin, une gogoangarriak atzematen ditu.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>7890156789L</Staff_Id>
+		<Staff_Name>Ana</Staff_Name>
+		<Surname>Flores</Surname>
+		<Gmail>anaflo2434@gmail.com</Gmail>
+		<Type>Gizarte Langilea</Type>
+		<Image>../images/sc3.jpg</Image>
+        <Text>Ana zaintza sozialeko langile errukiorra da, besteen bizitza hobetzen duena. 3 urteko zerbitzuarekin, ahalik eta gehien ahalegintzen da gure komunitateari laguntzeko.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>7890123456M</Staff_Id>
+		<Staff_Name>Diego</Staff_Name>
+		<Surname>Jiménez</Surname>
+		<Gmail>goji1414@gmail.com</Gmail>
+		<Type>Psikologoa</Type>
+		<Image>../images/psyc1.jpg</Image>
+        <Text>Diego psikologo arduratsua da, osasun mentalaren defentsarekin konprometitua. 5 urteko esperientzia izanik, enpatia eta ulermena ematen die pazienteei.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>1369674136B</Staff_Id>
+		<Staff_Name>Mauricio</Staff_Name>
+		<Surname>Temur</Surname>
+		<Gmail>maurict17@gmail.com</Gmail>
+		<Type>Gizarte Langilea</Type>
+		<Image>../images/sc1.jpg</Image>
+        <Text>Mauricio gizarte-zaintzako langilea da, bere adeitasunagatik eta pazientziagatik ezaguna. 2 urteko zerbitzuarekin, laguntza-ingurune bat sortzen du behar dutenentzat.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>8465849452P</Staff_Id>
+		<Staff_Name>Ricardo</Staff_Name>
+		<Surname>Milos</Surname>
+		<Gmail>ricardomilos@gmail.com</Gmail>
+		<Type>Medikua</Type>
+		<Image>../images/doc2.jpg</Image>
+        <Text>Ricardo, gure mediku adituak, kalitatezko arreta medikoa ematen du. 4 urteko esperientziarekin, pazienteen ongizatea bermatzen du.</Text>
+
+	</STAFF>
+	<STAFF>
+		<Staff_Id>4196753183T</Staff_Id>
+		<Staff_Name>Rick</Staff_Name>
+		<Surname>Sanchez</Surname>
+		<Gmail>ricksanchez@gmail.com</Gmail>
+		<Type>Medikua</Type>
+		<Image>../images/doc1.jpg</Image>
+        <Text>Rickek, gure mediku landuak, esperientzia eta enpatia ematen dizkio bere jardunari. 3 urteko zerbitzuarekin, eragin nabarmena du gure erkidegoan.</Text>
+
+	</STAFF>
+	
+</dataroot>
