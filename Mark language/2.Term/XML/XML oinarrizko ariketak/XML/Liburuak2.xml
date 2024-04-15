@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Liburutegia>
+	<Liburua>
+		<Izenburua>Obabakoak</Izenburua>
+		<idazlea>Bernardo Atxaga	</idazlea>
+		<prezio>10.00</prezio>
+		<isbn>9788466332309</isbn>
+		
+		
+	
+	</Liburua>
+	<Liburua>
+		<Izenburua>El problema Final</Izenburua>
+		<idazlea>Arturo Perez Reverte</idazlea>
+		<idazlea>Carlos Ruiz Zafon </idazlea>
+		<isbn>9788420476360</isbn>
+		<prezio>20.80</prezio>
+		
+	
+	</Liburua>
+	<Liburua>
+		<Izenburua>EL ARTE DE LA GUERRA</Izenburua>
+		<idazlea>Sun Tzu</idazlea>
+		<prezio>8.00</prezio>
+		
+	
+	</Liburua>
+	<Liburua>
+		<Izenburua>ELA ARMADURA DE LA LUZ</Izenburua>
+		<idazlea>Ken Follet</idazlea>
+		<isbn>9788494709203</isbn>
+		<prezio>9.00</prezio>
+		<prezio>9.50</prezio>
+	
+	</Liburua>
+	<Liburua>
+		<Izenburua>Meditaciones</Izenburua>
+		<idazlea>Marco Aurelio</idazlea>
+		<isbn>9788494709203</isbn>
+
+	</Liburua>
+	
+
+</Liburutegia>

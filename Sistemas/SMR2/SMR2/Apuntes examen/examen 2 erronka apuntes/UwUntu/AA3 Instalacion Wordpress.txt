@@ -1,0 +1,33 @@
+apt update && apt install mysql-server php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl
+
+mysql -u root
+
+status
+
+CREATE DATABASE wordpress;
+
+CREATE USER 'wordpress_user'@'localhost' IDENTIFIED BY 'superpassword';
+
+GRANT ALL ON wordpress.* to 'wordpress_user'@'localhost';
+
+exit
+
+apt install apache2
+
+a2enmod proxy_fcgi
+
+a2enconf php7.4-fpm
+
+systemctl restart apache2
+
+cd /var/www
+
+wget https://wordpress.org/latest.tar.gz
+
+tar xzf latest.tar.gz
+
+mv html html-original
+
+mv wordpress html
+
+chown -R www-data html

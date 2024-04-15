@@ -1,0 +1,9 @@
+sudo nano /etc/netplan/00-installer-config.yaml
+
+--Pones la ip que quieras y pones este comando:
+
+sudo netplan apply
+
+--Para comprobar que este hecho:
+
+ip a

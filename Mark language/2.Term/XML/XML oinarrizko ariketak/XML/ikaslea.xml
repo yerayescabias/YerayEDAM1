@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Klasea>
+	<Ikasle>
+		<name>Iker</name>
+		<abizena>Palomares</abizena>
+		<mugikorra>665213498</mugikorra>
+		<jaoitzeData day="19" month="02" year="1999"></jaoitzeData>
+	
+	</Ikasle>
+	<Ikasle>
+		<name>Oier</name>
+		<abizena>Letamendia</abizena>
+		<mugikorra>632147895</mugikorra>
+		<jaoitzeData day="16" month="08" year="2002"></jaoitzeData>
+	
+	</Ikasle>
+	<Ikasle>
+		<name>Yeray</name>
+		<abizena>Escabias</abizena>
+		<mugikorra>698732541</mugikorra>
+		<jaoitzeData day="26" month="07" year="2005"></jaoitzeData>
+	
+	</Ikasle>
+	<Ikasle>
+		<name>Oier </name>
+		<abizena>Velardiez</abizena>
+		<mugikorra>653278913</mugikorra>
+		<jaoitzeData day="28" month="09" year="2004"></jaoitzeData>
+	
+	</Ikasle>
+
+</Klasea>

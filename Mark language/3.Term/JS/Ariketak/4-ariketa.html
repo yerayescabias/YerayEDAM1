@@ -1,0 +1,39 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<head/>
+<body>
+<script>
+	alert("Hau kalkulagailu bat da");
+	zenbaki=prompt("Sartu zenbaki bat");
+	zenbakibi=prompt("Sartu beste zenbaki bat");
+	zenbaki= parseFloat(zenbaki);
+	zenbakibi= parseFloat(zenbakibi);
+	aukeratu=prompt("Erabaki operazio bat:\n 1.Batuketa\n 2.Kenketa\n 3.Biderketa\n 4.Zatiketa");
+	switch (aukeratu){
+	
+	case "1":
+		var emaitza=zenbaki+zenbakibi;
+		document.write("Eragiketaren emaitza "+emaitza);
+		break;
+	case "2":
+		var emaitza=zenbaki-zenbakibi;
+		document.write("Eragiketaren emaitza "+emaitza);
+		break;
+	case "3":
+		var emaitza=zenbaki*zenbakibi;
+		document.write("Eragiketaren emaitza "+emaitza);
+		break;
+	case "4":
+		var emaitza=zenbaki/zenbakibi;
+		document.write("Eragiketaren emaitza "+emaitza);
+		break;
+	
+	default:
+	
+		alert("Sartutako balioa ez da egokia");
+		break;
+	}
+	
+</script>
+</body>
+</html>

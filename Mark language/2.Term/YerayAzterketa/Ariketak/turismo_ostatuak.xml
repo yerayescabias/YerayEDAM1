@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="Turismoostatuak.xsl"?>
+<rows>
+	<row num="1">
+		<documentName>Semana en agroturismo junto a Vitoria-Gasteiz</documentName>
+		<documentDescription>Disfruta de la oferta que el agroturismo Behitegi ha preparado para ti. Reserva tu estancia de si...</documentDescription>
+		<eventSearchDate1>20.200.101,0</eventSearchDate1>
+		<eventSearchDate2>20.211.231,0</eventSearchDate2>
+		<importance>0</importance>
+		<parentcorec>16.622</parentcorec>
+		<marks>Montes y Valles vascos</marks>
+		<templateType>M2</templateType>
+		<eventtargetgroup>Familias y Parejas Extranjeros/as - No residentes</eventtargetgroup>
+		<latitudelongitude>42.91750924,-2.71048045</latitudelongitude>
+		<latwgs84>42.91750924</latwgs84>
+		<lonwgs84>-2.71048045</lonwgs84>
+		<municipality>Zigoitia</municipality>
+		<municipalitycode>18</municipalitycode>
+		<territory>Araba/Álava</territory>
+		<territorycode>1</territorycode>
+		<country>España</country>
+		<countrycode>108</countrycode>
+		<friendlyUrl>https://turismoa.euskadi.eus/es/ofertas/semana-en-agroturismo-junto-a-vitoria-gasteiz/aa30-12375/es/</friendlyUrl>
+		<physicalUrl>https://turismoa.euskadi.eus/aa30-12375/es/contenidos/evento/0000050363_m2_rec_turismo/es_50363/50363.html</physicalUrl>
+		<dataXML>https://turismoa.euskadi.eus/contenidos/evento/0000050363_m2_rec_turismo/es_50363/data/es_r01dpd0138484f5db017cdf809aaa1e48bca141f3</dataXML>
+		<metadataXML>https://turismoa.euskadi.eus/contenidos/evento/0000050363_m2_rec_turismo/r01Index/0000050363_m2_rec_turismo-idxContent.xml</metadataXML>
+		<zipFile>https://turismoa.euskadi.eus/contenidos/evento/0000050363_m2_rec_turismo/opendata/0000050363_m2_rec_turismo.zip</zipFile>
+	</row>
+	<row num="2">
+		<documentName>Habitación individual para empresas junto a Vitoria-Gasteiz</documentName>
+		<documentDescription>El agroturismo Behitegi le ofrece una oferta para sus desplazamientos de viajes de negocios a la ...</documentDescription>
+		<eventSearchDate1>20.200.101,0</eventSearchDate1>
+		<eventSearchDate2>20.211.231,0</eventSearchDate2>
+		<importance>0</importance>
+		<parentcorec>16.622</parentcorec>
+		<marks>Montes y Valles vascos</marks>
+		<templateType>M2</templateType>
+		<eventtargetgroup>Familias y Parejas Extranjeros/as - No residentes</eventtargetgroup>
+		<latitudelongitude>42.91750924,-2.71048045</latitudelongitude>
+		<latwgs84>42.91750924</latwgs84>
+		<lonwgs84>-2.71048045</lonwgs84>
+		<municipality>Zigoitia</municipality>
+		<municipalitycode>18</municipalitycode>
+		<territory>Araba/Álava</territory>
+		<territorycode>1</territorycode>
+		<country>España</country>
+		<countrycode>108</countrycode>
+		<friendlyUrl>https://turismoa.euskadi.eus/es/ofertas/habitacion-individual-para-empresas-junto-a-vitoria-gasteiz/aa30-12375/es/</friendlyUrl>
+		<physicalUrl>https://turismoa.euskadi.eus/aa30-12375/es/contenidos/evento/0000050622_m2_rec_turismo/es_50622/50622.html</physicalUrl>
+		<dataXML>https://turismoa.euskadi.eus/contenidos/evento/0000050622_m2_rec_turismo/es_50622/data/es_r01dpd0138993bd46613b2f56bd26070cf0327b5d</dataXML>
+		<metadataXML>https://turismoa.euskadi.eus/contenidos/evento/0000050622_m2_rec_turismo/r01Index/0000050622_m2_rec_turismo-idxContent.xml</metadataXML>
+		<zipFile>https://turismoa.euskadi.eus/contenidos/evento/0000050622_m2_rec_turismo/opendata/0000050622_m2_rec_turismo.zip</zipFile>
+	</row>
+	<row num="3">
+		<documentName>Visitas guiadas a las Cuevas de Arrikrutz en Oñati</documentName>
+		<documentDescription>Situada en las proximidades del Santuario de Arantzazu y bajo el macizo de Aizkorri, esta cueva s...</documentDescription>
+		<eventSearchDate1>20.210.301,0</eventSearchDate1>
+		<eventSearchDate2>20.211.231,0</eventSearchDate2>
+		<importance>0</importance>
+		<parentcorec>2.850</parentcorec>
+		<marks>Montes y Valles vascos</marks>
+		<templateType>M2</templateType>
+		<eventtargetgroup>Familias y Parejas Extranjeros/as - No residentes</eventtargetgroup>
+		<latitudelongitude>43.032961,-2.4157016999999996</latitudelongitude>
+		<latwgs84>43.032961</latwgs84>
+		<lonwgs84>-2.4157016999999996</lonwgs84>
+		<municipality>Oñati</municipality>
+		<municipalitycode>59</municipalitycode>
+		<territory>Gipuzkoa</territory>
+		<territorycode>20</territorycode>
+		<country>España</country>
+		<countrycode>108</countrycode>
+		<friendlyUrl>https://turismoa.euskadi.eus/es/ofertas/visitas-guiadas-a-las-cuevas-de-arrikrutz-en-onati/aa30-12375/es/</friendlyUrl>
+		<physicalUrl>https://turismoa.euskadi.eus/aa30-12375/es/contenidos/evento/0000085801_m2_rec_turismo/es_85801/85801.html</physicalUrl>
+		<dataXML>https://turismoa.euskadi.eus/contenidos/evento/0000085801_m2_rec_turismo/es_85801/data/es_r01dtpd15597ccf08e1bd440ee1e9a8b0591e939c3</dataXML>
+		<metadataXML>https://turismoa.euskadi.eus/contenidos/evento/0000085801_m2_rec_turismo/r01Index/0000085801_m2_rec_turismo-idxContent.xml</metadataXML>
+		<zipFile>https://turismoa.euskadi.eus/contenidos/evento/0000085801_m2_rec_turismo/opendata/0000085801_m2_rec_turismo.zip</zipFile>
+	</row>
+	<row num="4">
+		<documentName>Disfruta durante la temporada baja de los mejores precios</documentName>
+		<documentDescription>Disfruta durante toda la temporada baja de un precio especial en El Roble Verde. El camping est...</documentDescription>
+		<eventSearchDate1>20.200.310,0</eventSearchDate1>
+		<eventSearchDate2>20.200.618,0</eventSearchDate2>
+		<importance>0</importance>
+		<parentcorec>41.941</parentcorec>
+		<marks>Montes y Valles vascos</marks>
+		<templateType>M2</templateType>
+		<eventtargetgroup>Familias y Parejas Extranjeros/as - No residentes</eventtargetgroup>
+		<latitudelongitude>42.794922,-2.8772000634764936</latitudelongitude>
+		<latwgs84>42.794922</latwgs84>
+		<lonwgs84>-2.8772000634764936</lonwgs84>
+		<municipality>Erriberagoitia/Ribera Alta</municipality>
+		<municipalitycode>46</municipalitycode>
+		<territory>Araba/Álava</territory>
+		<territorycode>1</territorycode>
+		<country>España</country>
+		<countrycode>108</countrycode>
+		<physicalUrl>https://turismoa.euskadi.eus/aa30-12375/es/contenidos/evento/0000091161_m2_rec_turismo/es_91161/91161.html</physicalUrl>
+		<dataXML>https://turismoa.euskadi.eus/contenidos/evento/0000091161_m2_rec_turismo/es_91161/data/es_r01dtpd15b2eb38e8a1ac6a8b7698111760a3b1fc3</dataXML>
+		<metadataXML>https://turismoa.euskadi.eus/contenidos/evento/0000091161_m2_rec_turismo/r01Index/0000091161_m2_rec_turismo-idxContent.xml</metadataXML>
+		<zipFile>https://turismoa.euskadi.eus/contenidos/evento/0000091161_m2_rec_turismo/opendata/0000091161_m2_rec_turismo.zip</zipFile>
+	</row>
+	<row num="5">
+		<documentName>Visitas guiadas en Oñati</documentName>
+		<documentDescription>Descubre Oñati con una visita guiada de la Universidad Sancti Spiritus y la Parroquia de S...</documentDescription>
+		<eventSearchDate1>20.191.206,0</eventSearchDate1>
+		<eventSearchDate2>20.191.208,0</eventSearchDate2>
+		<importance>0</importance>
+		<parentcorec>2.850</parentcorec>
+		<marks>Montes y Valles vascos</marks>
+		<templateType>M2</templateType>
+		<eventtargetgroup>Familias y Parejas Extranjeros/as - No residentes</eventtargetgroup>
+		<municipality>Oñati</municipality>
+		<municipalitycode>59</municipalitycode>
+		<territory>Gipuzkoa</territory>
+		<territorycode>20</territorycode>
+		<country>España</country>
+		<countrycode>108</countrycode>
+		<friendlyUrl>https://turismoa.euskadi.eus/es/ofertas/visitas-guiadas-en-onati-2019/aa30-12375/es/</friendlyUrl>
+		<physicalUrl>https://turismoa.euskadi.eus/aa30-12375/es/contenidos/evento/0000204553_m2_rec_turismo/es_204553/204553.html</physicalUrl>
+		<dataXML>https://turismoa.euskadi.eus/contenidos/evento/0000204553_m2_rec_turismo/es_204553/data/es_r01dtpd1698238efb71c22067edeb7f3c40181d0fe</dataXML>
+		<metadataXML>https://turismoa.euskadi.eus/contenidos/evento/0000204553_m2_rec_turismo/r01Index/0000204553_m2_rec_turismo-idxContent.xml</metadataXML>
+		<zipFile>https://turismoa.euskadi.eus/contenidos/evento/0000204553_m2_rec_turismo/opendata/0000204553_m2_rec_turismo.zip</zipFile>
+	</row>
+	<row num="6">
+		<documentName>Casa rural completa para 14 personas</documentName>
+		<documentDescription>La casa rural Mahasti está ubicada en Gatika, a pocos minutos del impresionante Castillo d...</documentDescription>
+		<eventSearchDate1>20.200.106,0</eventSearchDate1>
+		<eventSearchDate2>20.200.315,0</eventSearchDate2>
+		<importance>0</importance>
+		<parentcorec>90.482</parentcorec>
+		<marks>Montes y Valles vascos</marks>
+		<templateType>M2</templateType>
+		<eventtargetgroup>Familias y Parejas Extranjeros/as - No residentes</eventtargetgroup>
+		<latitudelongitude>43.37090860289109,-2.9198939966033843</latitudelongitude>
+		<latwgs84>43.37090860289109</latwgs84>
+		<lonwgs84>-2.9198939966033843</lonwgs84>
+		<municipality>Gatika</municipality>
+		<municipalitycode>40</municipalitycode>
+		<territory>Bizkaia</territory>
+		<territorycode>48</territorycode>
+		<country>España</country>
+		<countrycode>108</countrycode>
+		<friendlyUrl>https://turismoa.euskadi.eus/es/ofertas/casa-completa-14-personas/aa30-12375/es/</friendlyUrl>
+		<physicalUrl>https://turismoa.euskadi.eus/aa30-12375/es/contenidos/evento/0000207821_m2_rec_turismo/es_207821/207821.html</physicalUrl>
+		<dataXML>https://turismoa.euskadi.eus/contenidos/evento/0000207821_m2_rec_turismo/es_207821/data/es_r01dtpd1700fdfd6801a49d56948efd2a103bda01f</dataXML>
+		<metadataXML>https://turismoa.euskadi.eus/contenidos/evento/0000207821_m2_rec_turismo/r01Index/0000207821_m2_rec_turismo-idxContent.xml</metadataXML>
+		<zipFile>https://turismoa.euskadi.eus/contenidos/evento/0000207821_m2_rec_turismo/opendata/0000207821_m2_rec_turismo.zip</zipFile>
+	</row>
+	<row num="7">
+		<documentName>2 noches en familia (4 pax) con los animales de la granja</documentName>
+		<documentDescription>La oferta es para una familia de 4 personas. Se alojará un mínimo de 2 noches, Incluido en oferta...</documentDescription>
+		<eventSearchDate1>20.200.205,0</eventSearchDate1>
+		<eventSearchDate2>20.200.315,0</eventSearchDate2>
+		<importance>0</importance>
+		<parentcorec>35.001</parentcorec>
+		<templateType>M2</templateType>
+		<eventtargetgroup>Familias y Parejas Extranjeros/as - No residentes</eventtargetgroup>
+		<municipality>Vitoria-Gasteiz</municipality>
+		<municipalitycode>59</municipalitycode>
+		<territory>Araba/Álava</territory>
+		<territorycode>1</territorycode>
+		<country>España</country>
+		<countrycode>108</countrycode>
+		<friendlyUrl>https://turismoa.euskadi.eus/es/ofertas/familia-la-granja-de-vitoria/aa30-12375/es/</friendlyUrl>
+		<physicalUrl>https://turismoa.euskadi.eus/aa30-12375/es/contenidos/evento/0000207873_m2_rec_turismo/es_207873/207873.html</physicalUrl>
+		<dataXML>https://turismoa.euskadi.eus/contenidos/evento/0000207873_m2_rec_turismo/es_207873/data/es_r01dtpd1701784fd681a49d569b5f3289cece2e71f</dataXML>
+		<metadataXML>https://turismoa.euskadi.eus/contenidos/evento/0000207873_m2_rec_turismo/r01Index/0000207873_m2_rec_turismo-idxContent.xml</metadataXML>
+		<zipFile>https://turismoa.euskadi.eus/contenidos/evento/0000207873_m2_rec_turismo/opendata/0000207873_m2_rec_turismo.zip</zipFile>
+	</row>
+</rows>

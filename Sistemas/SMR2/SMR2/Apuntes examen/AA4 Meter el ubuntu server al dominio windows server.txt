@@ -1,0 +1,59 @@
+Paso 4
+
+"En Ubuntu abrimos la terminal y haremos ping a la IP del servidor Windows Server 2022, en este caso:"
+
+ping 192.168.150.144
+
+Paso 6
+
+"Actualizamos el sistema Ubuntu con el comando:"
+
+sudo apt update
+
+Paso 7
+
+sudo apt install realmd sssd sssd-tools samba-common krb5-user packagekit samba-common-bin samba-libs adcli ntp
+
+Paso 8
+
+Ponemos el nombre de nuestro dominio
+
+Paso 16
+
+"Es momento de unir Ubuntu a Windows Server 2022, para ello usaremos la siguiente sintaxis:"
+
+sudo realm join "dominio o IP" -U 'Administrador' -v
+
+Paso 19
+
+"Vamos de nuevo a Ubuntu, ejecutamos "sudo nano /etc/realmd.conf" en la terminal y allí pegamos lo siguiente. Debemos cambiar el dominio según sea el usado para que todo funcione correctamente."
+
+[users]
+default-home = /home/%D/%U
+default-shell = /bin/bash
+[active-directory]
+default-client = sssd
+os-name = Ubuntu Desktop Linux
+os-version = 20.04
+[service]
+automatic-install = no
+[solvetic.com]
+fully-qualified-names = no
+automatic-id-mapping = yes
+user-principal = yes
+manage-system = no
+
+Paso 21
+
+"Lo que hemos creado es configurar realmd para que nos dé la posibilidad de detectar nuevos dominios.
+Ahora ejecutamos" "sudo nano /etc/pam.d/common-session":
+ 
+
+Ingresa lo siguiente al final:
+
+session required pam_unix.so
+session optional pam_winbind.so
+session optional pam_sss.so
+session optional pam_systemd.so
+session required pam_mkhomedir.so skel=/etc/skel/ umask=0077
+

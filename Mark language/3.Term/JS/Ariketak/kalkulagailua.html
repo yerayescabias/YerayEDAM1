@@ -1,0 +1,86 @@
+<html>
+<head>
+	<title>Untitled Document</title>
+</head>
+<body onload="hasieratu()" style="background-color:green">
+
+
+	<div style="margin:auto;width:300px	;">
+	<form style="background-color:grey;border: 10px blue">
+		<div style="padding:auto">
+		<h1 style="background-color:blue;color:white">KALKULAGAILUA</h1>
+		<input type="text" name="zenbaki" id="zenbaki" value="0" placeholder="Sartu lehenengo zenbakia" >
+		<br/>
+		<input type="text" name="zenbakia" id="zenbakia" value="0" placeholder="Sartu bigarren zenbakia">
+		<br/>
+		<input type="button" value="+" onclick="gehiketa()">
+		<input type="button" value="-" onclick="kenketa()">
+		<input type="button" value="*" onclick="biderketa()">
+		<input type="button" value="/" onclick="zatiketa()">
+		<input type="button" value="Egin beste eragiketa bat" onclick="hasieratu()">
+		<H1><b> EMAITZA:</b></h1>
+		<input type="text" id="emaitza" value="0" disabled>
+		<div>
+	
+	</form>
+	</div>
+	<script>
+	function hasieratu(){
+	
+		document.getElementById("zenbaki").value="0";
+		document.getElementById("zenbakia").value="0";
+		document.getElementById("emaitza").value="0";
+	}
+	function gehiketa(){
+		var zenbaki= parseInt(document.getElementById("zenbaki").value);
+		var zenbakia= parseInt(document.getElementById("zenbakia").value);
+		if(isNaN(zenbaki) || isNaN(zenbakia)) {
+				alert("Balio guztiak jarri behar dira");
+		}
+		else{
+
+			var emaitza=zenbaki + zenbakia;
+			document.getElementById("emaitza").value=emaitza;
+		}
+		
+	}
+	function kenketa(){
+		var zenbaki= parseInt(document.getElementById("zenbaki").value);
+		var zenbakia= parseInt(document.getElementById("zenbakia").value);
+		if(isNaN(zenbaki) || isNaN(zenbakia)) {
+				alert("Balio guztiak jarri behar dira");
+		}
+		else{
+			var emaitza=zenbaki - zenbakia;	
+			document.getElementById("emaitza").value=emaitza;
+		}
+	}
+
+	function biderketa(){
+		var zenbaki= parseInt(document.getElementById("zenbaki").value);
+		var zenbakia= parseInt(document.getElementById("zenbakia").value);
+		if(isNaN(zenbaki) || isNaN(zenbakia)) {
+				alert("Balio guztiak jarri behar dira");
+		}else{
+		var emaitza=zenbaki * zenbakia;
+		document.getElementById("emaitza").value=emaitza;
+		}
+	}
+	
+	function zatiketa(){
+		var zenbaki= parseInt(document.getElementById("zenbaki").value);
+		var zenbakia= parseInt(document.getElementById("zenbakia").value);
+		var emaitza=zenbaki / zenbakia;
+		if (isNaN(zenbaki) || isNaN(zenbakia)) {
+				alert("Balio guztiak jarri behar dira");
+		}
+		else if(zenbakia==0){
+			alert("Bigarren zenbakia ezin da zero izan");
+		}
+		else{
+		document.getElementById("emaitza").value=emaitza;
+		}
+	}
+</script>
+</body>
+</html>

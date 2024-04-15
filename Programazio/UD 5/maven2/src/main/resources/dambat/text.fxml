@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dambat.model.text">
+   <children>
+      <TextArea fx:id="area" layoutX="37.0" layoutY="74.0" prefHeight="277.0" prefWidth="317.0" />
+      <Button layoutX="368.0" layoutY="74.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="201.0" text="Datu Basera inportatu" onAction="#textua" />
+      <Button layoutX="520.0" layoutY="347.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="66.0" text="Atzera" onAction="#stage" />
+   </children>
+</Pane>

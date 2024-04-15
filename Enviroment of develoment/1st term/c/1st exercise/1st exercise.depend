@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1695384143 source:d:\dam\dam-1\enviroment of develoment\1st term\c\1st exercise\main.c
+	<stdio.h>
+
+1695384320 source:d:\dam\dam-1\enviroment of develoment\1st term\c\1st exercise\src\operation.cpp
+	"Operation.h"
+
+1695384319 d:\dam\dam-1\enviroment of develoment\1st term\c\1st exercise\include\operation.h
+
